@@ -1,0 +1,242 @@
+[
+  {
+    "categoryID": 0,
+    "name": "#System",
+    "published": false
+  },
+  {
+    "categoryID": 1,
+    "name": "Owner",
+    "published": false
+  },
+  {
+    "categoryID": 2,
+    "name": "Celestial",
+    "published": true
+  },
+  {
+    "categoryID": 3,
+    "name": "Station",
+    "published": false
+  },
+  {
+    "categoryID": 4,
+    "name": "Material",
+    "published": true
+  },
+  {
+    "categoryID": 5,
+    "name": "Accessories",
+    "published": true
+  },
+  {
+    "categoryID": 6,
+    "name": "Ship",
+    "published": true
+  },
+  {
+    "categoryID": 7,
+    "name": "Module",
+    "published": true
+  },
+  {
+    "categoryID": 8,
+    "name": "Charge",
+    "published": true
+  },
+  {
+    "categoryID": 9,
+    "name": "Blueprint",
+    "published": true
+  },
+  {
+    "categoryID": 10,
+    "name": "Trading",
+    "published": false
+  },
+  {
+    "categoryID": 11,
+    "name": "Entity",
+    "published": false
+  },
+  {
+    "categoryID": 14,
+    "name": "Bonus",
+    "published": false
+  },
+  {
+    "categoryID": 16,
+    "name": "Skill",
+    "published": true
+  },
+  {
+    "categoryID": 17,
+    "name": "Commodity",
+    "published": true
+  },
+  {
+    "categoryID": 18,
+    "name": "Drone",
+    "published": true
+  },
+  {
+    "categoryID": 20,
+    "name": "Implant",
+    "published": true
+  },
+  {
+    "categoryID": 22,
+    "name": "Deployable",
+    "published": true
+  },
+  {
+    "categoryID": 23,
+    "name": "Starbase",
+    "published": true
+  },
+  {
+    "categoryID": 24,
+    "name": "Reaction",
+    "published": true
+  },
+  {
+    "categoryID": 25,
+    "name": "Asteroid",
+    "published": true
+  },
+  {
+    "categoryID": 26,
+    "name": "WorldSpace",
+    "published": false
+  },
+  {
+    "categoryID": 29,
+    "name": "Abstract",
+    "published": false
+  },
+  {
+    "categoryID": 30,
+    "name": "Apparel",
+    "published": true
+  },
+  {
+    "categoryID": 32,
+    "name": "Subsystem",
+    "published": true
+  },
+  {
+    "categoryID": 34,
+    "name": "Ancient Relics",
+    "published": true
+  },
+  {
+    "categoryID": 35,
+    "name": "Decryptors",
+    "published": true
+  },
+  {
+    "categoryID": 39,
+    "name": "Infrastructure Upgrades",
+    "published": true
+  },
+  {
+    "categoryID": 40,
+    "name": "Sovereignty Structures",
+    "published": true
+  },
+  {
+    "categoryID": 41,
+    "name": "Planetary Industry",
+    "published": true
+  },
+  {
+    "categoryID": 42,
+    "name": "Planetary Resources",
+    "published": true
+  },
+  {
+    "categoryID": 43,
+    "name": "Planetary Commodities",
+    "published": true
+  },
+  {
+    "categoryID": 46,
+    "name": "Orbitals",
+    "published": true
+  },
+  {
+    "categoryID": 49,
+    "name": "Placeables",
+    "published": false
+  },
+  {
+    "categoryID": 53,
+    "name": "Effects",
+    "published": false
+  },
+  {
+    "categoryID": 54,
+    "name": "Lights",
+    "published": false
+  },
+  {
+    "categoryID": 59,
+    "name": "Cells",
+    "published": false
+  },
+  {
+    "categoryID": 63,
+    "name": "Special Edition Assets",
+    "published": true
+  },
+  {
+    "categoryID": 65,
+    "name": "Structure",
+    "published": true
+  },
+  {
+    "categoryID": 66,
+    "name": "Structure Module",
+    "published": true
+  },
+  {
+    "categoryID": 87,
+    "name": "Fighter",
+    "published": true
+  },
+  {
+    "categoryID": 91,
+    "name": "SKINs",
+    "published": true
+  },
+  {
+    "categoryID": 2100,
+    "name": "Expert Systems",
+    "published": true
+  },
+  {
+    "categoryID": 2107,
+    "name": "Mining",
+    "published": false
+  },
+  {
+    "categoryID": 2118,
+    "name": "Personalization",
+    "published": true
+  },
+  {
+    "categoryID": 2143,
+    "name": "Colony Resources",
+    "published": true
+  },
+  {
+    "categoryID": 2152,
+    "name": "QA and Dev Groups",
+    "published": false
+  },
+  {
+    "categoryID": 350001,
+    "name": "Infantry",
+    "published": false
+  }
+]
