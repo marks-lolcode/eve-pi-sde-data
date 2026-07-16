@@ -1,0 +1,83 @@
+# sde-refresh.yml — v1.0 — Last updated 2026-07-16 18:10 CT
+#
+# Downloads CCP's official SDE JSONL distribution, filters it to the small
+# set of tables the EVE PI Manager v2 Apps Script needs, and commits them as
+# compact JSON. Apps Script fetches the raw.githubusercontent.com URLs —
+# the full 94MB zip exceeds UrlFetchApp's response cap, so this repo is the
+# preprocessing layer.
+#
+# Runs weekly (EVE patches land Tuesdays) and on manual dispatch. Skips the
+# commit entirely when the live buildNumber matches sde/meta.json.
+
+name: Refresh SDE data
+
+on:
+  schedule:
+    - cron: "30 12 * * 2,4" # Tue+Thu 12:30 UTC, after CCP's usual patch window
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check live build number
+        id: build
+        run: |
+          LIVE=$(curl -sL "https://developers.eveonline.com/static-data/tranquility/latest.jsonl" | jq -r '.buildNumber')
+          STORED=$(jq -r '.buildNumber // 0' sde/meta.json 2>/dev/null || echo 0)
+          echo "live=$LIVE" >> "$GITHUB_OUTPUT"
+          echo "stored=$STORED" >> "$GITHUB_OUTPUT"
+          if [ "$LIVE" = "$STORED" ]; then
+            echo "Up to date (build $LIVE) - nothing to do."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "New build $LIVE (stored: $STORED) - refreshing."
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Download and extract SDE
+        if: steps.build.outputs.skip == 'false'
+        run: |
+          BUILD=${{ steps.build.outputs.live }}
+          curl -sL -o sde.zip "https://developers.eveonline.com/static-data/tranquility/eve-online-static-data-${BUILD}-jsonl.zip"
+          unzip -o sde.zip types.jsonl groups.jsonl categories.jsonl planetSchematics.jsonl
+
+      - name: Filter to PI-relevant compact JSON
+        if: steps.build.outputs.skip == 'false'
+        run: |
+          mkdir -p sde
+          BUILD=${{ steps.build.outputs.live }}
+
+          # types: slim fields, English names only (151MB -> ~4MB)
+          jq -c '{typeID: ._key, name: .name.en, groupID: .groupID, volume: (.volume // 0), published: (.published // false)}' types.jsonl | jq -s '.' > sde/types.json
+
+          # groups: id, category, English name
+          jq -c '{groupID: ._key, categoryID: .categoryID, name: .name.en, published: (.published // false)}' groups.jsonl | jq -s '.' > sde/groups.json
+
+          # categories: id, English name
+          jq -c '{categoryID: ._key, name: .name.en, published: (.published // false)}' categories.jsonl | jq -s '.' > sde/categories.json
+
+          # planetSchematics: keep structure, English name only.
+          # pins[] = facility type ids that can run the schematic (embedded pin map);
+          # types[] = {typeID, isInput, quantity} (isInput:false is the output).
+          jq -c '{schematicID: ._key, name: .name.en, cycleTime: .cycleTime, pins: .pins, types: [.types[] | {typeID: ._key, isInput: .isInput, quantity: .quantity}]}' planetSchematics.jsonl | jq -s '.' > sde/planetSchematics.json
+
+          jq -n --argjson build "$BUILD" --arg date "$(date -u +%Y-%m-%dT%H:%M:%SZ)" '{buildNumber: $build, refreshedAt: $date}' > sde/meta.json
+
+          ls -la sde/
+
+      - name: Commit
+        if: steps.build.outputs.skip == 'false'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sde/
+          git commit -m "SDE refresh: build ${{ steps.build.outputs.live }}"
+          git push
+
+# End of sde-refresh.yml
