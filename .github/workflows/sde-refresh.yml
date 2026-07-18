@@ -1,10 +1,13 @@
-# sde-refresh.yml — v1.0 — Last updated 2026-07-16 18:10 CT
+# sde-refresh.yml — v1.1 — Last updated 2026-07-18
 #
 # Downloads CCP's official SDE JSONL distribution, filters it to the small
 # set of tables the EVE PI Manager v2 Apps Script needs, and commits them as
 # compact JSON. Apps Script fetches the raw.githubusercontent.com URLs —
 # the full 94MB zip exceeds UrlFetchApp's response cap, so this repo is the
 # preprocessing layer.
+#
+# v1.1: also emits the T3 Cruiser blueprint closure (blueprints.json /
+# blueprintMaterials.json / blueprintProducts.json) via filter_blueprints.py.
 #
 # Runs weekly (EVE patches land Tuesdays) and on manual dispatch. Skips the
 # commit entirely when the live buildNumber matches sde/meta.json.
@@ -45,7 +48,7 @@ jobs:
         run: |
           BUILD=${{ steps.build.outputs.live }}
           curl -sL -o sde.zip "https://developers.eveonline.com/static-data/tranquility/eve-online-static-data-${BUILD}-jsonl.zip"
-          unzip -o sde.zip types.jsonl groups.jsonl categories.jsonl planetSchematics.jsonl
+          unzip -o sde.zip types.jsonl groups.jsonl categories.jsonl planetSchematics.jsonl blueprints.jsonl
 
       - name: Filter to PI-relevant compact JSON
         if: steps.build.outputs.skip == 'false'
@@ -70,6 +73,12 @@ jobs:
           jq -n --argjson build "$BUILD" --arg date "$(date -u +%Y-%m-%dT%H:%M:%SZ)" '{buildNumber: $build, refreshedAt: $date}' > sde/meta.json
 
           ls -la sde/
+
+      # Blueprint closure (T3 Cruiser + subsystems). Runs after the jq step so
+      # sde/types.json and sde/groups.json exist for the seed/category lookup.
+      - name: Filter T3 blueprint closure
+        if: steps.build.outputs.skip == 'false'
+        run: python3 filter_blueprints.py
 
       - name: Commit
         if: steps.build.outputs.skip == 'false'
