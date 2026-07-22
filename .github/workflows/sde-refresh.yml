@@ -1,4 +1,4 @@
-# sde-refresh.yml — v1.1 — Last updated 2026-07-18
+# sde-refresh.yml — v1.2 — Last updated 2026-07-22
 #
 # Downloads CCP's official SDE JSONL distribution, filters it to the small
 # set of tables the EVE PI Manager v2 Apps Script needs, and commits them as
@@ -8,6 +8,12 @@
 #
 # v1.1: also emits the T3 Cruiser blueprint closure (blueprints.json /
 # blueprintMaterials.json / blueprintProducts.json) via filter_blueprints.py.
+# v1.2: also emits planets.json + solarSystems.json (per-planet RADIUS, keyed to
+# system name + celestialIndex) so the PI Manager can size factory templates to
+# each planet's diameter (link power-cost scales with surface distance). The
+# planet/solar-system JSONL file names vary across SDE builds, so they are
+# auto-detected from the zip listing and the raw schema is dumped to the run log
+# for verification; the filter fails loudly rather than committing empty/zero data.
 #
 # Runs weekly (EVE patches land Tuesdays) and on manual dispatch. Skips the
 # commit entirely when the live buildNumber matches sde/meta.json.
@@ -50,6 +56,26 @@ jobs:
           curl -sL -o sde.zip "https://developers.eveonline.com/static-data/tranquility/eve-online-static-data-${BUILD}-jsonl.zip"
           unzip -o sde.zip types.jsonl groups.jsonl categories.jsonl planetSchematics.jsonl blueprints.jsonl
 
+          # Universe planet + solar-system tables (for per-planet radius). Their
+          # JSONL file names differ across builds, so detect them from the listing.
+          unzip -Z1 sde.zip > all_files.txt
+          PLANET_FILE=$(grep -iE '(^|/)(map)?planets?\.jsonl$' all_files.txt | head -1)
+          SYSTEM_FILE=$(grep -iE '(^|/)(map)?solar[_-]?systems?\.jsonl$' all_files.txt | head -1)
+          echo "detected planet file : ${PLANET_FILE:-<none>}"
+          echo "detected system file : ${SYSTEM_FILE:-<none>}"
+          if [ -z "$PLANET_FILE" ] || [ -z "$SYSTEM_FILE" ]; then
+            echo "::error::could not find planet/solar-system JSONL in the SDE zip — universe tables may be named differently this build:"
+            grep -iE 'planet|system|celestial|universe' all_files.txt || true
+            exit 1
+          fi
+          unzip -o sde.zip "$PLANET_FILE" "$SYSTEM_FILE"
+          echo "PLANET_FILE=$PLANET_FILE" >> "$GITHUB_ENV"
+          echo "SYSTEM_FILE=$SYSTEM_FILE" >> "$GITHUB_ENV"
+          echo "--- sample planet line (verify field names: radius / celestialIndex / solarSystemID) ---"
+          head -1 "$PLANET_FILE"
+          echo "--- sample solar-system line (verify: name / solarSystemName) ---"
+          head -1 "$SYSTEM_FILE"
+
       - name: Filter to PI-relevant compact JSON
         if: steps.build.outputs.skip == 'false'
         run: |
@@ -69,6 +95,27 @@ jobs:
           # pins[] = facility type ids that can run the schematic (embedded pin map);
           # types[] = {typeID, isInput, quantity} (isInput:false is the output).
           jq -c '{schematicID: ._key, name: .name.en, cycleTime: .cycleTime, pins: .pins, types: [.types[] | {typeID: ._key, isInput: .isInput, quantity: .quantity}]}' planetSchematics.jsonl | jq -s '.' > sde/planetSchematics.json
+
+          # planets: id, owning system, planet number (celestialIndex), radius (m),
+          # type. radius is top-level in the fsd planet record (fall back to a
+          # nested statistics.radius for older layouts).
+          jq -c '{planetID: ._key, solarSystemID: .solarSystemID, celestialIndex: .celestialIndex, radius: (.radius // .statistics.radius // 0), typeID: .typeID}' "$PLANET_FILE" | jq -s '.' > sde/planets.json
+
+          # solar systems: id -> name (English display / solarSystemName). WH
+          # systems carry their J###### designation here, so the PI Manager can
+          # join by (system name, celestialIndex).
+          jq -c '{solarSystemID: ._key, name: (.name.en // .solarSystemName // .name)}' "$SYSTEM_FILE" | jq -s '.' > sde/solarSystems.json
+
+          # Fail loudly rather than commit empty/zero radius data (guards a wrong
+          # field-name guess after an SDE schema change — see run-log sample above).
+          PCOUNT=$(jq 'length' sde/planets.json)
+          RGT0=$(jq '[.[] | select((.radius // 0) > 0)] | length' sde/planets.json)
+          SCOUNT=$(jq 'length' sde/solarSystems.json)
+          echo "planets=$PCOUNT (radius>0: $RGT0)  solarSystems=$SCOUNT"
+          if [ "$PCOUNT" -eq 0 ] || [ "$RGT0" -eq 0 ] || [ "$SCOUNT" -eq 0 ]; then
+            echo "::error::planet radius / solar-system filter produced no usable rows — check the sample lines logged above and fix the jq field names"
+            exit 1
+          fi
 
           jq -n --argjson build "$BUILD" --arg date "$(date -u +%Y-%m-%dT%H:%M:%SZ)" '{buildNumber: $build, refreshedAt: $date}' > sde/meta.json
 

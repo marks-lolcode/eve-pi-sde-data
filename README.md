@@ -11,6 +11,10 @@ CCP publishes the SDE as a ~94MB zip per game build. Google Apps Script's `UrlFe
 | `sde/groups.json` | groupID, categoryID, name, published |
 | `sde/categories.json` | categoryID, name, published |
 | `sde/planetSchematics.json` | schematicID, name, cycleTime, pins[] (runnable facility typeIDs), types[] (inputs/output with quantities) |
+| `sde/planets.json` | planetID, solarSystemID, celestialIndex (planet number), radius (metres), typeID — every planet in New Eden |
+| `sde/solarSystems.json` | solarSystemID, name (incl. J###### wormhole designations) — lets the PI Manager join a planet's radius by (system name, planet number) |
+
+Planet `radius` lets the PI Manager scale factory templates to each planet's diameter: link power-cost rises with the surface distance between pins, so the same layout fits fewer factories on a larger planet. The planet/solar-system JSONL file names vary across SDE builds; the workflow auto-detects them and logs a raw sample line for schema verification.
 
 Fetch via `https://raw.githubusercontent.com/<owner>/eve-pi-sde-data/main/sde/<file>.json`.
 
