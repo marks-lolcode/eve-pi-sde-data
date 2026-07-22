@@ -1,4 +1,7 @@
-# sde-refresh.yml — v1.2 — Last updated 2026-07-22
+# sde-refresh.yml — v1.3 — Last updated 2026-07-22
+#
+# v1.3: workflow_dispatch `force` input rebuilds even when the live build matches
+# meta.json — needed to regenerate after adding a new output file (e.g. planets).
 #
 # Downloads CCP's official SDE JSONL distribution, filters it to the small
 # set of tables the EVE PI Manager v2 Apps Script needs, and commits them as
@@ -24,6 +27,11 @@ on:
   schedule:
     - cron: "30 12 * * 2,4" # Tue+Thu 12:30 UTC, after CCP's usual patch window
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild even when the live build matches meta.json (use after adding a new output file)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -41,7 +49,10 @@ jobs:
           STORED=$(jq -r '.buildNumber // 0' sde/meta.json 2>/dev/null || echo 0)
           echo "live=$LIVE" >> "$GITHUB_OUTPUT"
           echo "stored=$STORED" >> "$GITHUB_OUTPUT"
-          if [ "$LIVE" = "$STORED" ]; then
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            echo "Force rebuild requested (build $LIVE) - refreshing."
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          elif [ "$LIVE" = "$STORED" ]; then
             echo "Up to date (build $LIVE) - nothing to do."
             echo "skip=true" >> "$GITHUB_OUTPUT"
           else
