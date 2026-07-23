@@ -9368,7 +9368,7 @@
   {
     "groupID": 5032,
     "categoryID": 11,
-    "name": "Fabricator Rogue Drones",
+    "name": "Fabricator Rogue Drone Frigate",
     "published": false
   },
   {
@@ -9526,6 +9526,30 @@
     "categoryID": 6,
     "name": "Command Carrier",
     "published": true
+  },
+  {
+    "groupID": 5122,
+    "categoryID": 11,
+    "name": "Fabricator Rogue Drone Destroyer",
+    "published": false
+  },
+  {
+    "groupID": 5123,
+    "categoryID": 11,
+    "name": "Fabricator Rogue Drone Cruiser",
+    "published": false
+  },
+  {
+    "groupID": 5124,
+    "categoryID": 11,
+    "name": "Fabricator Rogue Drone Battlecruiser",
+    "published": false
+  },
+  {
+    "groupID": 5125,
+    "categoryID": 11,
+    "name": "Fabricator Rogue Drone Battleship",
+    "published": false
   },
   {
     "groupID": 350858,
