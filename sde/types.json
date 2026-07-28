@@ -352058,6 +352058,13 @@
     "published": false
   },
   {
+    "typeID": 96032,
+    "name": "Infested Naglfar",
+    "groupID": 5154,
+    "volume": 0,
+    "published": false
+  },
+  {
     "typeID": 350916,
     "name": "Plasma Cannon",
     "groupID": 350858,
