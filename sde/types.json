@@ -352065,6 +352065,188 @@
     "published": false
   },
   {
+    "typeID": 96040,
+    "name": "Apostle Khanid Cyber Knight SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true
+  },
+  {
+    "typeID": 96041,
+    "name": "Apocalypse Khanid Cyber Knight SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true
+  },
+  {
+    "typeID": 96042,
+    "name": "Amarr Shuttle Khanid Cyber Knight SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true
+  },
+  {
+    "typeID": 96043,
+    "name": "Dragoon Navy Issue Khanid Cyber Knight SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true
+  },
+  {
+    "typeID": 96044,
+    "name": "Harbinger Khanid Cyber Knight SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true
+  },
+  {
+    "typeID": 96045,
+    "name": "Tormentor Khanid Cyber Knight SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true
+  },
+  {
+    "typeID": 96046,
+    "name": "Sigil Khanid Cyber Knight SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true
+  },
+  {
+    "typeID": 96047,
+    "name": "Augoror Khanid Cyber Knight SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true
+  },
+  {
+    "typeID": 96048,
+    "name": "Coercer Khanid Cyber Knight SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true
+  },
+  {
+    "typeID": 96062,
+    "name": "Arkombine Archon (DO NOT TRANSLATE)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false
+  },
+  {
+    "typeID": 96063,
+    "name": "Arkombine Wyvern (DO NOT TRANSLATE)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false
+  },
+  {
+    "typeID": 96064,
+    "name": "Arkombine Aeon (DO NOT TRANSLATE)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false
+  },
+  {
+    "typeID": 96065,
+    "name": "Arkombine Chimera (DO NOT TRANSLATE)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false
+  },
+  {
+    "typeID": 96066,
+    "name": "Arkombine Thanatos (DO NOT TRANSLATE)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false
+  },
+  {
+    "typeID": 96067,
+    "name": "Arkombine Nyx (DO NOT TRANSLATE)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false
+  },
+  {
+    "typeID": 96068,
+    "name": "Arkombine Nidhoggur (DO NOT TRANSLATE)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false
+  },
+  {
+    "typeID": 96069,
+    "name": "Arkombine Hel (DO NOT TRANSLATE)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false
+  },
+  {
+    "typeID": 96070,
+    "name": "Arkombine Wreath (DO NOT TRANSLATE)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false
+  },
+  {
+    "typeID": 96071,
+    "name": "Arkombine Raven (DO NOT TRANSLATE)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false
+  },
+  {
+    "typeID": 96072,
+    "name": "Arkombine Armageddon (DO NOT TRANSLATE)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false
+  },
+  {
+    "typeID": 96073,
+    "name": "Arkombine Eos (DO NOT TRANSLATE)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false
+  },
+  {
+    "typeID": 96075,
+    "name": "Avalon",
+    "groupID": 226,
+    "volume": 0,
+    "published": false
+  },
+  {
+    "typeID": 96080,
+    "name": "Imperial Small Structure 06a (DO NOT TRANSLATE)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false
+  },
+  {
+    "typeID": 96081,
+    "name": "Imperial ring 35k 01b (DO NOT TRANSLATE)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false
+  },
+  {
+    "typeID": 96082,
+    "name": "Imperial ring 35k 01d (DO NOT TRANSLATE)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false
+  },
+  {
+    "typeID": 96083,
+    "name": "Imperial Small Structure 01a (DO NOT TRANSLATE)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false
+  },
+  {
     "typeID": 350916,
     "name": "Plasma Cannon",
     "groupID": 350858,
