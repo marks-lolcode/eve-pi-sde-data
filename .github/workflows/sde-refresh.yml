@@ -1,4 +1,11 @@
-# sde-refresh.yml — v1.3 — Last updated 2026-07-22
+# sde-refresh.yml — v1.4 — Last updated 2026-08-07
+#
+# v1.4: emits typeMaterials.json (what an item reprocesses into) and adds
+# portionSize to types.json, for the reprocessing-arbitrage finder. Confirmed
+# against build 3458726: typeMaterials.jsonl is one line per type,
+# {_key, materials:[{materialTypeID, quantity}]}, 9,551 types / 47,051 material
+# rows. Ten lines carry only randomizedMaterials and no materials array at all,
+# so the filter must not assume it is present.
 #
 # v1.3: workflow_dispatch `force` input rebuilds even when the live build matches
 # meta.json — needed to regenerate after adding a new output file (e.g. planets).
@@ -65,7 +72,7 @@ jobs:
         run: |
           BUILD=${{ steps.build.outputs.live }}
           curl -sL -o sde.zip "https://developers.eveonline.com/static-data/tranquility/eve-online-static-data-${BUILD}-jsonl.zip"
-          unzip -o sde.zip types.jsonl groups.jsonl categories.jsonl planetSchematics.jsonl blueprints.jsonl
+          unzip -o sde.zip types.jsonl groups.jsonl categories.jsonl planetSchematics.jsonl blueprints.jsonl typeMaterials.jsonl
 
           # Universe planet + solar-system tables (for per-planet radius). Their
           # JSONL file names differ across builds, so detect them from the listing.
@@ -93,8 +100,19 @@ jobs:
           mkdir -p sde
           BUILD=${{ steps.build.outputs.live }}
 
-          # types: slim fields, English names only (151MB -> ~4MB)
-          jq -c '{typeID: ._key, name: .name.en, groupID: .groupID, volume: (.volume // 0), published: (.published // false)}' types.jsonl | jq -s '.' > sde/types.json
+          # types: slim fields, English names only (151MB -> ~9MB).
+          # portionSize is the REPROCESSING BATCH SIZE. It lives here rather than
+          # in typeMaterials.json because the material quantities below are stated
+          # per batch: a consumer holding the materials but not the batch size
+          # cannot size a purchase, and a partial batch refines to nothing.
+          jq -c '{typeID: ._key, name: .name.en, groupID: .groupID, volume: (.volume // 0), published: (.published // false), portionSize: (.portionSize // 1)}' types.jsonl | jq -s '.' > sde/types.json
+
+          # typeMaterials: what ONE portionSize batch of a type reprocesses into,
+          # BEFORE any yield/skill/tax multiplier. Flattened to one row per
+          # (type, material) so the consumer is a straight writeTable_, matching
+          # the blueprintMaterials.json precedent. `.materials // []` skips the
+          # ten lines that carry only randomizedMaterials and no materials array.
+          jq -c '. as $t | (.materials // [])[] | {typeID: $t._key, materialTypeID: .materialTypeID, quantity: .quantity}' typeMaterials.jsonl | jq -s '.' > sde/typeMaterials.json
 
           # groups: id, category, English name
           jq -c '{groupID: ._key, categoryID: .categoryID, name: .name.en, published: (.published // false)}' groups.jsonl | jq -s '.' > sde/groups.json
@@ -125,6 +143,19 @@ jobs:
           echo "planets=$PCOUNT (radius>0: $RGT0)  solarSystems=$SCOUNT"
           if [ "$PCOUNT" -eq 0 ] || [ "$RGT0" -eq 0 ] || [ "$SCOUNT" -eq 0 ]; then
             echo "::error::planet radius / solar-system filter produced no usable rows — check the sample lines logged above and fix the jq field names"
+            exit 1
+          fi
+
+          # Same guard for the reprocessing tables. An empty typeMaterials.json
+          # is indistinguishable downstream from "nothing reprocesses", which
+          # would silently empty the arbitrage finder rather than fail it.
+          # Build 3458726: 47,051 material rows, portionSize on all 52,848 types.
+          MCOUNT=$(jq 'length' sde/typeMaterials.json)
+          PSCOUNT=$(jq '[.[] | select((.portionSize // 0) > 0)] | length' sde/types.json)
+          echo "typeMaterials=$MCOUNT  typesWithPortionSize=$PSCOUNT"
+          if [ "$MCOUNT" -eq 0 ] || [ "$PSCOUNT" -eq 0 ]; then
+            echo "::error::typeMaterials / portionSize filter produced no usable rows — the SDE schema may have changed; check typeMaterials.jsonl and types.jsonl field names"
+            head -1 typeMaterials.jsonl
             exit 1
           fi
 
