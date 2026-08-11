@@ -400985,7 +400985,7 @@
   },
   {
     "typeID": 95445,
-    "name": "Defiant Latten Matte - Limited",
+    "name": "Shapash Corporation Emblem",
     "groupID": 4471,
     "volume": 0,
     "published": true,
@@ -402563,6 +402563,126 @@
     "typeID": 96083,
     "name": "Imperial Small Structure 01a (DO NOT TRANSLATE)",
     "groupID": 1975,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1
+  },
+  {
+    "typeID": 96084,
+    "name": "Raa Stargate Checkpoint",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1
+  },
+  {
+    "typeID": 96085,
+    "name": "Eredan Stargate Checkpoint",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1
+  },
+  {
+    "typeID": 96086,
+    "name": "Gheth Stargate Checkpoint",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1
+  },
+  {
+    "typeID": 96087,
+    "name": "Kinakka Stargate Checkpoint",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1
+  },
+  {
+    "typeID": 96088,
+    "name": "Piak Stargate Checkpoint",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1
+  },
+  {
+    "typeID": 96089,
+    "name": "Rohamaa Stargate Checkpoint",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1
+  },
+  {
+    "typeID": 96090,
+    "name": "Tsuruma Stargate Checkpoint",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1
+  },
+  {
+    "typeID": 96091,
+    "name": "Uuhulanen Stargate Checkpoint",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1
+  },
+  {
+    "typeID": 96092,
+    "name": "Agoze Stargate Checkpoint",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1
+  },
+  {
+    "typeID": 96093,
+    "name": "Amygnon Stargate Checkpoint",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1
+  },
+  {
+    "typeID": 96094,
+    "name": "Brarel Stargate Checkpoint",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1
+  },
+  {
+    "typeID": 96095,
+    "name": "Vey Stargate Checkpoint",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1
+  },
+  {
+    "typeID": 96096,
+    "name": "Hror Stargate Checkpoint",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1
+  },
+  {
+    "typeID": 96097,
+    "name": "Auner Stargate Checkpoint",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1
+  },
+  {
+    "typeID": 96098,
+    "name": "Resbroko Stargate Checkpoint",
+    "groupID": 227,
     "volume": 0,
     "published": false,
     "portionSize": 1
