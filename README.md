@@ -7,7 +7,7 @@ CCP publishes the SDE as a ~94MB zip per game build. Google Apps Script's `UrlFe
 | File | Contents |
 |---|---|
 | `sde/meta.json` | `{buildNumber, refreshedAt}` — freshness check |
-| `sde/types.json` | typeID, name, groupID, volume, published, portionSize |
+| `sde/types.json` | typeID, name, groupID, volume, published, portionSize, metaGroupID |
 | `sde/groups.json` | groupID, categoryID, name, published |
 | `sde/categories.json` | categoryID, name, published |
 | `sde/planetSchematics.json` | schematicID, name, cycleTime, pins[] (runnable facility typeIDs), types[] (inputs/output with quantities) |
@@ -21,6 +21,13 @@ Planet `radius` lets the PI Manager scale factory templates to each planet's dia
 sits on the type row rather than here — the two are only meaningful together, and a partial batch
 reprocesses to nothing. Neither number has any yield, skill or station tax applied; that is the
 consumer's job.
+
+`metaGroupID` is the tech tier: 1 Tech I, 2 Tech II, 3 Storyline, 4 Faction, 5 Officer,
+6 Deadspace, 14 Tech III. Most types (ore, minerals, blueprints, anything that is not a module or
+hull) carry no metaGroupID at all and are emitted as **1** — for a consumer reasoning in tiers,
+"no tier" and "Tech I" are the same answer. The workflow guard therefore counts types **above**
+Tech I, not types with any value: a renamed field would default the whole column to 1, pass a
+naive non-zero check, and silently tell every consumer that nothing in EVE is Tech II.
 
 Fetch via `https://raw.githubusercontent.com/<owner>/eve-pi-sde-data/main/sde/<file>.json`.
 

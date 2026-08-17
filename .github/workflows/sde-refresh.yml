@@ -1,4 +1,17 @@
-# sde-refresh.yml — v1.4 — Last updated 2026-08-07
+# sde-refresh.yml — v1.5 — Last updated 2026-08-17
+#
+# v1.5: adds metaGroupID to types.json — the tech tier of an item (1 Tech I,
+# 2 Tech II, 3 Storyline, 4 Faction, 5 Officer, 6 Deadspace, 14 Tech III). The
+# reprocessing-arbitrage finder uses it to skip tiers not worth analysing; the
+# column is generic enough to be worth having regardless.
+#
+# NOT ALL TYPES CARRY ONE. Ore, minerals, blueprints and most non-module types
+# have no metaGroupID at all, so the filter defaults them to 1 (Tech I) — which
+# is what "no meta tier" means for every consumer that reasons in tiers. That
+# default is also why the guard below counts types with metaGroupID > 1 rather
+# than > 0: a wrong field name would default EVERYTHING to 1 and silently ship a
+# column that quietly disables any filter reading it, which is precisely the
+# failure the portionSize and radius guards exist to prevent.
 #
 # v1.4: emits typeMaterials.json (what an item reprocesses into) and adds
 # portionSize to types.json, for the reprocessing-arbitrage finder. Confirmed
@@ -105,7 +118,14 @@ jobs:
           # in typeMaterials.json because the material quantities below are stated
           # per batch: a consumer holding the materials but not the batch size
           # cannot size a purchase, and a partial batch refines to nothing.
-          jq -c '{typeID: ._key, name: .name.en, groupID: .groupID, volume: (.volume // 0), published: (.published // false), portionSize: (.portionSize // 1)}' types.jsonl | jq -s '.' > sde/types.json
+          # metaGroupID is the tech tier (1 Tech I, 2 Tech II, 14 Tech III, plus
+          # the faction/storyline/officer/deadspace tiers). Absent on most
+          # non-module types, and absent means Tech I for anyone reasoning in
+          # tiers — hence the `// 1` default, guarded below so a wrong field name
+          # cannot ship a column of silent 1s.
+          echo "--- sample types line (verify field names: portionSize / metaGroupID) ---"
+          head -1 types.jsonl
+          jq -c '{typeID: ._key, name: .name.en, groupID: .groupID, volume: (.volume // 0), published: (.published // false), portionSize: (.portionSize // 1), metaGroupID: (.metaGroupID // 1)}' types.jsonl | jq -s '.' > sde/types.json
 
           # typeMaterials: what ONE portionSize batch of a type reprocesses into,
           # BEFORE any yield/skill/tax multiplier. Flattened to one row per
@@ -156,6 +176,18 @@ jobs:
           if [ "$MCOUNT" -eq 0 ] || [ "$PSCOUNT" -eq 0 ]; then
             echo "::error::typeMaterials / portionSize filter produced no usable rows — the SDE schema may have changed; check typeMaterials.jsonl and types.jsonl field names"
             head -1 typeMaterials.jsonl
+            exit 1
+          fi
+
+          # metaGroupID guard. Counted at > 1, NOT > 0: the `// 1` default means
+          # a wrong field name yields a full column of 1s, which passes a > 0
+          # check and then silently tells every consumer that nothing in EVE is
+          # Tech II. Tranquility has tens of thousands of T2 types, so a healthy
+          # build is in the thousands here; zero means the field moved.
+          MGCOUNT=$(jq '[.[] | select((.metaGroupID // 1) > 1)] | length' sde/types.json)
+          echo "typesWithMetaTierAboveT1=$MGCOUNT"
+          if [ "$MGCOUNT" -eq 0 ]; then
+            echo "::error::metaGroupID filter found no type above Tech I — the field name has almost certainly changed; check the sample types.jsonl line logged above"
             exit 1
           fi
 
