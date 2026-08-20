@@ -14044,7 +14044,7 @@
     "name": "Primae Blueprint",
     "groupID": 108,
     "volume": 0.01,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -451603,28 +451603,28 @@
   },
   {
     "typeID": 95532,
-    "name": "Cavalry Clash Booster",
+    "name": "Expired Cavalry Clash Booster",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 95533,
-    "name": "Astrograph Clash Booster",
+    "name": "Expired Astrograph Clash Booster",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 95534,
-    "name": "SITREP Clash Booster",
+    "name": "Expired SITREP Clash Booster",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
@@ -451648,64 +451648,64 @@
   },
   {
     "typeID": 95537,
-    "name": "Coherence Volatile Booster",
+    "name": "Expired Coherence Volatile Booster",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 95538,
-    "name": "Upcycle Volatile Booster",
+    "name": "Expired Upcycle Volatile Booster",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 95539,
-    "name": "Requisition Volatile Booster",
+    "name": "Expired Requisition Volatile Booster",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 95540,
-    "name": "Zero-In Volatile Booster",
+    "name": "Expired Zero-In Volatile Booster",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 95541,
-    "name": "Soaring Volatile Booster",
+    "name": "Expired Soaring Volatile Booster",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 95542,
-    "name": "Hallowed Volatile Booster",
+    "name": "Expired Hallowed Volatile Booster",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 95543,
-    "name": "Tenacious Volatile Booster",
+    "name": "Expired Tenacious Volatile Booster",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
