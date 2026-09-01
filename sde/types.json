@@ -452853,6 +452853,15 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 96077,
+    "name": "Pioneer Crate",
+    "groupID": 1194,
+    "volume": 4.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 96080,
     "name": "Imperial Small Structure 06a (DO NOT TRANSLATE)",
     "groupID": 1975,
@@ -453020,6 +453029,1221 @@
     "groupID": 227,
     "volume": 0,
     "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96140,
+    "name": "Armageddon Shattered Paradigm SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96141,
+    "name": "Inquisitor Shattered Paradigm SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96142,
+    "name": "Jackdaw Shattered Paradigm SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96143,
+    "name": "Raven Navy Issue Shattered Paradigm SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96158,
+    "name": "Vexor Shattered Paradigm SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96159,
+    "name": "Vigil Shattered Paradigm SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96160,
+    "name": "Huginn Shattered Paradigm SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96161,
+    "name": "Cenotaph Shattered Paradigm SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96315,
+    "name": "Dragoon Navy Issue Sanguinary Savant SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96316,
+    "name": "Crucifier Sanguinary Savant SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96317,
+    "name": "Omen Navy Issue Sanguinary Savant SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96318,
+    "name": "Absolution Sanguinary Savant SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96319,
+    "name": "Redeemer Sanguinary Savant SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96320,
+    "name": "Coercer Sanguinary Savant SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96321,
+    "name": "Salvation Sanguinary Savant SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96325,
+    "name": "Caldari Pilot",
+    "groupID": 4091,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96327,
+    "name": "Caldari Shuttle Cold Wind's Call SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96328,
+    "name": "Heron Navy Issue Cold Wind's Call SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96329,
+    "name": "Corax Navy Issue Cold Wind's Call SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96330,
+    "name": "Tayra Cold Wind's Call SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96331,
+    "name": "Osprey Cold Wind's Call SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96332,
+    "name": "Ferox Cold Wind's Call SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96333,
+    "name": "Raven Cold Wind's Call SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96334,
+    "name": "Minokawa Cold Wind's Call SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96335,
+    "name": "Simurgh Cold Wind's Call SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 17
+  },
+  {
+    "typeID": 96336,
+    "name": "Union Day Celebration Crate",
+    "groupID": 1194,
+    "volume": 4.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96607,
+    "name": "Circle - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96608,
+    "name": "Circle - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96609,
+    "name": "Circle Outline - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96610,
+    "name": "Circle Outline - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96611,
+    "name": "Circle Hole - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96612,
+    "name": "Circle Hole - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96613,
+    "name": "Square - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96614,
+    "name": "Square - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96615,
+    "name": "Circle Outline Thin - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96616,
+    "name": "Circle Outline Thin - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96617,
+    "name": "Square Outline - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96618,
+    "name": "Square Outline - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96619,
+    "name": "Triangle - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96620,
+    "name": "Triangle - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96621,
+    "name": "Triangle Hole - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96622,
+    "name": "Triangle Hole - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96623,
+    "name": "Triangle Outline - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96624,
+    "name": "Triangle Outline - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96626,
+    "name": "Triangle Outline Thin - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96627,
+    "name": "Triangle Outline Thin - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96628,
+    "name": "Cube - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96629,
+    "name": "Cube - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96630,
+    "name": "Button Square - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96631,
+    "name": "Button Square - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96632,
+    "name": "Sphere - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96633,
+    "name": "Sphere - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96634,
+    "name": "Arch - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96635,
+    "name": "Arch - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96636,
+    "name": "Two by Two Circles - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96637,
+    "name": "Two by Two Circles - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96638,
+    "name": "Big Dots - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96639,
+    "name": "Big Dots - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96642,
+    "name": "Concentric Circles - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96643,
+    "name": "Concentric Circles - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96644,
+    "name": "Four Corners - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96645,
+    "name": "Four Corners - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96646,
+    "name": "Cylinder - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96647,
+    "name": "Cylinder - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96648,
+    "name": "Two by Two Diagonal - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96649,
+    "name": "Two by Two Diagonal - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96650,
+    "name": "Crossed-corners - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96651,
+    "name": "Crossed-corners - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96652,
+    "name": "Split Circles - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96653,
+    "name": "Split Circles - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96654,
+    "name": "Warning Circle - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96655,
+    "name": "Warning Circle - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96656,
+    "name": "Loud Warning Circle - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96657,
+    "name": "Loud Warning Circle - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96658,
+    "name": "Circle Hole Contrast - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96659,
+    "name": "Circle Hole Contrast - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96660,
+    "name": "Octagon - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96661,
+    "name": "Octagon - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96662,
+    "name": "Octagon Hole - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96663,
+    "name": "Octagon Hole - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96664,
+    "name": "Octagon Outline - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96665,
+    "name": "Octagon Outline - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96666,
+    "name": "Pentagon - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96667,
+    "name": "Pentagon - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96668,
+    "name": "Square Valley - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96669,
+    "name": "Square Valley - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96670,
+    "name": "Tetrahedron - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96671,
+    "name": "Tetrahedron - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96672,
+    "name": "Half Arch - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96675,
+    "name": "Half Arch - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96680,
+    "name": "Bridged Squares - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96681,
+    "name": "Bridged Squares - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96682,
+    "name": "Concentric Diamonds - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96683,
+    "name": "Concentric Diamonds - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96684,
+    "name": "Concentric Squares - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96685,
+    "name": "Concentric Squares - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96686,
+    "name": "Circuit Connections - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96687,
+    "name": "Circuit Connections - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96688,
+    "name": "Rounded Diamond - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96689,
+    "name": "Rounded Diamond - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96690,
+    "name": "Fading Hole - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96691,
+    "name": "Fading Hole - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96692,
+    "name": "Fading Decline - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96693,
+    "name": "Fading Decline - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96694,
+    "name": "Fading Intrusion - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96695,
+    "name": "Fading Intrusion - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96767,
+    "name": "Opposing Triangles - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96768,
+    "name": "Opposing Triangles - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96769,
+    "name": "Highlit Canary Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96770,
+    "name": "Highlit Canary Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96771,
+    "name": "Highlit Ferrous Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96772,
+    "name": "Highlit Ferrous Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96791,
+    "name": "Highlit Alloy Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96792,
+    "name": "Highlit Alloy Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96793,
+    "name": "Highlit Plate Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96794,
+    "name": "Highlit Plate Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96795,
+    "name": "Creamy Nebula Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96796,
+    "name": "Creamy Nebula Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96797,
+    "name": "Creamy Ferrous Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96798,
+    "name": "Creamy Ferrous Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96799,
+    "name": "Creamy Alloy Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96800,
+    "name": "Creamy Alloy Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96801,
+    "name": "Creamy Plate Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96802,
+    "name": "Creamy Plate Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96804,
+    "name": "Marine Shallows Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96806,
+    "name": "Marine Shallows Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96807,
+    "name": "Marine Ferrous Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96808,
+    "name": "Marine Ferrous Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96809,
+    "name": "Marine Alloy Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96811,
+    "name": "Marine Alloy Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96813,
+    "name": "Marine Plate Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96814,
+    "name": "Marine Plate Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97198,
+    "name": "Rorqual Nautgripur Industrial Input SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97199,
+    "name": "Orca Nautgripur Industrial Input SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97200,
+    "name": "Bowhead Nautgripur Industrial Input SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
