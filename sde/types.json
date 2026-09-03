@@ -453271,7 +453271,7 @@
     "name": "Circle - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453280,7 +453280,7 @@
     "name": "Circle - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453289,7 +453289,7 @@
     "name": "Circle Outline - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453298,7 +453298,7 @@
     "name": "Circle Outline - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453307,7 +453307,7 @@
     "name": "Circle Hole - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453316,7 +453316,7 @@
     "name": "Circle Hole - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453325,7 +453325,7 @@
     "name": "Square - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453334,7 +453334,7 @@
     "name": "Square - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453343,7 +453343,7 @@
     "name": "Circle Outline Thin - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453352,7 +453352,7 @@
     "name": "Circle Outline Thin - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453361,7 +453361,7 @@
     "name": "Square Outline - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453370,7 +453370,7 @@
     "name": "Square Outline - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453379,7 +453379,7 @@
     "name": "Triangle - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453388,7 +453388,7 @@
     "name": "Triangle - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453397,7 +453397,7 @@
     "name": "Triangle Hole - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453406,7 +453406,7 @@
     "name": "Triangle Hole - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453415,7 +453415,7 @@
     "name": "Triangle Outline - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453424,7 +453424,7 @@
     "name": "Triangle Outline - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453433,7 +453433,7 @@
     "name": "Triangle Outline Thin - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453442,7 +453442,7 @@
     "name": "Triangle Outline Thin - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453451,7 +453451,7 @@
     "name": "Cube - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453460,7 +453460,7 @@
     "name": "Cube - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453469,7 +453469,7 @@
     "name": "Button Square - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453478,7 +453478,7 @@
     "name": "Button Square - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453487,7 +453487,7 @@
     "name": "Sphere - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453496,7 +453496,7 @@
     "name": "Sphere - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453505,7 +453505,7 @@
     "name": "Arch - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453514,7 +453514,7 @@
     "name": "Arch - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453523,7 +453523,7 @@
     "name": "Two by Two Circles - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453532,7 +453532,7 @@
     "name": "Two by Two Circles - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453541,7 +453541,7 @@
     "name": "Big Dots - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453550,7 +453550,7 @@
     "name": "Big Dots - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453559,7 +453559,7 @@
     "name": "Concentric Circles - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453568,7 +453568,7 @@
     "name": "Concentric Circles - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453577,7 +453577,7 @@
     "name": "Four Corners - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453586,7 +453586,7 @@
     "name": "Four Corners - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453595,7 +453595,7 @@
     "name": "Cylinder - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453604,7 +453604,7 @@
     "name": "Cylinder - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453613,7 +453613,7 @@
     "name": "Two by Two Diagonal - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453622,7 +453622,7 @@
     "name": "Two by Two Diagonal - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453631,7 +453631,7 @@
     "name": "Crossed-corners - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453640,7 +453640,7 @@
     "name": "Crossed-corners - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453649,7 +453649,7 @@
     "name": "Split Circles - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453658,7 +453658,7 @@
     "name": "Split Circles - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453667,7 +453667,7 @@
     "name": "Warning Circle - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453676,7 +453676,7 @@
     "name": "Warning Circle - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453685,7 +453685,7 @@
     "name": "Loud Warning Circle - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453694,7 +453694,7 @@
     "name": "Loud Warning Circle - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453703,7 +453703,7 @@
     "name": "Circle Hole Contrast - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453712,7 +453712,7 @@
     "name": "Circle Hole Contrast - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453721,7 +453721,7 @@
     "name": "Octagon - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453730,7 +453730,7 @@
     "name": "Octagon - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453739,7 +453739,7 @@
     "name": "Octagon Hole - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453748,7 +453748,7 @@
     "name": "Octagon Hole - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453757,7 +453757,7 @@
     "name": "Octagon Outline - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453766,7 +453766,7 @@
     "name": "Octagon Outline - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453775,7 +453775,7 @@
     "name": "Pentagon - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453784,7 +453784,7 @@
     "name": "Pentagon - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453793,7 +453793,7 @@
     "name": "Square Valley - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453802,7 +453802,7 @@
     "name": "Square Valley - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453811,7 +453811,7 @@
     "name": "Tetrahedron - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453820,7 +453820,7 @@
     "name": "Tetrahedron - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453829,7 +453829,7 @@
     "name": "Half Arch - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453838,7 +453838,7 @@
     "name": "Half Arch - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453847,7 +453847,7 @@
     "name": "Bridged Squares - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453856,7 +453856,7 @@
     "name": "Bridged Squares - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453865,7 +453865,7 @@
     "name": "Concentric Diamonds - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453874,7 +453874,7 @@
     "name": "Concentric Diamonds - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453883,7 +453883,7 @@
     "name": "Concentric Squares - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453892,7 +453892,7 @@
     "name": "Concentric Squares - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453901,7 +453901,7 @@
     "name": "Circuit Connections - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453910,7 +453910,7 @@
     "name": "Circuit Connections - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453919,7 +453919,7 @@
     "name": "Rounded Diamond - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453928,7 +453928,7 @@
     "name": "Rounded Diamond - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453937,7 +453937,7 @@
     "name": "Fading Hole - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453946,7 +453946,7 @@
     "name": "Fading Hole - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453955,7 +453955,7 @@
     "name": "Fading Decline - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453964,7 +453964,7 @@
     "name": "Fading Decline - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453973,7 +453973,7 @@
     "name": "Fading Intrusion - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453982,7 +453982,7 @@
     "name": "Fading Intrusion - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -453991,7 +453991,7 @@
     "name": "Opposing Triangles - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454000,7 +454000,7 @@
     "name": "Opposing Triangles - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454009,7 +454009,7 @@
     "name": "Highlit Canary Metallic - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454018,7 +454018,7 @@
     "name": "Highlit Canary Metallic - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454027,7 +454027,7 @@
     "name": "Highlit Ferrous Metallic - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454036,7 +454036,7 @@
     "name": "Highlit Ferrous Metallic - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454045,7 +454045,7 @@
     "name": "Highlit Alloy Metallic - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454054,7 +454054,7 @@
     "name": "Highlit Alloy Metallic - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454063,7 +454063,7 @@
     "name": "Highlit Plate Metallic - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454072,7 +454072,7 @@
     "name": "Highlit Plate Metallic - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454081,7 +454081,7 @@
     "name": "Creamy Nebula Metallic - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454090,7 +454090,7 @@
     "name": "Creamy Nebula Metallic - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454099,7 +454099,7 @@
     "name": "Creamy Ferrous Metallic - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454108,7 +454108,7 @@
     "name": "Creamy Ferrous Metallic - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454117,7 +454117,7 @@
     "name": "Creamy Alloy Metallic - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454126,7 +454126,7 @@
     "name": "Creamy Alloy Metallic - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454135,7 +454135,7 @@
     "name": "Creamy Plate Metallic - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454144,7 +454144,7 @@
     "name": "Creamy Plate Metallic - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454153,7 +454153,7 @@
     "name": "Marine Shallows Metallic - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454162,7 +454162,7 @@
     "name": "Marine Shallows Metallic - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454171,7 +454171,7 @@
     "name": "Marine Ferrous Metallic - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454180,7 +454180,7 @@
     "name": "Marine Ferrous Metallic - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454189,7 +454189,7 @@
     "name": "Marine Alloy Metallic - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454198,7 +454198,7 @@
     "name": "Marine Alloy Metallic - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454207,7 +454207,7 @@
     "name": "Marine Plate Metallic - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454216,7 +454216,7 @@
     "name": "Marine Plate Metallic - Limited",
     "groupID": 4726,
     "volume": 0.1,
-    "published": false,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
