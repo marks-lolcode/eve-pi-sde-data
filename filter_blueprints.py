@@ -1,9 +1,20 @@
 #!/usr/bin/env python3
-# filter_blueprints.py — v1.0 — Last updated 2026-07-18
+# filter_blueprints.py — v1.1 — Last updated 2026-09-05
+#
+# v1.1: widened past the T3-only closure per the reactions-profitability brief
+# (eve-pi-manager-v2 docs/tasks/2026-09-04-reactions-profitability.md, gap 1,
+# operator-prioritized). Two additions: (1) Fuel Block (group 1136) joins the
+# item-group seed list, same as the T3 hull group; (2) every reaction-activity
+# PRODUCT is seeded directly, not just ones reachable from an item-group seed —
+# the old logic only ever walked DOWN from finished items, so a reaction chain
+# that doesn't feed a T3 hull or a fuel block was invisible no matter how the
+# item-group seed list grew. This is what makes "all reaction chains" possible
+# without hand-listing every moon-material/gas reaction upstream.
 #
 # Flattens CCP's blueprints.jsonl into three tabular JSON arrays, filtered to
-# the recursive material closure of T3 Cruiser hulls + subsystems. The EVE PI
-# Manager v2 Apps Script (IndustryBlueprints.gs) consumes these as flat sheets:
+# the recursive material closure of T3 Cruiser hulls + subsystems + fuel blocks
+# + every reaction-activity product. The EVE PI Manager v2 Apps Script
+# (IndustryBlueprints.gs) consumes these as flat sheets:
 #
 #   blueprints.json         [{blueprintTypeID, activity, time, maxProductionLimit}]
 #   blueprintMaterials.json [{blueprintTypeID, activity, materialTypeID, quantity}]
@@ -11,9 +22,10 @@
 #
 # Only manufacturing | reaction | invention activities are kept (copying and
 # research are irrelevant to build-cost). "Closure" = start from the finished
-# T3 items, walk every manufacturing/reaction recipe's materials down to leaves
-# (minerals, gas, salvage, datacores, relics), and pull in the invention recipe
-# (relic + datacores) for every T3 BPC encountered.
+# items (see SEED_GROUPS/SEED_CATEGORIES) plus every reaction product, walk
+# every manufacturing/reaction recipe's materials down to leaves (minerals,
+# gas, salvage, datacores, relics), and pull in the invention recipe (relic +
+# datacores) for every BPC encountered.
 #
 # Inputs (produced earlier in the workflow):
 #   blueprints.jsonl   — raw CCP nested blueprints
@@ -24,11 +36,13 @@
 import json
 import sys
 
-# T3C seed: everything in these groups/categories is a "finished item" we want a
-# build cost for. 963 = Strategic Cruiser (hulls); category 32 = Subsystem.
+# Item-group seed: everything in these groups/categories is a "finished item"
+# we want a build cost for, regardless of what produces it.
+#   963  = Strategic Cruiser (T3 hulls)
+#   1136 = Fuel Block
 # (Add group 1305 Tactical Destroyer + its subsystem groups here to extend later.)
-SEED_GROUPS = {963}
-SEED_CATEGORIES = {32}
+SEED_GROUPS = {963, 1136}
+SEED_CATEGORIES = {32}  # Subsystem
 KEEP_ACTIVITIES = ("manufacturing", "reaction", "invention")
 BUILD_ACTIVITIES = ("manufacturing", "reaction")
 
@@ -82,6 +96,13 @@ def main():
                 producers[activity][p["typeID"]] = bp_id
         if kept:
             bp[bp_id] = kept
+
+    # Every reaction product is its own seed, independent of the item-group
+    # seed list above — the item-group seeds only ever pull in a reaction
+    # chain that happens to feed one of them (e.g. a T3 hull's polymer
+    # inputs). Without this, a moon-material/gas reaction that doesn't feed
+    # a seeded item stays invisible no matter what gets added to SEED_GROUPS.
+    seed |= set(producers["reaction"].keys())
 
     # BFS closure over needed items.
     frontier = list(seed)
