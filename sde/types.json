@@ -349354,7 +349354,7 @@
   },
   {
     "typeID": 62048,
-    "name": "Bag of Gelatinized Confectionary",
+    "name": "Bag of Gelatinized Confectionery",
     "groupID": 1194,
     "volume": 0.1,
     "published": true,
@@ -439319,7 +439319,7 @@
   {
     "typeID": 92033,
     "name": "Orbweaver SW-300-I",
-    "groupID": 100,
+    "groupID": 5239,
     "volume": 5.0,
     "published": true,
     "portionSize": 1,
@@ -439328,7 +439328,7 @@
   {
     "typeID": 92034,
     "name": "Huntsman SW-600-I",
-    "groupID": 100,
+    "groupID": 5239,
     "volume": 10.0,
     "published": true,
     "portionSize": 1,
@@ -439337,7 +439337,7 @@
   {
     "typeID": 92035,
     "name": "Arabellata SW-900-I",
-    "groupID": 100,
+    "groupID": 5239,
     "volume": 25.0,
     "published": true,
     "portionSize": 1,
@@ -439346,7 +439346,7 @@
   {
     "typeID": 92036,
     "name": "Tick EV-300-I",
-    "groupID": 100,
+    "groupID": 5239,
     "volume": 5.0,
     "published": true,
     "portionSize": 1,
@@ -439355,7 +439355,7 @@
   {
     "typeID": 92037,
     "name": "Mosquito EV-600-I",
-    "groupID": 100,
+    "groupID": 5239,
     "volume": 10.0,
     "published": true,
     "portionSize": 1,
@@ -439364,7 +439364,7 @@
   {
     "typeID": 92038,
     "name": "Tabanida EV-900-I",
-    "groupID": 100,
+    "groupID": 5239,
     "volume": 25.0,
     "published": true,
     "portionSize": 1,
@@ -439373,7 +439373,7 @@
   {
     "typeID": 92039,
     "name": "Inshore EC-300-I",
-    "groupID": 100,
+    "groupID": 5239,
     "volume": 5.0,
     "published": true,
     "portionSize": 1,
@@ -439382,7 +439382,7 @@
   {
     "typeID": 92040,
     "name": "Nertic EC-600-I",
-    "groupID": 100,
+    "groupID": 5239,
     "volume": 10.0,
     "published": true,
     "portionSize": 1,
@@ -439391,7 +439391,7 @@
   {
     "typeID": 92041,
     "name": "Humboldt EC-900-I",
-    "groupID": 100,
+    "groupID": 5239,
     "volume": 25.0,
     "published": true,
     "portionSize": 1,
@@ -441848,7 +441848,7 @@
   {
     "typeID": 92461,
     "name": "Skimmer TP-300-I",
-    "groupID": 100,
+    "groupID": 5239,
     "volume": 5.0,
     "published": true,
     "portionSize": 1,
@@ -441857,7 +441857,7 @@
   {
     "typeID": 92462,
     "name": "Darter TP-600-I",
-    "groupID": 100,
+    "groupID": 5239,
     "volume": 10.0,
     "published": true,
     "portionSize": 1,
@@ -441866,7 +441866,7 @@
   {
     "typeID": 92463,
     "name": "Meganeura TP-900-I",
-    "groupID": 100,
+    "groupID": 5239,
     "volume": 25.0,
     "published": true,
     "portionSize": 1,
@@ -441875,7 +441875,7 @@
   {
     "typeID": 92464,
     "name": "Stigmella SD-300-I",
-    "groupID": 100,
+    "groupID": 5239,
     "volume": 5.0,
     "published": true,
     "portionSize": 1,
@@ -441884,7 +441884,7 @@
   {
     "typeID": 92465,
     "name": "Luna SD-600-I",
-    "groupID": 100,
+    "groupID": 5239,
     "volume": 10.0,
     "published": true,
     "portionSize": 1,
@@ -441893,7 +441893,7 @@
   {
     "typeID": 92466,
     "name": "Atlas SD-900-I",
-    "groupID": 100,
+    "groupID": 5239,
     "volume": 25.0,
     "published": true,
     "portionSize": 1,
@@ -441902,7 +441902,7 @@
   {
     "typeID": 92467,
     "name": "Stellate TD-300-I",
-    "groupID": 100,
+    "groupID": 5239,
     "volume": 5.0,
     "published": true,
     "portionSize": 1,
@@ -441911,7 +441911,7 @@
   {
     "typeID": 92468,
     "name": "Immaculate TD-600-I",
-    "groupID": 100,
+    "groupID": 5239,
     "volume": 10.0,
     "published": true,
     "portionSize": 1,
@@ -441920,7 +441920,7 @@
   {
     "typeID": 92469,
     "name": "Torafugu TD-900-I",
-    "groupID": 100,
+    "groupID": 5239,
     "volume": 25.0,
     "published": true,
     "portionSize": 1,
@@ -452646,9 +452646,99 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 95974,
+    "name": "Pochven Wormholes - Enemy Spawner - EDENCOM - Amarr - Scout - Roamers (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95975,
+    "name": "Pochven Wormholes - Enemy Spawner - Rogue Drone - Scout - Roamers (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95976,
+    "name": "Pochven Wormholes - Enemy Spawner - Drifter - Scout - Roamers (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95977,
+    "name": "Pochven Wormholes - Enemy Spawner - Triglavian - Scout - Roamers (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95978,
+    "name": "Pochven Wormholes - Enemy Spawner - EDENCOM - Caldari - Scout - Roamers (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95979,
+    "name": "Pochven Wormholes - Enemy Spawner - EDENCOM - Gallente - Scout - Roamers (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95980,
+    "name": "Pochven Wormholes - Enemy Spawner - EDENCOM - Minmatar - Scout - Roamers (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 96032,
     "name": "Infested Naglfar",
     "groupID": 5154,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96036,
+    "name": "Corporate Outpost Raid - Moderate ADV-3 - Mordus Spawner (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96037,
+    "name": "Corporate Outpost Raid - Moderate ADV-3 - Angel Spawner (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96038,
+    "name": "Corporate Outpost Raid - Moderate ADV-3 - Guristas Spawner (DO NOT TRANSLATE)",
+    "groupID": 227,
     "volume": 0,
     "published": false,
     "portionSize": 1,
@@ -453265,6 +453355,60 @@
     "published": true,
     "portionSize": 1,
     "metaGroupID": 19
+  },
+  {
+    "typeID": 96601,
+    "name": "Non Interactable Talocan Polestar",
+    "groupID": 1975,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96602,
+    "name": "Non Interactable Talocan Coupling Array",
+    "groupID": 1975,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96603,
+    "name": "Non Interactable Talocan Outpost Conduit",
+    "groupID": 1975,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96604,
+    "name": "Non Interactable Talocan Observation Dome",
+    "groupID": 1975,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96605,
+    "name": "Non Interactable Talocan Static Gate",
+    "groupID": 1975,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96606,
+    "name": "Non Interactable Talocan Outpost Hub",
+    "groupID": 1975,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
   },
   {
     "typeID": 96607,
@@ -454244,6 +454388,402 @@
     "groupID": 1950,
     "volume": 0.01,
     "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97204,
+    "name": "Non Interactable Hollow Talocan Extraction Silo",
+    "groupID": 1975,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97205,
+    "name": "Non Interactable Inverted Talocan Exchange Depot",
+    "groupID": 1975,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97236,
+    "name": "Non Interactable Debris - Broken Drive Unit",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97239,
+    "name": "Non Interactable Debris - Broken Drive Unit",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97240,
+    "name": "Non Interactable Debris - Crumpled Metal",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97241,
+    "name": "Non Interactable Debris - Power Feed",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97242,
+    "name": "Mutated Omnidirectional Tracking Link",
+    "groupID": 646,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97243,
+    "name": "Mutated Drone Navigation Computer",
+    "groupID": 644,
+    "volume": 25.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97244,
+    "name": "Mutated Omnidirectional Tracking Enhancer",
+    "groupID": 1292,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97245,
+    "name": "Mutated Drone Link Augmentor",
+    "groupID": 647,
+    "volume": 25.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97246,
+    "name": "Radical Omnidirectional Tracking Enhancer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97247,
+    "name": "Radical Drone Link Augmentor Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97248,
+    "name": "Radical Omnidirectional Tracking Link Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97249,
+    "name": "Radical Drone Navigation Computer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97263,
+    "name": "Hybrid Drone Specialization",
+    "groupID": 273,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97314,
+    "name": "YC128 Shifting-Spacetime Crate",
+    "groupID": 1194,
+    "volume": 4.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97348,
+    "name": "Wormhole Pilot",
+    "groupID": 4091,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97406,
+    "name": "Insurgent",
+    "groupID": 4091,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97465,
+    "name": "FW Complex - Small Assault-1 - Attacker Spawner (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97466,
+    "name": "FW Complex - Small Assault-1 - Occupier Spawner (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97467,
+    "name": "Small Assault Military Beacon",
+    "groupID": 310,
+    "volume": 1.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97468,
+    "name": "Renouncer Retribution",
+    "groupID": 1169,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97469,
+    "name": "Detainer Harpy",
+    "groupID": 1167,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97470,
+    "name": "Inspector Enyo",
+    "groupID": 1168,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97471,
+    "name": "Keeper Wolf",
+    "groupID": 1166,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97487,
+    "name": "Sleepless Defender",
+    "groupID": 982,
+    "volume": 19000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97488,
+    "name": "Emergent Preserver",
+    "groupID": 986,
+    "volume": 19100.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97489,
+    "name": "Emergent Upholder",
+    "groupID": 986,
+    "volume": 19100.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97490,
+    "name": "Sleepless Preserver",
+    "groupID": 982,
+    "volume": 19000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97491,
+    "name": "Emergent Escort",
+    "groupID": 987,
+    "volume": 19100.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97492,
+    "name": "Awakened Escort",
+    "groupID": 985,
+    "volume": 109000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97493,
+    "name": "Emergent Patroller",
+    "groupID": 987,
+    "volume": 19100.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97494,
+    "name": "Awakened Patroller",
+    "groupID": 985,
+    "volume": 109000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97497,
+    "name": "Awakened Watchman",
+    "groupID": 985,
+    "volume": 109000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97498,
+    "name": "Emergent Watchman",
+    "groupID": 987,
+    "volume": 19100.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97499,
+    "name": "Sleepless Patroller",
+    "groupID": 983,
+    "volume": 19000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97500,
+    "name": "Sleepless Watchman",
+    "groupID": 983,
+    "volume": 19000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97501,
+    "name": "Sleepless Escort",
+    "groupID": 983,
+    "volume": 19000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97502,
+    "name": "Sleepless Outguard",
+    "groupID": 983,
+    "volume": 19000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97503,
+    "name": "Awakened Defender",
+    "groupID": 984,
+    "volume": 109000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97504,
+    "name": "Awakened Upholder",
+    "groupID": 984,
+    "volume": 109000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97505,
+    "name": "Awakened Preserver",
+    "groupID": 984,
+    "volume": 109000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97506,
+    "name": "Sleepless Upholder",
+    "groupID": 982,
+    "volume": 19000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97507,
+    "name": "Emergent Defender",
+    "groupID": 986,
+    "volume": 19100.0,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 1
   },

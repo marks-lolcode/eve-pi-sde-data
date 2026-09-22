@@ -9558,6 +9558,12 @@
     "published": false
   },
   {
+    "groupID": 5239,
+    "categoryID": 18,
+    "name": "Hybrid Drone",
+    "published": true
+  },
+  {
     "groupID": 350858,
     "categoryID": 350001,
     "name": "Infantry Weapons",

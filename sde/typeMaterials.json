@@ -230607,7 +230607,7 @@
   {
     "typeID": 88001,
     "materialTypeID": 52312,
-    "quantity": 6666
+    "quantity": 4800
   },
   {
     "typeID": 88001,
@@ -235253,5 +235253,150 @@
     "typeID": 95556,
     "materialTypeID": 36,
     "quantity": 1
+  },
+  {
+    "typeID": 97242,
+    "materialTypeID": 34,
+    "quantity": 444
+  },
+  {
+    "typeID": 97242,
+    "materialTypeID": 35,
+    "quantity": 111
+  },
+  {
+    "typeID": 97242,
+    "materialTypeID": 40,
+    "quantity": 2
+  },
+  {
+    "typeID": 97242,
+    "materialTypeID": 85396,
+    "quantity": 10
+  },
+  {
+    "typeID": 97242,
+    "materialTypeID": 85397,
+    "quantity": 10
+  },
+  {
+    "typeID": 97243,
+    "materialTypeID": 34,
+    "quantity": 13333
+  },
+  {
+    "typeID": 97243,
+    "materialTypeID": 35,
+    "quantity": 14444
+  },
+  {
+    "typeID": 97243,
+    "materialTypeID": 36,
+    "quantity": 61
+  },
+  {
+    "typeID": 97243,
+    "materialTypeID": 37,
+    "quantity": 2
+  },
+  {
+    "typeID": 97243,
+    "materialTypeID": 38,
+    "quantity": 2
+  },
+  {
+    "typeID": 97243,
+    "materialTypeID": 40,
+    "quantity": 2
+  },
+  {
+    "typeID": 97243,
+    "materialTypeID": 85396,
+    "quantity": 10
+  },
+  {
+    "typeID": 97243,
+    "materialTypeID": 85397,
+    "quantity": 10
+  },
+  {
+    "typeID": 97244,
+    "materialTypeID": 34,
+    "quantity": 538
+  },
+  {
+    "typeID": 97244,
+    "materialTypeID": 35,
+    "quantity": 88
+  },
+  {
+    "typeID": 97244,
+    "materialTypeID": 36,
+    "quantity": 369
+  },
+  {
+    "typeID": 97244,
+    "materialTypeID": 37,
+    "quantity": 1
+  },
+  {
+    "typeID": 97244,
+    "materialTypeID": 38,
+    "quantity": 4
+  },
+  {
+    "typeID": 97244,
+    "materialTypeID": 85396,
+    "quantity": 10
+  },
+  {
+    "typeID": 97244,
+    "materialTypeID": 85397,
+    "quantity": 10
+  },
+  {
+    "typeID": 97245,
+    "materialTypeID": 34,
+    "quantity": 5556
+  },
+  {
+    "typeID": 97245,
+    "materialTypeID": 35,
+    "quantity": 2222
+  },
+  {
+    "typeID": 97245,
+    "materialTypeID": 36,
+    "quantity": 61
+  },
+  {
+    "typeID": 97245,
+    "materialTypeID": 37,
+    "quantity": 2
+  },
+  {
+    "typeID": 97245,
+    "materialTypeID": 38,
+    "quantity": 2
+  },
+  {
+    "typeID": 97245,
+    "materialTypeID": 39,
+    "quantity": 112
+  },
+  {
+    "typeID": 97245,
+    "materialTypeID": 40,
+    "quantity": 22
+  },
+  {
+    "typeID": 97245,
+    "materialTypeID": 85396,
+    "quantity": 10
+  },
+  {
+    "typeID": 97245,
+    "materialTypeID": 85397,
+    "quantity": 10
   }
 ]
