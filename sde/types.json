@@ -454788,6 +454788,15 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 97658,
+    "name": "Moderate Corporate Outpost Beacon",
+    "groupID": 310,
+    "volume": 1.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 350916,
     "name": "Plasma Cannon",
     "groupID": 350858,
