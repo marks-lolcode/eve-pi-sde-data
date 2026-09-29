@@ -61111,7 +61111,7 @@
   },
   {
     "typeID": 16042,
-    "name": "Medium Sized Sealed Cargo Containers",
+    "name": "Medium Sized Sealed Cargo Container",
     "groupID": 314,
     "volume": 50.0,
     "published": true,
@@ -454784,6 +454784,51 @@
     "groupID": 986,
     "volume": 19100.0,
     "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97617,
+    "name": "Crucifier Medical Enforcement Taskforce SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97618,
+    "name": "Griffin Medical Enforcement Taskforce SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97619,
+    "name": "Maulus Medical Enforcement Taskforce SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97620,
+    "name": "Vigil Medical Enforcement Taskforce SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97621,
+    "name": "Pioneer Medical Enforcement Taskforce SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
