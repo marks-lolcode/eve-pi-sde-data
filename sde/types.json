@@ -432316,19 +432316,19 @@
   },
   {
     "typeID": 90117,
-    "name": "Tetrimon Base Shortcut Keypass",
+    "name": "Expired Tetrimon Base Shortcut Keypass",
     "groupID": 474,
     "volume": 0.1,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 1
   },
   {
     "typeID": 90118,
-    "name": "Crimson Gauntlet Shortcut Keypass",
+    "name": "Expired Crimson Gauntlet Shortcut Keypass",
     "groupID": 474,
     "volume": 0.1,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -432415,10 +432415,10 @@
   },
   {
     "typeID": 90136,
-    "name": "Crimson Harvest Cerebral Accelerator Crate",
+    "name": "Expired Crimson Harvest Cerebral Accelerator Crate",
     "groupID": 1194,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -452070,10 +452070,46 @@
     "metaGroupID": 17
   },
   {
+    "typeID": 95741,
+    "name": "Akoman",
+    "groupID": 1201,
+    "volume": 234000.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 95742,
+    "name": "Akoman Blueprint",
+    "groupID": 489,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 95744,
     "name": "Amarr Pilot",
     "groupID": 4091,
     "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95745,
+    "name": "Akoman Alliance Emblem",
+    "groupID": 4471,
+    "volume": 0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95746,
+    "name": "Akoman Corporation Emblem",
+    "groupID": 4471,
+    "volume": 0,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
@@ -453195,6 +453231,87 @@
     "metaGroupID": 17
   },
   {
+    "typeID": 96278,
+    "name": "Hypnosian Upholder",
+    "groupID": 4036,
+    "volume": 109000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96279,
+    "name": "CH Old Content - Boss Spawner - Drifter - Easy (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96280,
+    "name": "CH Old Content - Mob Spawner - Drifter - Easy (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96281,
+    "name": "Proven Overmind",
+    "groupID": 4037,
+    "volume": 60.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96282,
+    "name": "CH Old Content - Boss Spawner - Rogue Drone - Easy (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96283,
+    "name": "CH Old Conent - Enemy Spawner - Rogue Drone - Easy (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96284,
+    "name": "Repelling Drekavac",
+    "groupID": 4028,
+    "volume": 233000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96285,
+    "name": "CH Old Content - Boss Spawner - Triglavian - Easy (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96287,
+    "name": "CH Old Content - Enemy Spawner - Triglavian - Easy (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 96315,
     "name": "Dragoon Navy Issue Sanguinary Savant SKIN",
     "groupID": 1950,
@@ -453258,9 +453375,36 @@
     "metaGroupID": 17
   },
   {
+    "typeID": 96323,
+    "name": "Unresolved Bioadaptive Cache",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96324,
+    "name": "CH Old Content Special Can - Tetrimon",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 96325,
     "name": "Caldari Pilot",
     "groupID": 4091,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96326,
+    "name": "Captured Bioadaptive Cache",
+    "groupID": 1194,
     "volume": 1.0,
     "published": true,
     "portionSize": 1,
@@ -453352,6 +453496,429 @@
     "name": "Union Day Celebration Crate",
     "groupID": 1194,
     "volume": 4.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96542,
+    "name": "Basic 'Radiance' Cerebral Accelerator",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96543,
+    "name": "Potent 'Radiance' Cerebral Accelerator",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96544,
+    "name": "Extended 'Radiance' Cerebral Accelerator",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96545,
+    "name": "Harvest Anti-Disruptor Booster IV",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96546,
+    "name": "Harvest Anti-Disruptor Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96547,
+    "name": "Harvest Anti-Disruptor Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96548,
+    "name": "Harvest Anti-Disruptor Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96549,
+    "name": "Harvest Nosferatu Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96550,
+    "name": "Harvest Nosferatu Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96551,
+    "name": "Harvest Nosferatu Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96552,
+    "name": "Harvest Nosferatu Booster IV",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96553,
+    "name": "Harvest Webifier Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96554,
+    "name": "Harvest Webifier Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96555,
+    "name": "Harvest Webifier Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96556,
+    "name": "Harvest Webifier Booster IV",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96557,
+    "name": "Harvest Damage Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96558,
+    "name": "Harvest Damage Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96560,
+    "name": "Harvest Damage Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96561,
+    "name": "Harvest Damage Booster IV",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96562,
+    "name": "Tetrimon Anti-Drain Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96563,
+    "name": "Tetrimon Anti-Drain Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96565,
+    "name": "Tetrimon Anti-Drain Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96566,
+    "name": "Tetrimon Anti-Drain Booster IV",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96567,
+    "name": "Tetrimon Capacitor Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96568,
+    "name": "Tetrimon Capacitor Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96569,
+    "name": "Tetrimon Capacitor Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96570,
+    "name": "Tetrimon Capacitor Booster IV",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96571,
+    "name": "Tetrimon Resistance Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96572,
+    "name": "Tetrimon Resistance Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96573,
+    "name": "Tetrimon Resistance Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96574,
+    "name": "Tetrimon Resistance Booster IV",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96575,
+    "name": "Tetrimon Precision Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96576,
+    "name": "Tetrimon Precision Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96577,
+    "name": "Tetrimon Precision Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96578,
+    "name": "Tetrimon Precision Booster IV",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96581,
+    "name": "Chemal Tech Turret Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96582,
+    "name": "Chemal Tech Turret Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96583,
+    "name": "Chemal Tech Turret Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96584,
+    "name": "Chemal Tech Mining Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96585,
+    "name": "Chemal Tech Mining Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96586,
+    "name": "Chemal Tech Mining Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96588,
+    "name": "Chemal Tech Exploration Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96589,
+    "name": "Chemal Tech Exploration Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96590,
+    "name": "Chemal Tech Exploration Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96591,
+    "name": "Chemal Tech Repair Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96592,
+    "name": "Chemal Tech Repair Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 96593,
+    "name": "Chemal Tech Repair Booster III",
+    "groupID": 303,
+    "volume": 1.0,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 19
@@ -454131,6 +454698,33 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 96718,
+    "name": "Blood Sacrament Trader",
+    "groupID": 226,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96721,
+    "name": "Tetrimon Anointed Trader",
+    "groupID": 226,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96722,
+    "name": "Recurring Totality Trader",
+    "groupID": 226,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 96767,
     "name": "Opposing Triangles - Unlimited",
     "groupID": 4726,
@@ -454181,6 +454775,24 @@
     "groupID": 4726,
     "volume": 0.1,
     "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96789,
+    "name": "Mutated Blood Sample",
+    "groupID": 1194,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96790,
+    "name": "Sobornost Blood Sample",
+    "groupID": 1194,
+    "volume": 0.1,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454293,8 +454905,26 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 96803,
+    "name": "Hexfold Terror - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 96804,
     "name": "Marine Shallows Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96805,
+    "name": "Hexfold Terror - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
     "published": true,
@@ -454338,8 +454968,26 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 96810,
+    "name": "Triglavian Collective - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 96811,
     "name": "Marine Alloy Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96812,
+    "name": "Triglavian Collective - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
     "published": true,
@@ -454359,6 +455007,267 @@
     "typeID": 96814,
     "name": "Marine Plate Metallic - Limited",
     "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96815,
+    "name": "Overflowing Harvest - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96816,
+    "name": "Overflowing Harvest - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96817,
+    "name": "Trinary Complex - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96818,
+    "name": "Trinary Complex - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96820,
+    "name": "Ascendant Clades - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96821,
+    "name": "Ascendant Clades - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96822,
+    "name": "Trinary Echo - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96823,
+    "name": "Trinary Echo - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96824,
+    "name": "Savant’s Ruin - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96825,
+    "name": "Savant’s Ruin - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96826,
+    "name": "Bleak Stigmata - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96827,
+    "name": "Bleak Stigmata - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96828,
+    "name": "Liminal Sanguine Gloss - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96829,
+    "name": "Liminal Sanguine Gloss - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96830,
+    "name": "Shadowy Totality Matte - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96831,
+    "name": "Shadowy Totality Matte - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96832,
+    "name": "Ecru Marrow Satin - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96833,
+    "name": "Ecru Marrow Satin - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96834,
+    "name": "Ossified Beige Matte - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96835,
+    "name": "Ossified Beige Matte - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96836,
+    "name": "Ossified Beige Gloss - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96838,
+    "name": "Ossified Beige Gloss - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96839,
+    "name": "Proven Chrome Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96840,
+    "name": "Proven Chrome Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96841,
+    "name": "Clotted Bronze Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96842,
+    "name": "Clotted Bronze Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96843,
+    "name": "Entropic Rose Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96844,
+    "name": "Entropic Rose Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96845,
+    "name": "Star of Pochven Background",
+    "groupID": 5082,
     "volume": 0.1,
     "published": true,
     "portionSize": 1,
@@ -454406,6 +455315,33 @@
     "groupID": 1975,
     "volume": 100000000.0,
     "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97206,
+    "name": "Crimson Harvest Cerebral Accelerator Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97207,
+    "name": "Crimson Gauntlet Shortcut Keypass",
+    "groupID": 474,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97208,
+    "name": "Tetrimon Base Shortcut Keypass",
+    "groupID": 474,
+    "volume": 0.1,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454518,11 +455454,128 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 97262,
+    "name": "Criterion Cache",
+    "groupID": 1927,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 97263,
     "name": "Hybrid Drone Specialization",
     "groupID": 273,
     "volume": 0.01,
     "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97265,
+    "name": "Criterion Cipher",
+    "groupID": 474,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97283,
+    "name": "CH Trig Proving Challenge Spawner - Difficulty 1 (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97284,
+    "name": "CH Trig Proving Challenge Spawner - Difficulty 2 (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97285,
+    "name": "CH Trig Proving Challenge Spawner - Difficulty 3 (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97286,
+    "name": "CH Trig Proving Challenge Spawner - Difficulty 4 (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97287,
+    "name": "CH Trig Proving Challenge Spawner - Difficulty 5 (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97288,
+    "name": "Superior Drekavac",
+    "groupID": 4028,
+    "volume": 233000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97290,
+    "name": "Superior Leshak",
+    "groupID": 4028,
+    "volume": 495000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97310,
+    "name": "Zorya's Babaroga",
+    "groupID": 4028,
+    "volume": 18500000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97311,
+    "name": "CH Trig Proving Challenge - Boss Spawner - Easy (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97312,
+    "name": "CH Trig Proving Challenge - Boss Spawner - Medium (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97313,
+    "name": "CH Trig Proving Challenge - Boss Spawner - Hard (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -454533,6 +455586,15 @@
     "volume": 4.0,
     "published": true,
     "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97315,
+    "name": "Criterion Restrictions Beacon",
+    "groupID": 920,
+    "volume": 20.0,
+    "published": true,
+    "portionSize": 250,
     "metaGroupID": 1
   },
   {
@@ -454549,6 +455611,195 @@
     "name": "Insurgent",
     "groupID": 4091,
     "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97421,
+    "name": "Damavik Blood Raiders Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97422,
+    "name": "Vedmak Blood Raiders Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97423,
+    "name": "Drekavac Blood Raiders Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97424,
+    "name": "Leshak Blood Raiders Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97425,
+    "name": "Nergal Blood Raiders Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97426,
+    "name": "Kikimora Blood Raiders Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97427,
+    "name": "Ikitursa Blood Raiders Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97428,
+    "name": "Zarmazd Blood Raiders Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97429,
+    "name": "Rodiva Blood Raiders Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97430,
+    "name": "Nergal Tetrimon Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97431,
+    "name": "Leshak Tetrimon Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97432,
+    "name": "Damavik Tetrimon Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97433,
+    "name": "Babaroga Tetrimon Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97434,
+    "name": "Zirnitra Tetrimon Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97435,
+    "name": "Drekavac Tetrimon Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97436,
+    "name": "Kikimora Tetrimon Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97437,
+    "name": "Ikitursa Tetrimon Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97438,
+    "name": "Draugur Tetrimon Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97439,
+    "name": "Rodiva Tetrimon Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97440,
+    "name": "Vedmak Tetrimon Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97441,
+    "name": "Zarmazd Tetrimon Crimson Mark SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
@@ -454788,6 +456039,15 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 97516,
+    "name": "Akoman Blueprint Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 97617,
     "name": "Crucifier Medical Enforcement Taskforce SKIN",
     "groupID": 1950,
@@ -454833,10 +456093,757 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 97638,
+    "name": "Decayed Capital Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97639,
+    "name": "Unstable Capital Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97640,
+    "name": "Gravid Capital Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97641,
+    "name": "Glorified Decayed Capital Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97642,
+    "name": "Glorified Unstable Capital Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97643,
+    "name": "Glorified Gravid Capital Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97648,
+    "name": "Capital Abyssal Remote Armor Repairer",
+    "groupID": 325,
+    "volume": 4000.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97649,
+    "name": "Totality Day Celebration Crate",
+    "groupID": 1194,
+    "volume": 4.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 97650,
+    "name": "Decayed Large Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97651,
+    "name": "Unstable Large Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97652,
+    "name": "Gravid Large Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97653,
+    "name": "Glorified Decayed Large Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97654,
+    "name": "Glorified Unstable Large Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97655,
+    "name": "Glorified Gravid Large Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97657,
+    "name": "Large Abyssal Remote Armor Repairer",
+    "groupID": 325,
+    "volume": 25.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
     "typeID": 97658,
     "name": "Moderate Corporate Outpost Beacon",
     "groupID": 310,
     "volume": 1.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97659,
+    "name": "Triglavian Pilot",
+    "groupID": 4091,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97661,
+    "name": "Decayed Medium Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97662,
+    "name": "Unstable Medium Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97663,
+    "name": "Gravid Medium Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97665,
+    "name": "Glorified Decayed Medium Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97666,
+    "name": "Glorified Unstable Medium Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97667,
+    "name": "Glorified Gravid Medium Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97668,
+    "name": "Medium Abyssal Remote Armor Repairer",
+    "groupID": 325,
+    "volume": 10.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97669,
+    "name": "Decayed Small Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97670,
+    "name": "Unstable Small Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97671,
+    "name": "Gravid Small Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97672,
+    "name": "Glorified Decayed Small Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97673,
+    "name": "Glorified Unstable Small Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97674,
+    "name": "Glorified Gravid Small Remote Armor Repairer Mutaplasmid",
+    "groupID": 1964,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97675,
+    "name": "Small Abyssal Remote Armor Repairer",
+    "groupID": 325,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 15
+  },
+  {
+    "typeID": 97676,
+    "name": "Glorified Decayed Capital Remote Armor Repairer Mutaplasmid Blueprint",
+    "groupID": 4820,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97677,
+    "name": "Glorified Gravid Capital Remote Armor Repairer Mutaplasmid Blueprint",
+    "groupID": 4820,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97678,
+    "name": "Glorified Unstable Capital Remote Armor Repairer Mutaplasmid Blueprint",
+    "groupID": 4820,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97679,
+    "name": "Glorified Decayed Large Remote Armor Repairer Mutaplasmid Blueprint",
+    "groupID": 4820,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97680,
+    "name": "Glorified Gravid Large Remote Armor Repairer Mutaplasmid Blueprint",
+    "groupID": 4820,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97681,
+    "name": "Glorified Unstable Large Remote Armor Repairer Mutaplasmid Blueprint",
+    "groupID": 4820,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97682,
+    "name": "Glorified Decayed Medium Remote Armor Repairer Mutaplasmid Blueprint",
+    "groupID": 4820,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97683,
+    "name": "Glorified Unstable Medium Remote Armor Repairer Mutaplasmid Blueprint",
+    "groupID": 4820,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97684,
+    "name": "Glorified Gravid Medium Remote Armor Repairer Mutaplasmid Blueprint",
+    "groupID": 4820,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97685,
+    "name": "Glorified Decayed Small Remote Armor Repairer Mutaplasmid Blueprint",
+    "groupID": 4820,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97686,
+    "name": "Glorified Gravid Small Remote Armor Repairer Mutaplasmid Blueprint",
+    "groupID": 4820,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97687,
+    "name": "Glorified Unstable Small Remote Armor Repairer Mutaplasmid Blueprint",
+    "groupID": 4820,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97710,
+    "name": "Sarikusa’s Capital Energy Nosferatu",
+    "groupID": 68,
+    "volume": 4000.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 5
+  },
+  {
+    "typeID": 97711,
+    "name": "Horm’s Capital Energy Neutralizer",
+    "groupID": 71,
+    "volume": 4000.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 5
+  },
+  {
+    "typeID": 97712,
+    "name": "Zorya’s Ultratidal Entropic Disintegrator",
+    "groupID": 1986,
+    "volume": 1600.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 5
+  },
+  {
+    "typeID": 97714,
+    "name": "Dark Blood Stasis Webifier Blueprint",
+    "groupID": 145,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 97715,
+    "name": "Dark Blood Large Armor Repairer Blueprint",
+    "groupID": 142,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 97716,
+    "name": "Sarikusa’s Capital Energy Nosferatu Blueprint",
+    "groupID": 148,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 5
+  },
+  {
+    "typeID": 97717,
+    "name": "Horm’s Capital Energy Neutralizer Blueprint",
+    "groupID": 151,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 5
+  },
+  {
+    "typeID": 97718,
+    "name": "Zorya’s Ultratidal Entropic Disintegrator Blueprint",
+    "groupID": 1990,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 5
+  },
+  {
+    "typeID": 97719,
+    "name": "Sarikusa’s Capital Energy Nosferatu Blueprint Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97720,
+    "name": "Horm’s Capital Energy Neutralizer Blueprint Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97721,
+    "name": "Zorya’s Ultratidal Entropic Disintegrator Blueprint Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97722,
+    "name": "Mobile Sanguine Harvester Blueprint Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97723,
+    "name": "Strategos' Modified Siege Module Blueprint Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97724,
+    "name": "Consortium Small Tractor Beam Blueprint Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97725,
+    "name": "Consortium Capital Tractor Beam Blueprint Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97726,
+    "name": "Medium Consortium Vorton Projector Blueprint Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97727,
+    "name": "Consortium Vorton Tuning System Blueprint Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97728,
+    "name": "Large Consortium Vorton Projector Blueprint Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97729,
+    "name": "Small Consortium Vorton Projector Blueprint Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97730,
+    "name": "Dark Blood Stasis Webifier Blueprint Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97731,
+    "name": "Dark Blood Large Armor Repairer Blueprint Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97732,
+    "name": "Imperial Navy Heat Sink Blueprint Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97733,
+    "name": "Imperial Navy Multispectrum Energized Membrane Blueprint Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97881,
+    "name": "Wormhole R327",
+    "groupID": 988,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97882,
+    "name": "Wormhole O753",
+    "groupID": 988,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97883,
+    "name": "Pochven Wormholes - Enemy Spawner - Blood Raiders - Scout - Roamers (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97884,
+    "name": "Pochven Wormholes - Enemy Spawner - Tetrimon - Scout - Roamers (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97885,
+    "name": "Pochven Wormholes - Enemy Spawner - Blood Raiders - Hard - Roamers (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97886,
+    "name": "Pochven Wormholes - Enemy Spawner - Tetrimon - Hard - Roamers (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97887,
+    "name": "Pochven Wormholes - Enemy Spawner - Tetrimon - Hard (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97888,
+    "name": "Pochven Wormholes - Enemy Spawner - Blood Raiders - Hard (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97889,
+    "name": "Pochven Wormholes - Enemy Spawner - Blood Raiders - Medium - Roamers (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97890,
+    "name": "Pochven Wormholes - Enemy Spawner - Tetrimon - Medium - Roamers (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97891,
+    "name": "Pochven Wormholes - Enemy Spawner - Blood Raiders - Medium (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97892,
+    "name": "Pochven Wormholes - Enemy Spawner - Tetrimon - Medium (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97893,
+    "name": "Pochven Wormholes - Enemy Spawner - Blood Raiders - Easy - Roamers (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97894,
+    "name": "Pochven Wormholes - Enemy Spawner - Tetrimon - Easy - Roamers (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97895,
+    "name": "Pochven Wormholes - Enemy Spawner - Tetrimon - Easy (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97896,
+    "name": "Pochven Wormholes - Enemy Spawner - Blood Raiders - Easy (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97897,
+    "name": "Blood Raider Background",
+    "groupID": 5082,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97898,
+    "name": "Triglavian Background",
+    "groupID": 5082,
+    "volume": 0.1,
     "published": false,
     "portionSize": 1,
     "metaGroupID": 1
