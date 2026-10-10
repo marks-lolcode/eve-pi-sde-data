@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
-# filter_blueprints.py — v1.1 — Last updated 2026-09-05
+# filter_blueprints.py — v1.2 — Last updated 2026-10-10
+#
+# v1.2: Booster (group 303) joins the item-group seed list. The pure-booster
+# REACTIONS were already in the closure (v1.1 seeds every reaction product), but
+# the manufacturing blueprints that turn Pure boosters + Megacyte into the drug
+# (Strong/Improved/Standard/Synth Crash/Drop/Mindflood, ...) were not, so the
+# reactions sheets could never cost or rank the finished drug. Adds ~25 small
+# manufacturing recipes; every input they consume is already in the closure.
 #
 # v1.1: widened past the T3-only closure per the reactions-profitability brief
 # (eve-pi-manager-v2 docs/tasks/2026-09-04-reactions-profitability.md, gap 1,
@@ -40,8 +47,9 @@ import sys
 # we want a build cost for, regardless of what produces it.
 #   963  = Strategic Cruiser (T3 hulls)
 #   1136 = Fuel Block
+#   303  = Booster (the finished drugs; the Pure inputs are group 712, reaction products)
 # (Add group 1305 Tactical Destroyer + its subsystem groups here to extend later.)
-SEED_GROUPS = {963, 1136}
+SEED_GROUPS = {963, 1136, 303}
 SEED_CATEGORIES = {32}  # Subsystem
 KEEP_ACTIVITIES = ("manufacturing", "reaction", "invention")
 BUILD_ACTIVITIES = ("manufacturing", "reaction")
