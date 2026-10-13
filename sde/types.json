@@ -456481,7 +456481,7 @@
   },
   {
     "typeID": 97710,
-    "name": "Sarikusa’s Capital Energy Nosferatu",
+    "name": "Sarikusa's Capital Energy Nosferatu",
     "groupID": 68,
     "volume": 4000.0,
     "published": true,
@@ -456490,7 +456490,7 @@
   },
   {
     "typeID": 97711,
-    "name": "Horm’s Capital Energy Neutralizer",
+    "name": "Horm's Capital Energy Neutralizer",
     "groupID": 71,
     "volume": 4000.0,
     "published": true,
@@ -456499,7 +456499,7 @@
   },
   {
     "typeID": 97712,
-    "name": "Zorya’s Ultratidal Entropic Disintegrator",
+    "name": "Zorya's Ultratidal Entropic Disintegrator",
     "groupID": 1986,
     "volume": 1600.0,
     "published": true,
@@ -456553,7 +456553,7 @@
   },
   {
     "typeID": 97719,
-    "name": "Sarikusa’s Capital Energy Nosferatu Blueprint Crate",
+    "name": "Sarikusa's Capital Energy Nosferatu Blueprint Crate",
     "groupID": 1194,
     "volume": 1.0,
     "published": true,
@@ -456562,7 +456562,7 @@
   },
   {
     "typeID": 97720,
-    "name": "Horm’s Capital Energy Neutralizer Blueprint Crate",
+    "name": "Horm's Capital Energy Neutralizer Blueprint Crate",
     "groupID": 1194,
     "volume": 1.0,
     "published": true,
@@ -456571,7 +456571,7 @@
   },
   {
     "typeID": 97721,
-    "name": "Zorya’s Ultratidal Entropic Disintegrator Blueprint Crate",
+    "name": "Zorya's Ultratidal Entropic Disintegrator Blueprint Crate",
     "groupID": 1194,
     "volume": 1.0,
     "published": true,
