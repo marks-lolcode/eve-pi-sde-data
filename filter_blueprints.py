@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-# filter_blueprints.py — v1.2 — Last updated 2026-10-10
+# filter_blueprints.py — v1.3 — Last updated 2026-10-12
+#
+# v1.3: also emits sde/mfgBlueprints.json + sde/mfgMaterials.json — EVERY
+# manufacturing/reaction blueprint with a published product, NOT limited to the
+# closure — for the Blueprint Profit calculator (eve-pi-manager-v2). Separate
+# files on purpose: the closure files above keep their exact contents, so the
+# T3/reactions code that reads SDE_Blueprints* is unaffected.
 #
 # v1.2: Booster (group 303) joins the item-group seed list. The pure-booster
 # REACTIONS were already in the closure (v1.1 seeds every reaction product), but
@@ -157,6 +163,33 @@ def main():
                        ("blueprintProducts", prod_rows)):
         with open("sde/%s.json" % name, "w", encoding="utf-8") as f:
             json.dump(rows, f, separators=(",", ":"))
+
+    # Unfiltered build table for the Blueprint Profit calculator: EVERY
+    # manufacturing + reaction blueprint whose product is a published type, with
+    # no closure. Kept separate from the closure files above so nothing that
+    # already reads SDE_Blueprints* sees more rows. One row per blueprint
+    # (first product), materials one row each.
+    published = {int(t["typeID"]) for t in types if t.get("published", True)}
+    mfg_rows, mfg_mat_rows = [], []
+    for bp_id in sorted(bp):
+        for activity in BUILD_ACTIVITIES:
+            a = bp[bp_id].get(activity)
+            if not a or not a["products"]:
+                continue
+            prod = a["products"][0]
+            if prod["typeID"] not in published:
+                continue
+            mfg_rows.append({"blueprintTypeID": bp_id, "activity": activity,
+                             "productTypeID": prod["typeID"], "productQty": prod["quantity"],
+                             "time": a["time"]})
+            for m in a["materials"]:
+                mfg_mat_rows.append({"blueprintTypeID": bp_id, "activity": activity,
+                                     "materialTypeID": m["typeID"], "quantity": m["quantity"]})
+    for name, rows in (("mfgBlueprints", mfg_rows), ("mfgMaterials", mfg_mat_rows)):
+        with open("sde/%s.json" % name, "w", encoding="utf-8") as f:
+            json.dump(rows, f, separators=(",", ":"))
+    sys.stderr.write("all-blueprints table: %d blueprints, %d material rows\n"
+                     % (len(mfg_rows), len(mfg_mat_rows)))
 
     sys.stderr.write(
         "blueprints closure: %d finished-item seeds -> %d blueprints, "
