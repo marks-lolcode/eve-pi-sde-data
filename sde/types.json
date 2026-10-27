@@ -456832,7 +456832,7 @@
   },
   {
     "typeID": 97897,
-    "name": "Blood Raider Background",
+    "name": "Bloody Sunset Background",
     "groupID": 5082,
     "volume": 0.1,
     "published": true,
@@ -456841,9 +456841,45 @@
   },
   {
     "typeID": 97898,
-    "name": "Triglavian Background",
+    "name": "Pochven Stabalized Background",
     "groupID": 5082,
     "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98145,
+    "name": "Blood Raider Blueprint Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98147,
+    "name": "Crimson Totality Background",
+    "groupID": 5082,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98268,
+    "name": "Akoman Sanguinary Savant SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98270,
+    "name": "CSM 21 Voter Background",
+    "groupID": 5082,
+    "volume": 0,
     "published": false,
     "portionSize": 1,
     "metaGroupID": 1
