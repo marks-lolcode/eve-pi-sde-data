@@ -456687,6 +456687,15 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 97793,
+    "name": "Herald",
+    "groupID": 893,
+    "volume": 28100.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
     "typeID": 97881,
     "name": "Wormhole R327",
     "groupID": 988,
@@ -456849,11 +456858,74 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 97904,
+    "name": "Penitence",
+    "groupID": 906,
+    "volume": 118000.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 97992,
+    "name": "Compromised Sleeper Device",
+    "groupID": 319,
+    "volume": 10000000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98138,
+    "name": "Herald Corporation Emblem",
+    "groupID": 4471,
+    "volume": 0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98139,
+    "name": "Herald Alliance Emblem",
+    "groupID": 4471,
+    "volume": 0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98140,
+    "name": "Penitence Corporation Emblem",
+    "groupID": 4471,
+    "volume": 0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98141,
+    "name": "Penitence Alliance Emblem",
+    "groupID": 4471,
+    "volume": 0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 98145,
     "name": "Blood Raider Blueprint Crate",
     "groupID": 1194,
     "volume": 1.0,
     "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98146,
+    "name": "Unidentified Sleeper Device Wreck",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -456880,7 +456952,61 @@
     "name": "CSM 21 Voter Background",
     "groupID": 5082,
     "volume": 0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98387,
+    "name": "Azdaja Counter Domain - Spawner (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
     "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98484,
+    "name": "Amarr Victory SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98521,
+    "name": "Alliance Tournament XXII Background",
+    "groupID": 5082,
+    "volume": 0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98522,
+    "name": "Alliance Tournament XXII Bronze Background",
+    "groupID": 5082,
+    "volume": 0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98523,
+    "name": "Alliance Tournament XXII Silver Background",
+    "groupID": 5082,
+    "volume": 0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98524,
+    "name": "Alliance Tournament XXII Gold Background",
+    "groupID": 5082,
+    "volume": 1.0,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
