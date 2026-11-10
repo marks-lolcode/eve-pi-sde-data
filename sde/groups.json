@@ -9552,15 +9552,147 @@
     "published": false
   },
   {
+    "groupID": 5140,
+    "categoryID": 7,
+    "name": "Rig Synchronizer",
+    "published": true
+  },
+  {
+    "groupID": 5151,
+    "categoryID": 11,
+    "name": "FW Vanguard Hauler",
+    "published": true
+  },
+  {
     "groupID": 5154,
     "categoryID": 11,
     "name": "Fabricator Rogue Drone Dreadnought",
     "published": false
   },
   {
+    "groupID": 5186,
+    "categoryID": 11,
+    "name": "FW Amarr Empire General",
+    "published": true
+  },
+  {
+    "groupID": 5187,
+    "categoryID": 11,
+    "name": "FW Caldari State General",
+    "published": true
+  },
+  {
+    "groupID": 5188,
+    "categoryID": 11,
+    "name": "FW Gallente Federation General",
+    "published": true
+  },
+  {
+    "groupID": 5189,
+    "categoryID": 11,
+    "name": "FW Minmatar Republic General",
+    "published": true
+  },
+  {
+    "groupID": 5190,
+    "categoryID": 11,
+    "name": "FW Amarr Empire Dreadnought",
+    "published": true
+  },
+  {
+    "groupID": 5191,
+    "categoryID": 11,
+    "name": "FW Caldari State Dreadnought",
+    "published": true
+  },
+  {
+    "groupID": 5192,
+    "categoryID": 11,
+    "name": "FW Gallente Federation Dreadnought",
+    "published": true
+  },
+  {
+    "groupID": 5193,
+    "categoryID": 11,
+    "name": "FW Minmatar Republic Dreadnought",
+    "published": true
+  },
+  {
+    "groupID": 5194,
+    "categoryID": 11,
+    "name": "FW Amarr Empire Titan",
+    "published": true
+  },
+  {
+    "groupID": 5195,
+    "categoryID": 11,
+    "name": "FW Caldari State Titan",
+    "published": true
+  },
+  {
+    "groupID": 5196,
+    "categoryID": 11,
+    "name": "FW Gallente Federation Titan",
+    "published": true
+  },
+  {
+    "groupID": 5197,
+    "categoryID": 11,
+    "name": "FW Minmatar Republic Titan",
+    "published": true
+  },
+  {
+    "groupID": 5198,
+    "categoryID": 65,
+    "name": "Conquest Engine",
+    "published": false
+  },
+  {
     "groupID": 5239,
     "categoryID": 18,
     "name": "Hybrid Drone",
+    "published": true
+  },
+  {
+    "groupID": 5251,
+    "categoryID": 20,
+    "name": "Cyber Rigging",
+    "published": true
+  },
+  {
+    "groupID": 5254,
+    "categoryID": 2,
+    "name": "Item Trader",
+    "published": true
+  },
+  {
+    "groupID": 5265,
+    "categoryID": 11,
+    "name": "FW Amarr Empire Shuttle",
+    "published": true
+  },
+  {
+    "groupID": 5266,
+    "categoryID": 11,
+    "name": "FW Caldari State Shuttle",
+    "published": true
+  },
+  {
+    "groupID": 5267,
+    "categoryID": 11,
+    "name": "FW Gallente Federation Shuttle",
+    "published": true
+  },
+  {
+    "groupID": 5268,
+    "categoryID": 11,
+    "name": "FW Minmatar Republic Shuttle",
+    "published": true
+  },
+  {
+    "groupID": 5270,
+    "categoryID": 2,
+    "name": "FW Rally Point",
     "published": true
   },
   {

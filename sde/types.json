@@ -357490,7 +357490,7 @@
   },
   {
     "typeID": 63783,
-    "name": "Soldier of Fortune - Frigate Skill Crate",
+    "name": "Soldier - Frigate Skill Crate",
     "groupID": 1818,
     "volume": 1.0,
     "published": true,
@@ -357499,7 +357499,7 @@
   },
   {
     "typeID": 63784,
-    "name": "Soldier of Fortune - Combat Frigate Crate",
+    "name": "Soldier - Combat Frigate Crate",
     "groupID": 1818,
     "volume": 2500.0,
     "published": true,
@@ -357508,7 +357508,7 @@
   },
   {
     "typeID": 63785,
-    "name": "Soldier of Fortune - Support Frigate Crate",
+    "name": "Soldier - Support Frigate Crate",
     "groupID": 1818,
     "volume": 2500.0,
     "published": true,
@@ -357751,7 +357751,7 @@
   },
   {
     "typeID": 63829,
-    "name": "Free AIR Soldier of Fortune Expert System",
+    "name": "Free AIR Soldier Expert System",
     "groupID": 4098,
     "volume": 1.0,
     "published": true,
@@ -358561,7 +358561,7 @@
   },
   {
     "typeID": 64002,
-    "name": "SARO Pacifier",
+    "name": "Subduing Pacifier",
     "groupID": 1568,
     "volume": 0,
     "published": false,
@@ -358570,7 +358570,7 @@
   },
   {
     "typeID": 64003,
-    "name": "SARO Skybreaker",
+    "name": "Detector Skybreaker",
     "groupID": 1568,
     "volume": 28600.0,
     "published": false,
@@ -358579,7 +358579,7 @@
   },
   {
     "typeID": 64004,
-    "name": "SARO Nemesis",
+    "name": "Flashbang Nemesis",
     "groupID": 1568,
     "volume": 28100.0,
     "published": false,
@@ -358588,7 +358588,7 @@
   },
   {
     "typeID": 64005,
-    "name": "SARO Confessor",
+    "name": "Detainer Confessor",
     "groupID": 1664,
     "volume": 28600.0,
     "published": false,
@@ -358615,7 +358615,7 @@
   },
   {
     "typeID": 64008,
-    "name": "SARO Curse",
+    "name": "Counter-Curse",
     "groupID": 1665,
     "volume": 101000.0,
     "published": false,
@@ -358624,7 +358624,7 @@
   },
   {
     "typeID": 64009,
-    "name": "SARO Phobos",
+    "name": "Detainer Phobos",
     "groupID": 1665,
     "volume": 101000.0,
     "published": false,
@@ -358633,7 +358633,7 @@
   },
   {
     "typeID": 64010,
-    "name": "SARO Talos",
+    "name": "Tactical Talos",
     "groupID": 1666,
     "volume": 270000.0,
     "published": false,
@@ -402094,7 +402094,7 @@
   },
   {
     "typeID": 81166,
-    "name": "Soldier of Fortune Career Crate",
+    "name": "Soldier Career Crate",
     "groupID": 1194,
     "volume": 4.0,
     "published": true,
@@ -423064,7 +423064,7 @@
   },
   {
     "typeID": 87433,
-    "name": "Soldier of Fortune Starter Crate",
+    "name": "Soldier Starter Crate",
     "groupID": 1194,
     "volume": 4.0,
     "published": false,
@@ -423253,7 +423253,7 @@
   },
   {
     "typeID": 87494,
-    "name": "Soldier of Fortune",
+    "name": "Soldier",
     "groupID": 4091,
     "volume": 1.0,
     "published": false,
@@ -438427,7 +438427,7 @@
   },
   {
     "typeID": 91863,
-    "name": "Dragoon Navy Issue Corporation Emblem",
+    "name": "Gnosis Friendship League SKIN",
     "groupID": 4471,
     "volume": 0,
     "published": true,
@@ -438643,145 +438643,145 @@
   },
   {
     "typeID": 91916,
-    "name": "Imperial Electronics Booster I",
+    "name": "Expired Imperial Electronics Booster I",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91920,
-    "name": "State Electronics Booster I",
+    "name": "Expired State Electronics Booster I",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91921,
-    "name": "Federation Electronics Booster I",
+    "name": "Expired Federation Electronics Booster I",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91922,
-    "name": "Republic Electronics Booster I",
+    "name": "Expired Republic Electronics Booster I",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91923,
-    "name": "Republic Electronics Booster II",
+    "name": "Expired Republic Electronics Booster II",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91924,
-    "name": "Republic Electronics Booster III",
+    "name": "Expired Republic Electronics Booster III",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91925,
-    "name": "Federation Electronics Booster II",
+    "name": "Expired Federation Electronics Booster II",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91926,
-    "name": "Federation Electronics Booster III",
+    "name": "Expired Federation Electronics Booster III",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91927,
-    "name": "State Electronics Booster II",
+    "name": "Expired State Electronics Booster II",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91928,
-    "name": "State Electronics Booster III",
+    "name": "Expired State Electronics Booster III",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91929,
-    "name": "Imperial Electronics Booster II",
+    "name": "Expired Imperial Electronics Booster II",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91930,
-    "name": "Imperial Electronics Booster III",
+    "name": "Expired Imperial Electronics Booster III",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91932,
-    "name": "Imperial Defense Booster I",
+    "name": "Expired Imperial Defense Booster I",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91934,
-    "name": "State Defense Booster I",
+    "name": "Expired State Defense Booster I",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91935,
-    "name": "Federation Defense Booster I",
+    "name": "Expired Federation Defense Booster I",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91936,
-    "name": "Republic Defense Booster I",
+    "name": "Expired Republic Defense Booster I",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
@@ -438796,289 +438796,289 @@
   },
   {
     "typeID": 91939,
-    "name": "Imperial Defense Booster II",
+    "name": "Expired Imperial Defense Booster II",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91940,
-    "name": "Imperial Defense Booster III",
+    "name": "Expired Imperial Defense Booster III",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91941,
-    "name": "State Defense Booster II",
+    "name": "Expired State Defense Booster II",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91942,
-    "name": "State Defense Booster III",
+    "name": "Expired State Defense Booster III",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91943,
-    "name": "Federation Defense Booster III",
+    "name": "Expired Federation Defense Booster III",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91944,
-    "name": "Federation Defense Booster II",
+    "name": "Expired Federation Defense Booster II",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91945,
-    "name": "Republic Defense Booster II",
+    "name": "Expired Republic Defense Booster II",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91946,
-    "name": "Republic Defense Booster III",
+    "name": "Expired Republic Defense Booster III",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91947,
-    "name": "Imperial Mobility Booster I",
+    "name": "Expired Imperial Mobility Booster I",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91948,
-    "name": "State Mobility Booster I",
+    "name": "Expired State Mobility Booster I",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91949,
-    "name": "Federation Mobility Booster I",
+    "name": "Expired Federation Mobility Booster I",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91950,
-    "name": "Republic Mobility Booster I",
+    "name": "Expired Republic Mobility Booster I",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91951,
-    "name": "Imperial Mobility Booster III",
+    "name": "Expired Imperial Mobility Booster III",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91952,
-    "name": "Imperial Mobility Booster II",
+    "name": "Expired Imperial Mobility Booster II",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91953,
-    "name": "State Mobility Booster II",
+    "name": "Expired State Mobility Booster II",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91954,
-    "name": "State Mobility Booster III",
+    "name": "Expired State Mobility Booster III",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91958,
-    "name": "Federation Mobility Booster II",
+    "name": "Expired Federation Mobility Booster II",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91959,
-    "name": "Federation Mobility Booster III",
+    "name": "Expired Federation Mobility Booster III",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91960,
-    "name": "Republic Mobility Booster II",
+    "name": "Expired Republic Mobility Booster II",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91961,
-    "name": "Republic Mobility Booster III",
+    "name": "Expired Republic Mobility Booster III",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91962,
-    "name": "Imperial Hardpoint Booster I",
+    "name": "Expired Imperial Hardpoint Booster I",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91963,
-    "name": "State Hardpoint Booster I",
+    "name": "Expired State Hardpoint Booster I",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91964,
-    "name": "Federation Hardpoint Booster I",
+    "name": "Expired Federation Hardpoint Booster I",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91965,
-    "name": "Republic Hardpoint Booster I",
+    "name": "Expired Republic Hardpoint Booster I",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91970,
-    "name": "Imperial Hardpoint Booster II",
+    "name": "Expired Imperial Hardpoint Booster II",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91971,
-    "name": "Imperial Hardpoint Booster III",
+    "name": "Expired Imperial Hardpoint Booster III",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91972,
-    "name": "State Hardpoint Booster II",
+    "name": "Expired State Hardpoint Booster II",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91973,
-    "name": "State Hardpoint Booster III",
+    "name": "Expired State Hardpoint Booster III",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91974,
-    "name": "Federation Hardpoint Booster II",
+    "name": "Expired Federation Hardpoint Booster II",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91975,
-    "name": "Federation Hardpoint Booster III",
+    "name": "Expired Federation Hardpoint Booster III",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91976,
-    "name": "Republic Hardpoint Booster II",
+    "name": "Expired Republic Hardpoint Booster II",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 91977,
-    "name": "Republic Hardpoint Booster III",
+    "name": "Expired Republic Hardpoint Booster III",
     "groupID": 303,
     "volume": 1.0,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
@@ -441676,7 +441676,7 @@
   },
   {
     "typeID": 92410,
-    "name": "Guristas Info Siphon",
+    "name": "Guristas Info Shard S",
     "groupID": 1207,
     "volume": 27500.0,
     "published": false,
@@ -442288,7 +442288,7 @@
   },
   {
     "typeID": 92565,
-    "name": "Raspite X-Grade",
+    "name": "Flawed Raspite",
     "groupID": 5083,
     "volume": 1.0,
     "published": true,
@@ -442297,7 +442297,7 @@
   },
   {
     "typeID": 92566,
-    "name": "Polycrase X-Grade",
+    "name": "Flawed Polycrase",
     "groupID": 5084,
     "volume": 1.0,
     "published": true,
@@ -442306,7 +442306,7 @@
   },
   {
     "typeID": 92567,
-    "name": "Moissanite X-Grade",
+    "name": "Flawed Moissanite",
     "groupID": 5085,
     "volume": 1.0,
     "published": true,
@@ -442315,7 +442315,7 @@
   },
   {
     "typeID": 92568,
-    "name": "Kangite X-Grade",
+    "name": "Flawed Kangite",
     "groupID": 5086,
     "volume": 1.0,
     "published": true,
@@ -442324,37 +442324,37 @@
   },
   {
     "typeID": 92569,
-    "name": "Crystalline Raspite",
+    "name": "Flawed Crystalline Raspite",
     "groupID": 18,
     "volume": 0.01,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 92570,
-    "name": "Crystalline Polycrase",
+    "name": "Flawed Crystalline Polycrase",
     "groupID": 18,
     "volume": 0.01,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 92571,
-    "name": "Crystalline Moissanite",
+    "name": "Flawed Crystalline Moissanite",
     "groupID": 18,
     "volume": 0.01,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
   {
     "typeID": 92572,
-    "name": "Crystalline Kangite",
+    "name": "Flawed Crystalline Kangite",
     "groupID": 18,
     "volume": 0.01,
-    "published": true,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 19
   },
@@ -443071,7 +443071,7 @@
   },
   {
     "typeID": 92818,
-    "name": "Compressed Raspite X-Grade",
+    "name": "Compressed Flawed Raspite",
     "groupID": 5083,
     "volume": 0.01,
     "published": true,
@@ -443080,7 +443080,7 @@
   },
   {
     "typeID": 92819,
-    "name": "Compressed Polycrase X-Grade",
+    "name": "Compressed Flawed Polycrase",
     "groupID": 5084,
     "volume": 0.01,
     "published": true,
@@ -443089,7 +443089,7 @@
   },
   {
     "typeID": 92820,
-    "name": "Compressed Moissanite X-Grade",
+    "name": "Compressed Flawed Moissanite",
     "groupID": 5085,
     "volume": 0.01,
     "published": true,
@@ -443098,7 +443098,7 @@
   },
   {
     "typeID": 92821,
-    "name": "Compressed Kangite X-Grade",
+    "name": "Compressed Flawed Kangite",
     "groupID": 5086,
     "volume": 0.01,
     "published": true,
@@ -444349,7 +444349,7 @@
   },
   {
     "typeID": 93083,
-    "name": "FW Complex - Contested FRF ELT-5 - Attacker Spawner (DO NOT TRANSLATE)",
+    "name": "FW Complex - Contested FRF ELT-10 - Attacker Spawner (DO NOT TRANSLATE)",
     "groupID": 227,
     "volume": 0,
     "published": false,
@@ -444862,7 +444862,7 @@
   },
   {
     "typeID": 93143,
-    "name": "Prototype 'Pluto' Mining Drone",
+    "name": "'Pluto' Mining Drone",
     "groupID": 101,
     "volume": 1100.0,
     "published": true,
@@ -444871,7 +444871,7 @@
   },
   {
     "typeID": 93144,
-    "name": "Prototype 'Pluto' Mining Drone Blueprint",
+    "name": "'Pluto' Mining Drone Blueprint",
     "groupID": 177,
     "volume": 0.01,
     "published": true,
@@ -444880,7 +444880,7 @@
   },
   {
     "typeID": 93145,
-    "name": "Prototype 'Pluto' Ice Harvesting Drone",
+    "name": "'Pluto' Ice Harvesting Drone",
     "groupID": 101,
     "volume": 1100.0,
     "published": true,
@@ -444889,7 +444889,7 @@
   },
   {
     "typeID": 93146,
-    "name": "Prototype 'Pluto' Ice Harvesting Drone Blueprint",
+    "name": "'Pluto' Ice Harvesting Drone Blueprint",
     "groupID": 177,
     "volume": 0.01,
     "published": true,
@@ -445276,7 +445276,7 @@
   },
   {
     "typeID": 93199,
-    "name": "HoR Crow",
+    "name": "Expired Imperial Defense Booster II",
     "groupID": 1167,
     "volume": 26500.0,
     "published": false,
@@ -446203,7 +446203,7 @@
   },
   {
     "typeID": 93471,
-    "name": "State Directive - Unlimited",
+    "name": "PL_PointLight_Green_01a",
     "groupID": 4726,
     "volume": 0.1,
     "published": true,
@@ -447049,7 +447049,7 @@
   },
   {
     "typeID": 93609,
-    "name": "Imperial War Reserves Supply Package",
+    "name": "Talman’s Ashimmu",
     "groupID": 314,
     "volume": 0.01,
     "published": true,
@@ -447346,7 +447346,7 @@
   },
   {
     "typeID": 93643,
-    "name": "Supplies: Battle of Pator",
+    "name": "Talman’s Ashimmu",
     "groupID": 1194,
     "volume": 3000.0,
     "published": true,
@@ -448012,7 +448012,7 @@
   },
   {
     "typeID": 93778,
-    "name": "Expired Basic Capsuleer Day XXIII Glamourex Booster",
+    "name": "Conquest Glameroux Booster",
     "groupID": 303,
     "volume": 1.0,
     "published": false,
@@ -449173,7 +449173,7 @@
   },
   {
     "typeID": 94035,
-    "name": "Deimos Presidential Agent SKIN",
+    "name": "Complex Alpha",
     "groupID": 1950,
     "volume": 0.01,
     "published": true,
@@ -449632,7 +449632,7 @@
   },
   {
     "typeID": 94121,
-    "name": "Cradle of Freedom - Unlimited",
+    "name": "Talman’s Ashimmu",
     "groupID": 4726,
     "volume": 0.1,
     "published": true,
@@ -450721,7 +450721,7 @@
   },
   {
     "typeID": 95396,
-    "name": "Defiant Latten Metallic - Limited",
+    "name": "Defiant Ochre Metallic - Limited",
     "groupID": 4726,
     "volume": 0.1,
     "published": true,
@@ -450730,7 +450730,7 @@
   },
   {
     "typeID": 95397,
-    "name": "Defiant Latten Metallic - Unlimited",
+    "name": "Defiant Ochre Metallic - Unlimited",
     "groupID": 4726,
     "volume": 0.1,
     "published": true,
@@ -450888,7 +450888,7 @@
     "volume": 5.0,
     "published": true,
     "portionSize": 1,
-    "metaGroupID": 4
+    "metaGroupID": 63
   },
   {
     "typeID": 95415,
@@ -451800,10 +451800,82 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 95629,
+    "name": "Oracle Navy Issue",
+    "groupID": 1201,
+    "volume": 234000.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 95630,
+    "name": "Naga Navy Issue",
+    "groupID": 1201,
+    "volume": 252000.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 95631,
+    "name": "Talos Navy Issue",
+    "groupID": 1201,
+    "volume": 270000.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 95632,
+    "name": "Tornado Fleet Issue",
+    "groupID": 1201,
+    "volume": 216000.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
     "typeID": 95633,
     "name": "Minmatar Pilot",
     "groupID": 4091,
     "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95634,
+    "name": "Oracle Navy Issue Blueprint",
+    "groupID": 489,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95635,
+    "name": "Naga Navy Issue Blueprint",
+    "groupID": 489,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95636,
+    "name": "Talos Navy Issue Blueprint",
+    "groupID": 489,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95637,
+    "name": "Tornado Fleet Issue Blueprint",
+    "groupID": 489,
+    "volume": 0.01,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
@@ -451958,6 +452030,78 @@
     "groupID": 1452,
     "volume": 0,
     "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95664,
+    "name": "Oracle Navy Issue Corporation Emblem",
+    "groupID": 4471,
+    "volume": 0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95665,
+    "name": "Oracle Navy Issue Alliance Emblem",
+    "groupID": 4471,
+    "volume": 0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95666,
+    "name": "Naga Navy Issue Corporation Emblem",
+    "groupID": 4471,
+    "volume": 0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95667,
+    "name": "Naga Navy Issue Alliance Emblem",
+    "groupID": 4471,
+    "volume": 0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95668,
+    "name": "Talos Navy Issue Corporation Emblem",
+    "groupID": 4471,
+    "volume": 0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95669,
+    "name": "Talos Navy Issue Alliance Emblem",
+    "groupID": 4471,
+    "volume": 0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95670,
+    "name": "Tornado Fleet Issue Corporation Emblem",
+    "groupID": 4471,
+    "volume": 0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95671,
+    "name": "Tornado Fleet Issue Alliance Emblem",
+    "groupID": 4471,
+    "volume": 0,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -452158,6 +452302,15 @@
     "published": false,
     "portionSize": 1,
     "metaGroupID": 1
+  },
+  {
+    "typeID": 95809,
+    "name": "Small Federation Navy Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
   },
   {
     "typeID": 95813,
@@ -452383,6 +452536,348 @@
     "published": false,
     "portionSize": 1,
     "metaGroupID": 1
+  },
+  {
+    "typeID": 95859,
+    "name": "Academy Merlin",
+    "groupID": 25,
+    "volume": 16500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95860,
+    "name": "Academy Incursus",
+    "groupID": 25,
+    "volume": 29500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95861,
+    "name": "Academy Probe",
+    "groupID": 25,
+    "volume": 19500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95862,
+    "name": "Academy Venture",
+    "groupID": 25,
+    "volume": 29500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95863,
+    "name": "Academy Damage Control",
+    "groupID": 60,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95864,
+    "name": "Academy Magnetic Field Stabilizer",
+    "groupID": 302,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95865,
+    "name": "Academy 1MN Afterburner",
+    "groupID": 46,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95866,
+    "name": "Academy Small Shield Booster",
+    "groupID": 40,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95867,
+    "name": "Academy Cap Recharger",
+    "groupID": 43,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95868,
+    "name": "Academy Small Cap Battery",
+    "groupID": 61,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95869,
+    "name": "Academy 125mm Railgun",
+    "groupID": 74,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95870,
+    "name": "Academy Small EM Shield Reinforcer",
+    "groupID": 774,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95871,
+    "name": "Academy Small Thermal Shield Reinforcer",
+    "groupID": 774,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95872,
+    "name": "Academy Small Capacitor Control Circuit",
+    "groupID": 781,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95873,
+    "name": "Academy Lead Charge S",
+    "groupID": 85,
+    "volume": 0.0025,
+    "published": false,
+    "portionSize": 100,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95874,
+    "name": "Academy Antimatter Charge S",
+    "groupID": 85,
+    "volume": 0.0025,
+    "published": false,
+    "portionSize": 100,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95875,
+    "name": "Academy Iron Charge S",
+    "groupID": 85,
+    "volume": 0.0025,
+    "published": false,
+    "portionSize": 100,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95876,
+    "name": "Academy Small Armor Repairer",
+    "groupID": 62,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95877,
+    "name": "Academy Multispectrum Coating",
+    "groupID": 98,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95878,
+    "name": "Academy EM Shield Amplifier",
+    "groupID": 295,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95879,
+    "name": "Academy Small Auxiliary Nano Pump",
+    "groupID": 773,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95880,
+    "name": "Academy Small Hybrid Collision Accelerator",
+    "groupID": 776,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95881,
+    "name": "Academy Hobgoblin",
+    "groupID": 100,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95882,
+    "name": "Academy Power Diagnostic System",
+    "groupID": 766,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95883,
+    "name": "Academy Nanofiber Internal Structure",
+    "groupID": 763,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95884,
+    "name": "Academy 5MN Microwarpdrive",
+    "groupID": 46,
+    "volume": 10.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95885,
+    "name": "Academy Data Analyzer",
+    "groupID": 538,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95886,
+    "name": "Academy Relic Analyzer",
+    "groupID": 538,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95887,
+    "name": "Academy Scan Rangefinding Array",
+    "groupID": 1223,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95888,
+    "name": "Academy Core Probe Launcher",
+    "groupID": 481,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95889,
+    "name": "Academy Salvager",
+    "groupID": 1122,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95890,
+    "name": "Academy Small Gravity Capacitor Upgrade",
+    "groupID": 1233,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95891,
+    "name": "Academy Small Polycarbon Engine Housing",
+    "groupID": 782,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95892,
+    "name": "Academy Small Hyperspatial Velocity Optimizer",
+    "groupID": 782,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95893,
+    "name": "Academy Core Scanner Probe",
+    "groupID": 479,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95894,
+    "name": "Academy Medium Shield Extender",
+    "groupID": 38,
+    "volume": 10.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95895,
+    "name": "Academy Miner",
+    "groupID": 54,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 95896,
+    "name": "Academy Small Core Defense Field Extender",
+    "groupID": 774,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
   },
   {
     "typeID": 95900,
@@ -452738,6 +453233,51 @@
   {
     "typeID": 95980,
     "name": "Pochven Wormholes - Enemy Spawner - EDENCOM - Minmatar - Scout - Roamers (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95986,
+    "name": "Vanguard Amarr Hauler",
+    "groupID": 5151,
+    "volume": 28600.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95989,
+    "name": "Vanguard Amarr Hauler ( copy )",
+    "groupID": 5063,
+    "volume": 28600.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95990,
+    "name": "Vanguard Amarr Hauler ( copy )",
+    "groupID": 5063,
+    "volume": 28600.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95991,
+    "name": "Vanguard Amarr Hauler ( copy )",
+    "groupID": 5063,
+    "volume": 28600.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 95992,
+    "name": "Seasonal FW - Prototype Amarr Convoy Spawner",
     "groupID": 227,
     "volume": 0,
     "published": false,
@@ -453159,6 +453699,96 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 96100,
+    "name": "Synchronization Rigging",
+    "groupID": 269,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96128,
+    "name": "Medium Federation Navy Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96129,
+    "name": "Large Federation Navy Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96130,
+    "name": "Small Imperial Navy Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96131,
+    "name": "Medium Imperial Navy Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96132,
+    "name": "Large Imperial Navy Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96136,
+    "name": "Small Republic Fleet Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96137,
+    "name": "Medium Republic Fleet Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96138,
+    "name": "Large Republic Fleet Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96139,
+    "name": "Small Caldari Navy Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
     "typeID": 96140,
     "name": "Armageddon Shattered Paradigm SKIN",
     "groupID": 1950,
@@ -453195,6 +453825,132 @@
     "metaGroupID": 17
   },
   {
+    "typeID": 96144,
+    "name": "Medium Caldari Navy Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96145,
+    "name": "Large Caldari Navy Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96146,
+    "name": "Small Imperial Navy Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96147,
+    "name": "Medium Imperial Navy Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96148,
+    "name": "Large Imperial Navy Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96149,
+    "name": "Small Caldari Navy Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96150,
+    "name": "Medium Caldari Navy Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96151,
+    "name": "Large Caldari Navy Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96152,
+    "name": "Small Federation Navy Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96153,
+    "name": "Medium Federation Navy Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96154,
+    "name": "Large Federation Navy Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96155,
+    "name": "Small Republic Fleet Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96156,
+    "name": "Medium Republic Fleet Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96157,
+    "name": "Large Republic Fleet Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
     "typeID": 96158,
     "name": "Vexor Shattered Paradigm SKIN",
     "groupID": 1950,
@@ -453229,6 +453985,780 @@
     "published": true,
     "portionSize": 1,
     "metaGroupID": 17
+  },
+  {
+    "typeID": 96162,
+    "name": "Drone Bunker",
+    "groupID": 494,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96163,
+    "name": "Non-Interactable ORE HISC-99 Ice Refinery",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96167,
+    "name": "Non-Interactable Sanctuary EVE Gate Research Facility (Do not translate)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96168,
+    "name": "Non-Interactable Mammoth (Do not translate)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96169,
+    "name": "Non-interactable Habitation Brothel (do not translate)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96170,
+    "name": "Non-interactable Habitation Casino (do not translate)",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96171,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 1 - Warp Speed  - (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96172,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 2 - Subcapital Energy Turret Damage & Cap Usage ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96173,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 3 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96174,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 4 - Mining Critical Chance ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96175,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 5 - Stasis Grappler Base Strength ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96176,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 6 - Scan Probe Strength Bonus ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96177,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 7 - subcapital armor and remote armor repairer capacitor cost reduction ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96178,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 8 - Capacitor Battery Amount ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96179,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 9 - Amarr General Armor HP Buff ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96180,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 10 - Conquest Engine Hitpoints ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96181,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 11 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96182,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 12 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96183,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 13 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96184,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 14 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96185,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 15 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96186,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 16 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96187,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 17 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96188,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 18 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96189,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 19 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96190,
+    "name": "SFW Amarr Conquest Track System Dbuff Emitter 20 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96191,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 1 - Warp Speed ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96192,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 2 - Subcapital Missile Launcher rate of fire and missile application ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96193,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 3 - Mining Critical Hit Chance ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96194,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 4 - missile guidance and computer velocity bonus ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96195,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 5 - directional scanner range ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96196,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 6 - Missile aoe cloud size reduction and shield booster remote shield booster capacitor cost ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96197,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 7 - Shield Booster Amplifier shield boost amount ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96198,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 8 - Caldari General Shield HP Bonus ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96199,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 9 - Conquest Engine Hitpoints ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96200,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 10 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96201,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 11 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96202,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 12 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96203,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 13 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96204,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 14 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96205,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 15 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96206,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 16 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96207,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 17 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96208,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 18 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96209,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 19 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96210,
+    "name": "SFW Caldari Conquest Track System Dbuff Emitter 20 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96211,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 1 - Warp Speed Rearguard - ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96212,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 2 - Hybrid Damage and Tracking ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96213,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 3 - Mining Critical Hit Chance ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96214,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 4 - Scan Probe Strength ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96215,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 5 - Tracking speed and subcapital armor and remote armor cap costs ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96216,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 6 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96217,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 7 - tracking enhancer and tracking computer tracking speed ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96218,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 8 - Gallente General Armor HP bonus ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96219,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 9 - Conquest Engine Hitpoints ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96220,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 10 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96221,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 11 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96222,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 12 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96223,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 13 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96224,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 14 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96225,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 15 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96226,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 16 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96227,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 17 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96228,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 18 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96229,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 19 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96230,
+    "name": "SFW Gallente Conquest Track System Dbuff Emitter 20 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96231,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 1 - Warp Speed Bonus ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96232,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 2 - subcapital projectile damage and falloff ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96233,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 3 - Mining Critical Hit Chance ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96234,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 4 - Overdrive Injector System flat velocity increase ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96235,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 5 - Directional Scanner Range ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96236,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 6 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96237,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 7 - bonus to tracking enhancer falloff ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96238,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 8 - Minmatar General Shield HP Bonus ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96239,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 9 - Conquest Engine Hitpoints ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96240,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 10 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96241,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 11 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96242,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 12 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96243,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 13 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96244,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 14 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96245,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 15 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96246,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 16 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96247,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 17 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96248,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 18 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96249,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 19 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96250,
+    "name": "SFW Minmatar Conquest Track System Dbuff Emitter 20 ( DO NOT TRANSLATE )",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
   },
   {
     "typeID": 96278,
@@ -453303,10 +454833,235 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 96286,
+    "name": "Raspite Z-Grade",
+    "groupID": 5083,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 100,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 96287,
     "name": "CH Old Content - Enemy Spawner - Triglavian - Easy (DO NOT TRANSLATE)",
     "groupID": 227,
     "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96288,
+    "name": "Polycrase Z-Grade",
+    "groupID": 5084,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 100,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96289,
+    "name": "Moissanite Z-Grade",
+    "groupID": 5085,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 100,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96290,
+    "name": "Kangite Z-Grade",
+    "groupID": 5086,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 100,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96291,
+    "name": "Compressed Raspite Z-Grade",
+    "groupID": 5083,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 100,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96292,
+    "name": "Compressed Polycrase Z-Grade",
+    "groupID": 5084,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 100,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96293,
+    "name": "Compressed Moissanite Z-Grade",
+    "groupID": 5085,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 100,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96294,
+    "name": "Compressed Kangite Z-Grade",
+    "groupID": 5086,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 100,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96295,
+    "name": "Non Interactable Serpentis Barrier (Do not translate)",
+    "groupID": 1975,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96296,
+    "name": "Non Interactable Serpentis Fence (Do not translate)",
+    "groupID": 1975,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96298,
+    "name": "CONCORD Starship Vessel",
+    "groupID": 697,
+    "volume": 1080000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96299,
+    "name": "Into the Light Trader",
+    "groupID": 5254,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96301,
+    "name": "DED Officer 1st Class Vessel",
+    "groupID": 695,
+    "volume": 101000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96302,
+    "name": "xer Qosh’s Salvation",
+    "groupID": 5186,
+    "volume": 28600.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96303,
+    "name": "Torigo’s Simurgh",
+    "groupID": 5187,
+    "volume": 28600.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96304,
+    "name": "Revelli’s Gaia",
+    "groupID": 5188,
+    "volume": 28600.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96305,
+    "name": "Filmir’s Ymir",
+    "groupID": 5189,
+    "volume": 28600.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96306,
+    "name": "Amarr FW Salvation Wreck",
+    "groupID": 186,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96307,
+    "name": "Caldari FW Simurgh Wreck",
+    "groupID": 186,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96308,
+    "name": "Gallente FW Gaia Wreck",
+    "groupID": 186,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96309,
+    "name": "Minmatar FW Ymir Wreck",
+    "groupID": 186,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96311,
+    "name": "Imperial Conquest Engine",
+    "groupID": 5198,
+    "volume": 8000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96312,
+    "name": "State Conquest Engine",
+    "groupID": 5198,
+    "volume": 8000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96313,
+    "name": "Federation Conquest Engine",
+    "groupID": 5198,
+    "volume": 8000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96314,
+    "name": "Republic Conquest Engine",
+    "groupID": 5198,
+    "volume": 8000.0,
     "published": false,
     "portionSize": 1,
     "metaGroupID": 1
@@ -453373,6 +455128,15 @@
     "published": true,
     "portionSize": 1,
     "metaGroupID": 17
+  },
+  {
+    "typeID": 96322,
+    "name": "CONCORD Frigate Vessel",
+    "groupID": 693,
+    "volume": 20400.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
   },
   {
     "typeID": 96323,
@@ -453499,6 +455263,87 @@
     "published": true,
     "portionSize": 1,
     "metaGroupID": 19
+  },
+  {
+    "typeID": 96337,
+    "name": "Non Interactable Amarr Propaganda Broadcast Structure",
+    "groupID": 1975,
+    "volume": 100.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96338,
+    "name": "Non Interactable Caldari Propaganda Broadcast Structure",
+    "groupID": 1975,
+    "volume": 100.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96339,
+    "name": "Non Interactable Gallente Propaganda Broadcast Structure",
+    "groupID": 1975,
+    "volume": 100.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96340,
+    "name": "Non Interactable Minmatar Propaganda Broadcast Structure",
+    "groupID": 1975,
+    "volume": 100.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96515,
+    "name": "Imperial Light Token",
+    "groupID": 1194,
+    "volume": 0.001,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96516,
+    "name": "Federal Equilibrium Token",
+    "groupID": 1194,
+    "volume": 0.001,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96517,
+    "name": "State Security Token",
+    "groupID": 1194,
+    "volume": 0.001,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96518,
+    "name": "Republic Silence Token",
+    "groupID": 1194,
+    "volume": 0.001,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 96541,
+    "name": "Small Dark Blood Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
   },
   {
     "typeID": 96542,
@@ -453654,6 +455499,15 @@
     "metaGroupID": 19
   },
   {
+    "typeID": 96559,
+    "name": "Medium Dark Blood Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
     "typeID": 96560,
     "name": "Harvest Damage Booster III",
     "groupID": 303,
@@ -453688,6 +455542,15 @@
     "published": true,
     "portionSize": 1,
     "metaGroupID": 19
+  },
+  {
+    "typeID": 96564,
+    "name": "Large Dark Blood Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
   },
   {
     "typeID": 96565,
@@ -453870,6 +455733,15 @@
     "metaGroupID": 19
   },
   {
+    "typeID": 96587,
+    "name": "Small True Sansha Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
     "typeID": 96588,
     "name": "Chemal Tech Exploration Booster I",
     "groupID": 303,
@@ -453922,6 +455794,33 @@
     "published": true,
     "portionSize": 1,
     "metaGroupID": 19
+  },
+  {
+    "typeID": 96594,
+    "name": "Medium True Sansha Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96595,
+    "name": "Large True Sansha Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96600,
+    "name": "Non Interactable Amarr Barricade",
+    "groupID": 1975,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
   },
   {
     "typeID": 96601,
@@ -454140,6 +456039,15 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 96625,
+    "name": "Small Shadow Serpentis Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
     "typeID": 96626,
     "name": "Triangle Outline Thin - Unlimited",
     "groupID": 4726,
@@ -454264,6 +456172,24 @@
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
+  },
+  {
+    "typeID": 96640,
+    "name": "Medium Shadow Serpentis Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96641,
+    "name": "Large Shadow Serpentis Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
   },
   {
     "typeID": 96642,
@@ -454698,6 +456624,15 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 96696,
+    "name": "Small Dread Guristas Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
     "typeID": 96718,
     "name": "Blood Sacrament Trader",
     "groupID": 226,
@@ -454705,6 +456640,24 @@
     "published": false,
     "portionSize": 1,
     "metaGroupID": 1
+  },
+  {
+    "typeID": 96719,
+    "name": "Medium Dread Guristas Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96720,
+    "name": "Large Dread Guristas Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
   },
   {
     "typeID": 96721,
@@ -454723,6 +456676,33 @@
     "published": false,
     "portionSize": 1,
     "metaGroupID": 1
+  },
+  {
+    "typeID": 96723,
+    "name": "Small Domination Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96725,
+    "name": "Medium Domination Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96726,
+    "name": "Large Domination Synchronizer",
+    "groupID": 5140,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
   },
   {
     "typeID": 96767,
@@ -454777,6 +456757,141 @@
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
+  },
+  {
+    "typeID": 96774,
+    "name": "Small Dark Blood Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96775,
+    "name": "Medium Dark Blood Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96776,
+    "name": "Large Dark Blood Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96777,
+    "name": "Small True Sansha Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96778,
+    "name": "Medium True Sansha Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96779,
+    "name": "Large True Sansha Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96780,
+    "name": "Small Dread Guristas Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96781,
+    "name": "Medium Dread Guristas Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96782,
+    "name": "Large Dread Guristas Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96783,
+    "name": "Small Shadow Serpentis Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96784,
+    "name": "Medium Shadow Serpentis Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96785,
+    "name": "Large Shadow Serpentis Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96786,
+    "name": "Small Domination Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96787,
+    "name": "Medium Domination Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 96788,
+    "name": "Large Domination Synchronizer Blueprint",
+    "groupID": 787,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
   },
   {
     "typeID": 96789,
@@ -455202,6 +457317,15 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 96837,
+    "name": "Non Interactable Amarr Stargate",
+    "groupID": 1975,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 96838,
     "name": "Ossified Beige Gloss - Unlimited",
     "groupID": 4726,
@@ -455274,6 +457398,24 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 96846,
+    "name": "Non Interactable Stationary Tayra",
+    "groupID": 1975,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97193,
+    "name": "Non Interactable Starbase Auxiliary Power Array",
+    "groupID": 1975,
+    "volume": 100.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 97198,
     "name": "Rorqual Nautgripur Industrial Input SKIN",
     "groupID": 1950,
@@ -455342,6 +457484,42 @@
     "groupID": 474,
     "volume": 0.1,
     "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97211,
+    "name": "Non Interactable Amarr Barricade",
+    "groupID": 1975,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97212,
+    "name": "Non Interactable Amarr Barrier",
+    "groupID": 1975,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97213,
+    "name": "Non Interactable Amarr Fence",
+    "groupID": 1975,
+    "volume": 100000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97229,
+    "name": "Non Interactable Stargate Gallente 1",
+    "groupID": 1975,
+    "volume": 100000000.0,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -455481,6 +457659,87 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 97266,
+    "name": "Academy Kestrel",
+    "groupID": 25,
+    "volume": 19700.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97267,
+    "name": "Academy Tristan",
+    "groupID": 25,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97268,
+    "name": "Academy Rifter",
+    "groupID": 25,
+    "volume": 27289.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97269,
+    "name": "Academy Breacher",
+    "groupID": 25,
+    "volume": 20000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97270,
+    "name": "Academy Punisher",
+    "groupID": 25,
+    "volume": 28600.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97271,
+    "name": "Academy Tormentor",
+    "groupID": 25,
+    "volume": 24398.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97272,
+    "name": "Academy Heron",
+    "groupID": 25,
+    "volume": 18900.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97273,
+    "name": "Academy Imicus",
+    "groupID": 25,
+    "volume": 21500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97274,
+    "name": "Academy Magnate",
+    "groupID": 25,
+    "volume": 22100.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
     "typeID": 97283,
     "name": "CH Trig Proving Challenge Spawner - Difficulty 1 (DO NOT TRANSLATE)",
     "groupID": 227,
@@ -455596,6 +457855,267 @@
     "published": true,
     "portionSize": 250,
     "metaGroupID": 1
+  },
+  {
+    "typeID": 97316,
+    "name": "Academy Ballistic Control System",
+    "groupID": 367,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97317,
+    "name": "Academy Multispectrum Shield Hardener",
+    "groupID": 77,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97318,
+    "name": "Academy Thermal Shield Amplifier",
+    "groupID": 295,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97319,
+    "name": "Academy Rocket Launcher",
+    "groupID": 507,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97320,
+    "name": "Academy Gyrostabilizer",
+    "groupID": 59,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97321,
+    "name": "Academy Tracking Computer",
+    "groupID": 213,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97322,
+    "name": "Academy 200mm AutoCannon",
+    "groupID": 55,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97323,
+    "name": "Academy Small Projectile Collision Accelerator",
+    "groupID": 777,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97324,
+    "name": "Academy Warrior",
+    "groupID": 100,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97325,
+    "name": "Academy Acolyte",
+    "groupID": 100,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97326,
+    "name": "Academy Heat Sink",
+    "groupID": 205,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97327,
+    "name": "Academy Dual Light Pulse Laser",
+    "groupID": 53,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97328,
+    "name": "Academy Tracking Enhancer",
+    "groupID": 211,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97329,
+    "name": "Academy Small Focused Beam Laser",
+    "groupID": 53,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97330,
+    "name": "Academy Overdrive Injector System",
+    "groupID": 764,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97331,
+    "name": "Academy Drone Damage Amplifier",
+    "groupID": 645,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97332,
+    "name": "Academy 75mm Gatling Rail",
+    "groupID": 74,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97334,
+    "name": "Academy Scan Pinpointing Array",
+    "groupID": 1223,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97335,
+    "name": "Academy Scourge Rocket",
+    "groupID": 387,
+    "volume": 0.005,
+    "published": false,
+    "portionSize": 100,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97336,
+    "name": "Academy Mjolnir Rocket",
+    "groupID": 387,
+    "volume": 0.005,
+    "published": false,
+    "portionSize": 100,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97337,
+    "name": "Academy Inferno Rocket",
+    "groupID": 387,
+    "volume": 0.005,
+    "published": false,
+    "portionSize": 100,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97338,
+    "name": "Academy Nova Rocket",
+    "groupID": 387,
+    "volume": 0.005,
+    "published": false,
+    "portionSize": 100,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97339,
+    "name": "Academy Multifrequency S",
+    "groupID": 86,
+    "volume": 1.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97340,
+    "name": "Academy Standard S",
+    "groupID": 86,
+    "volume": 1.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97341,
+    "name": "Academy Radio S",
+    "groupID": 86,
+    "volume": 1.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97342,
+    "name": "Academy Fusion S",
+    "groupID": 83,
+    "volume": 0.0025,
+    "published": false,
+    "portionSize": 100,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97343,
+    "name": "Academy Phased Plasma S",
+    "groupID": 83,
+    "volume": 0.0025,
+    "published": false,
+    "portionSize": 100,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97344,
+    "name": "Academy Tracking Speed Script",
+    "groupID": 907,
+    "volume": 1.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97345,
+    "name": "Academy Optimal Range Script",
+    "groupID": 907,
+    "volume": 1.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
   },
   {
     "typeID": 97348,
@@ -456039,12 +458559,309 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 97509,
+    "name": "Academy Small Focused Pulse Laser",
+    "groupID": 53,
+    "volume": 5.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 62
+  },
+  {
+    "typeID": 97512,
+    "name": "Aberrant Raspite",
+    "groupID": 18,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97513,
+    "name": "Aberrant Polycrase",
+    "groupID": 18,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97514,
+    "name": "Aberrant Moissanite",
+    "groupID": 18,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97515,
+    "name": "Aberrant Kangite",
+    "groupID": 18,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 97516,
     "name": "Akoman Blueprint Crate",
     "groupID": 1194,
     "volume": 1.0,
     "published": true,
     "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97537,
+    "name": "Drifter Containment Crystal (Amarr)",
+    "groupID": 314,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97541,
+    "name": "Drifter Containment Crystal (Caldari)",
+    "groupID": 314,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97542,
+    "name": "Drifter Containment Crystal (Gallente)",
+    "groupID": 314,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97543,
+    "name": "Drifter Containment Crystal (Minmatar)",
+    "groupID": 314,
+    "volume": 0.1,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97544,
+    "name": "Thermoelectric Flux Log",
+    "groupID": 1194,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97545,
+    "name": "Shield Failover Report",
+    "groupID": 1194,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97546,
+    "name": "Rogue Anoikis Telemetry",
+    "groupID": 1194,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97547,
+    "name": "Stereo-Collapse Signal",
+    "groupID": 1194,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97548,
+    "name": "Republic Strategic Intel",
+    "groupID": 1194,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97549,
+    "name": "Federation Strategic Intel",
+    "groupID": 1194,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97550,
+    "name": "State Strategic Intel",
+    "groupID": 1194,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97551,
+    "name": "Imperial Strategic Intel",
+    "groupID": 1194,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97552,
+    "name": "Hyperspherical Housing",
+    "groupID": 1194,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97553,
+    "name": "Hyper-Field Projector",
+    "groupID": 1194,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97554,
+    "name": "Pulse-Mimic Circuitry",
+    "groupID": 1194,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97555,
+    "name": "Hyper-Step Connector",
+    "groupID": 1194,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97559,
+    "name": "Raspite X-Grade",
+    "groupID": 5083,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 100,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97560,
+    "name": "Polycrase X-Grade",
+    "groupID": 5084,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 100,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97561,
+    "name": "Moissanite X-Grade",
+    "groupID": 5085,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 100,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97562,
+    "name": "Kangite X-Grade",
+    "groupID": 5086,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 100,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97564,
+    "name": "Compressed Raspite X-Grade",
+    "groupID": 5083,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 100,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97566,
+    "name": "Compressed Polycrase X-Grade",
+    "groupID": 5084,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 100,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97569,
+    "name": "Compressed Moissanite X-Grade",
+    "groupID": 5085,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 100,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97570,
+    "name": "Compressed Kangite X-Grade",
+    "groupID": 5086,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 100,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97571,
+    "name": "Spreading ParticleCloud Yellow 01a",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97586,
+    "name": "Phased Prismaticite",
+    "groupID": 4918,
+    "volume": 40.0,
+    "published": false,
+    "portionSize": 100,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97587,
+    "name": "Phased Prismaticite",
+    "groupID": 4918,
+    "volume": 40.0,
+    "published": false,
+    "portionSize": 100,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97588,
+    "name": "Phased Prismaticite",
+    "groupID": 4918,
+    "volume": 40.0,
+    "published": false,
+    "portionSize": 100,
     "metaGroupID": 1
   },
   {
@@ -456089,6 +458906,33 @@
     "groupID": 1950,
     "volume": 0.01,
     "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97622,
+    "name": "Secure Strength Trader",
+    "groupID": 5254,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97623,
+    "name": "Equilibrium Trader",
+    "groupID": 5254,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97624,
+    "name": "Trail of Silence Trader",
+    "groupID": 5254,
+    "volume": 0,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -456480,6 +459324,141 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 97689,
+    "name": "Engineering Alpha Logging",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97690,
+    "name": "Engineering Beta Logging",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97691,
+    "name": "Engineering Omega Logging",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97692,
+    "name": "Logistics Alpha Reporter",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97693,
+    "name": "Logistics Beta Reporter",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97694,
+    "name": "Logistics Omega Reporter",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97695,
+    "name": "Rogue Hoard",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97696,
+    "name": "Rogue Trove",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97697,
+    "name": "Rogue Stockpile",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97698,
+    "name": "Comms Alpha Signaling",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97699,
+    "name": "Comms Beta Signaling",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97700,
+    "name": "Comms Omega Signaling",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97701,
+    "name": "Engineering Initiator",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97702,
+    "name": "Logistics Initiator",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97703,
+    "name": "Comms Initiator",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 97710,
     "name": "Sarikusa's Capital Energy Nosferatu",
     "groupID": 68,
@@ -456687,10 +459666,901 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 97747,
+    "name": "Basic Conquest Glamourex Booster",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 97748,
+    "name": "Potent Conquest Glamourex Booster",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 97749,
+    "name": "Extended Conquest Glamourex Booster",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 97753,
+    "name": "PTC - Amarr Industrialist System Wide Effect - Mining Critical Hit Chance - (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97754,
+    "name": "PTC - Caldari Industrialist System Wide Effect - Mining Critical Hit Chance - (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97755,
+    "name": "PTC - Gallente Industrialist System Wide Effect - Mining Critical Hit Chance - (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97756,
+    "name": "PTC - Minmatar Industrialist System Wide Effect - Mining Critical Hit Chance - (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97757,
+    "name": "PTC - Amarr Explorer System Wide Effect - Warp Speed Bonus - (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97758,
+    "name": "PTC - Caldari Explorer System Wide Effect - Warp Speed Bonus - (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97759,
+    "name": "PTC - Gallente Explorer System Wide Effect - Warp Speed Bonus - (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97760,
+    "name": "PTC - Minmatar Explorer System Wide Effect - Warp Speed Bonus - (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97761,
+    "name": "PTC - Amarr Enforcer System Wide Effect - Capacitor Capacity - (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97762,
+    "name": "PTC - Caldari Enforcer System Wide Effect - Shield Booster Amount - (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97763,
+    "name": "PTC - Gallente Enforcer System Wide Effect - Armor Repairer Amount - (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97764,
+    "name": "PTC - Minmatar Enforcer System Wide Effect - Signature Radius Reduction",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97765,
+    "name": "PTC - Amarr Soldier System Wide Effect - Energy Vampire and Energy Neutralizer Strength - (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97766,
+    "name": "PTC - Caldari Soldier System Wide Effect - Remote Shield Booster Amount - (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97767,
+    "name": "PTC - Gallente Soldier System Wide Effect - Remote Armor Repairer - (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97768,
+    "name": "PTC - Minmatar Soldier System Wide Effect - Target Painter Strength - (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 20.0,
+    "published": false,
+    "portionSize": 250,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97769,
+    "name": "Tormentor Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97770,
+    "name": "Maller Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97771,
+    "name": "Oracle Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97772,
+    "name": "Oracle Navy Issue Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97773,
+    "name": "Abaddon Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97774,
+    "name": "Kestrel Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97775,
+    "name": "Moa Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97776,
+    "name": "Naga Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97777,
+    "name": "Naga Navy Issue Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97778,
+    "name": "Rokh Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97779,
+    "name": "Rifter Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97780,
+    "name": "Rupture Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97781,
+    "name": "Tornado Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97782,
+    "name": "Tornado Fleet Issue Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97783,
+    "name": "Maelstrom Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97784,
+    "name": "Tristan Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97785,
+    "name": "Thorax Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97786,
+    "name": "Hyperion Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97787,
+    "name": "Talos Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97788,
+    "name": "Talos Navy Issue Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 97793,
     "name": "Herald",
     "groupID": 893,
     "volume": 28100.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 97808,
+    "name": "Amarr Conquest SKINR Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97809,
+    "name": "Caldari Conquest SKINR Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97810,
+    "name": "Gallente Conquest SKINR Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97811,
+    "name": "Minmatar Conquest SKINR Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97812,
+    "name": "Conquest Glamourex Booster Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97813,
+    "name": "Imperial Wreck",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97814,
+    "name": "Imperial Priest Wreck",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97815,
+    "name": "State Wreck",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97816,
+    "name": "State Executive Wreck",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97817,
+    "name": "Federation Wreck",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97818,
+    "name": "Federation Administrator Wreck",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97819,
+    "name": "Republic Wreck",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97820,
+    "name": "Republic Chief Wreck",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97829,
+    "name": "Guarded Imperial Wreck",
+    "groupID": 226,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97830,
+    "name": "Guarded Imperial Priest Wreck",
+    "groupID": 226,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97831,
+    "name": "Guarded State Wreck",
+    "groupID": 226,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97832,
+    "name": "Guarded State Executive Wreck",
+    "groupID": 226,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97833,
+    "name": "Guarded Federation Wreck",
+    "groupID": 226,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97834,
+    "name": "Guarded Federation Administrator Wreck",
+    "groupID": 226,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97835,
+    "name": "Guarded Republic Wreck",
+    "groupID": 226,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97836,
+    "name": "Guarded Republic Chief Wreck",
+    "groupID": 226,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97841,
+    "name": "Expedition Distress Signal",
+    "groupID": 310,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97843,
+    "name": "Damning Punisher",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97844,
+    "name": "Obstructor Merlin",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97845,
+    "name": "Crippling Incursus",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97846,
+    "name": "Hellir Rifter",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97847,
+    "name": "Damning Malediction",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97848,
+    "name": "Damning Malediction",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97849,
+    "name": "Damning Malediction",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97850,
+    "name": "Damning Malediction",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97851,
+    "name": "Obstructor Crow",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97852,
+    "name": "Obstructor Crow",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97853,
+    "name": "Obstructor Crow",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97854,
+    "name": "Obstructor Crow",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97855,
+    "name": "Crippling Ares",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97856,
+    "name": "Crippling Ares",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97857,
+    "name": "Crippling Ares",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97858,
+    "name": "Crippling Ares",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97859,
+    "name": "Hellir Stiletto",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97860,
+    "name": "Hellir Stiletto",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97861,
+    "name": "Hellir Stiletto",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97862,
+    "name": "Hellir Stiletto",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97863,
+    "name": "Righteous Coercer",
+    "groupID": 4570,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97864,
+    "name": "Defiant Cormorant",
+    "groupID": 4570,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97865,
+    "name": "Supreme Catalyst",
+    "groupID": 4570,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97866,
+    "name": "Vandal Thrasher",
+    "groupID": 4570,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97867,
+    "name": "Slothful Crucifier",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97868,
+    "name": "Activist Griffin",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97869,
+    "name": "Regressive Maulus",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97870,
+    "name": "Weaver Vigil",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97871,
+    "name": "Atgeir Claw",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97872,
+    "name": "Wrathful Crusader",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97873,
+    "name": "Activist Raptor",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97874,
+    "name": "Errant Taranis",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97875,
+    "name": "Wrathful Retribution",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97876,
+    "name": "Activist Harpy",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97877,
+    "name": "Errant Enyo",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97878,
+    "name": "Atgeir Wolf",
+    "groupID": 4569,
+    "volume": 26500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97879,
+    "name": "PTC Waylaid Expedition Spawner (Do not translate)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97880,
+    "name": "Navy Salvager",
+    "groupID": 1122,
+    "volume": 5.0,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 4
@@ -456853,7 +460723,52 @@
     "name": "Pochven Stabalized Background",
     "groupID": 5082,
     "volume": 0.1,
-    "published": false,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97899,
+    "name": "Gila Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97900,
+    "name": "Alligator Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97901,
+    "name": "Vigilant Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97902,
+    "name": "Vindicator Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97903,
+    "name": "Bhaalgorn Penumbral Shadows SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -456867,6 +460782,420 @@
     "metaGroupID": 4
   },
   {
+    "typeID": 97916,
+    "name": "Vigilant Tyrannos 'Xyston' Armor Rigging AR-1020",
+    "groupID": 5251,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97917,
+    "name": "Vigilant Tyrannos 'Xyston' Astronautics Rigging AS-1020",
+    "groupID": 5251,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97918,
+    "name": "Vigilant Tyrannos 'Xyston' Drones Rigging DR-1020",
+    "groupID": 5251,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97919,
+    "name": "Vigilant Tyrannos 'Xyston' Electronic Superiority Rigging ES-1020",
+    "groupID": 5251,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97920,
+    "name": "Vigilant Tyrannos 'Xyston' Energy Weapon Rigging EW-1020",
+    "groupID": 5251,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97921,
+    "name": "Vigilant Tyrannos 'Xyston' Hybrid Weapon Rigging HW-1020",
+    "groupID": 5251,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97922,
+    "name": "Vigilant Tyrannos 'Xyston' Projectile Weapon Rigging PW-1020",
+    "groupID": 5251,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97923,
+    "name": "Vigilant Tyrannos 'Xyston' Launcher Rigging LR-1020",
+    "groupID": 5251,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97924,
+    "name": "Vigilant Tyrannos 'Xyston' Shield Rigging SH-1020",
+    "groupID": 5251,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97925,
+    "name": "Vigilant Tyrannos 'Xyston' Synchronization Rigging SY-1020",
+    "groupID": 5251,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97927,
+    "name": "Secure Strength Trader",
+    "groupID": 310,
+    "volume": 1.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97928,
+    "name": "Equilibrium Trader",
+    "groupID": 310,
+    "volume": 1.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97929,
+    "name": "Into the Light Trader",
+    "groupID": 310,
+    "volume": 1.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97930,
+    "name": "Trail of Silence Trader",
+    "groupID": 310,
+    "volume": 1.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97932,
+    "name": "Vanguard PTC HighSec SARO Spawner (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97935,
+    "name": "Lieutenant Marshal",
+    "groupID": 1667,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97936,
+    "name": "Path to Conquest SARO  HighSec combat site boss spawner (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97954,
+    "name": "Captain Marshal",
+    "groupID": 1667,
+    "volume": 495000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97955,
+    "name": "Imperial Navy Stasis Webifier",
+    "groupID": 65,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 97956,
+    "name": "Imperial Navy Warp Scrambler",
+    "groupID": 52,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 97957,
+    "name": "Imperial Navy Warp Disruptor",
+    "groupID": 52,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 97958,
+    "name": "Vanguard PTC LowSec SARO Spawner (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97959,
+    "name": "Path to Conquest SARO  LowSec combat site boss spawner (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97961,
+    "name": "PTC Amarr FW General Spawner (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97962,
+    "name": "PTC Caldari FW General Spawner (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97963,
+    "name": "PTC Gallente FW General Spawner (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97964,
+    "name": "PTC Minmatar FW General Spawner (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97966,
+    "name": "Amarr FW Mission Dungeon NPC Spawner - Battleship 50 Points (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97967,
+    "name": "Caldari FW Mission Dungeon NPC Spawner - Battleship 50 Points (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97968,
+    "name": "Gallente FW Mission Dungeon NPC Spawner - Battleship 50 Points (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97969,
+    "name": "Minmatar FW Mission Dungeon NPC Spawner - Battleship 50 Points (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97970,
+    "name": "Amarr FW Mission Dungeon NPC Spawner - Battlecruiser 50 Points (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97971,
+    "name": "Caldari FW Mission Dungeon NPC Spawner - Battlecruiser 50 Points (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97972,
+    "name": "Gallente FW Mission Dungeon NPC Spawner - Battlecruiser 50 Points (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97973,
+    "name": "Minmatar FW Mission Dungeon NPC Spawner - Battlecruiser 50 Points (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97974,
+    "name": "'Vigilant' Vital Overdrive Injector System",
+    "groupID": 764,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 63
+  },
+  {
+    "typeID": 97975,
+    "name": "'Vigilant' Vital Shield Boost Amplifier",
+    "groupID": 338,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 63
+  },
+  {
+    "typeID": 97976,
+    "name": "'Vigilant' Vital Drone Navigation Computer",
+    "groupID": 644,
+    "volume": 25.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 63
+  },
+  {
+    "typeID": 97982,
+    "name": "'Vigilant' Vital Cap Recharger",
+    "groupID": 43,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 63
+  },
+  {
+    "typeID": 97983,
+    "name": "Concord Station - SARO / SWAT",
+    "groupID": 1975,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97985,
+    "name": "Surveillance Vault",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97986,
+    "name": "Operation Rogue Edge Monument",
+    "groupID": 226,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97987,
+    "name": "Starkmanir Restoration Monument",
+    "groupID": 226,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97988,
+    "name": "State Corridor Initiative Monument",
+    "groupID": 226,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97989,
+    "name": "The Blessed Exchange Monument",
+    "groupID": 226,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 97990,
+    "name": "SARO Surveillance Vault Lowsec",
+    "groupID": 306,
+    "volume": 27500.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 97992,
     "name": "Compromised Sleeper Device",
     "groupID": 319,
@@ -456874,6 +461203,105 @@
     "published": false,
     "portionSize": 1,
     "metaGroupID": 1
+  },
+  {
+    "typeID": 97993,
+    "name": "Imperial Navy Warp Disruptor Blueprint",
+    "groupID": 132,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 97994,
+    "name": "Imperial Navy Warp Scrambler Blueprint",
+    "groupID": 132,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 97995,
+    "name": "Imperial Navy Stasis Webifier Blueprint",
+    "groupID": 145,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 98019,
+    "name": "Rogue Edge Stargate",
+    "groupID": 10,
+    "volume": 10000000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98020,
+    "name": "State Corridor Stargate",
+    "groupID": 10,
+    "volume": 10000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98021,
+    "name": "State Corridor Stargate",
+    "groupID": 10,
+    "volume": 10000000.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98023,
+    "name": "Deaconry of Economic Oversight",
+    "groupID": 226,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98134,
+    "name": "SARO Monitoring Booster",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98135,
+    "name": "SARO Pursuit Booster",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98136,
+    "name": "SARO Forensic Booster",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98137,
+    "name": "SARO Enforcement Booster",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
   },
   {
     "typeID": 98138,
@@ -456912,6 +461340,24 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 98142,
+    "name": "SARO Mobile Observatory",
+    "groupID": 4107,
+    "volume": 100.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 98143,
+    "name": "SARO Mobile Observatory Blueprint",
+    "groupID": 4108,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
     "typeID": 98145,
     "name": "Blood Raider Blueprint Crate",
     "groupID": 1194,
@@ -456939,6 +461385,231 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 98149,
+    "name": "Blackout Driller",
+    "groupID": 1568,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98150,
+    "name": "Blackout Handler",
+    "groupID": 1568,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98151,
+    "name": "Corrupted Handler",
+    "groupID": 1568,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98152,
+    "name": "Bewildering Lathe",
+    "groupID": 1664,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98153,
+    "name": "Corrupted Sweeper",
+    "groupID": 1664,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98154,
+    "name": "Bewildering Sweeper",
+    "groupID": 1664,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98155,
+    "name": "Alienator Crusher",
+    "groupID": 1665,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98156,
+    "name": "Alienator Divider",
+    "groupID": 1665,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98157,
+    "name": "Corrupted Divider",
+    "groupID": 1665,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98158,
+    "name": "Scrutinizer Sorter",
+    "groupID": 1666,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98159,
+    "name": "Scrutinizer Manipulator",
+    "groupID": 1666,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98160,
+    "name": "Corrupted Sorter",
+    "groupID": 1666,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98161,
+    "name": "Infested Research Facility - Enemy Spawner - Easy - (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98162,
+    "name": "Rogue Drone Outbreak - Enemy Spawner - Roamers (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98163,
+    "name": "Infestation Rendezvous Cluster",
+    "groupID": 319,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98164,
+    "name": "Infested Research Archive",
+    "groupID": 306,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98165,
+    "name": "Outbreak Initiation Thread",
+    "groupID": 4843,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98166,
+    "name": "Infested Research Facility - Enemy Spawner - Medium - (DO NOT TRANSLATE)",
+    "groupID": 227,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98167,
+    "name": "Rogue Drone Hive Wreck",
+    "groupID": 186,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98168,
+    "name": "Conquest Salvager",
+    "groupID": 1122,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 5
+  },
+  {
+    "typeID": 98220,
+    "name": "Fractured Minmatar Background",
+    "groupID": 5082,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98221,
+    "name": "Fractured Amarr Background",
+    "groupID": 5082,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98222,
+    "name": "Fractured Caldari Background",
+    "groupID": 5082,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98223,
+    "name": "Fractured Gallente Background",
+    "groupID": 5082,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98224,
+    "name": "Fractured Background Crate",
+    "groupID": 1194,
+    "volume": 0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 98268,
     "name": "Akoman Sanguinary Savant SKIN",
     "groupID": 1950,
@@ -456957,10 +461628,847 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 98296,
+    "name": "Gradated Sunrise - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98297,
+    "name": "Gradated Sunrise - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98298,
+    "name": "Savage Palms - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98299,
+    "name": "Savage Palms - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98300,
+    "name": "Amarr Empire Emblem - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98301,
+    "name": "Amarr Empire Emblem - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98302,
+    "name": "Caldari State Emblem - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98303,
+    "name": "Caldari State Emblem - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98304,
+    "name": "Gallente Federation Emblem - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98305,
+    "name": "Gallente Federation Emblem - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98306,
+    "name": "Minmatar Republic Emblem - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98307,
+    "name": "Minmatar Republic Emblem - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98309,
+    "name": "Sirdan xer Qosh's Escape Shuttle",
+    "groupID": 5265,
+    "volume": 28600.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98310,
+    "name": "Heika Torigo's Escape Shuttle",
+    "groupID": 5266,
+    "volume": 28600.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98311,
+    "name": "Foriana Revelli's Escape Shuttle",
+    "groupID": 5267,
+    "volume": 28600.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98312,
+    "name": "Kanth Filmir's Escape Shuttle",
+    "groupID": 5268,
+    "volume": 28600.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98313,
+    "name": "Caliginous Glaze Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98314,
+    "name": "Caliginous Glaze Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98315,
+    "name": "Polished Skies Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98316,
+    "name": "Polished Skies Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98317,
+    "name": "Carmine Chrome Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98318,
+    "name": "Carmine Chrome Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98319,
+    "name": "Deep-Space Crimson Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98320,
+    "name": "Deep-Space Crimson Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98321,
+    "name": "Amber Comet Metallic - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98322,
+    "name": "Amber Comet Metallic - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98330,
+    "name": "Amber Comet Gloss - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98331,
+    "name": "Amber Comet Gloss - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98332,
+    "name": "Terracotta Core Satin - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98333,
+    "name": "Terracotta Core Satin - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98334,
+    "name": "Silken Vapors Satin - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98335,
+    "name": "Silken Vapors Satin - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98336,
+    "name": "Boosted Nightshade Satin - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98337,
+    "name": "Boosted Nightshade Satin - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98338,
+    "name": "Ultra-Indigo Matte - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98339,
+    "name": "Ultra-Indigo Matte - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98340,
+    "name": "Oceanic Coral Satin - Unlimited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98341,
+    "name": "Oceanic Coral Satin - Limited",
+    "groupID": 4726,
+    "volume": 0.1,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 98387,
     "name": "Azdaja Counter Domain - Spawner (DO NOT TRANSLATE)",
     "groupID": 227,
     "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98408,
+    "name": "Imperial Electronics Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98409,
+    "name": "Imperial Electronics Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98410,
+    "name": "Imperial Electronics Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98411,
+    "name": "Imperial Defense Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98412,
+    "name": "Imperial Defense Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98413,
+    "name": "Imperial Defense Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98414,
+    "name": "Imperial Mobility Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98415,
+    "name": "Imperial Mobility Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98416,
+    "name": "Imperial Mobility Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98417,
+    "name": "Imperial Hardpoint Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98418,
+    "name": "Imperial Hardpoint Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98419,
+    "name": "Imperial Hardpoint Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98420,
+    "name": "State Electronics Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98421,
+    "name": "State Electronics Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98422,
+    "name": "State Electronics Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98423,
+    "name": "State Defense Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98424,
+    "name": "State Defense Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98425,
+    "name": "State Defense Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98426,
+    "name": "State Mobility Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98427,
+    "name": "State Mobility Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98428,
+    "name": "State Mobility Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98429,
+    "name": "State Hardpoint Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98430,
+    "name": "State Hardpoint Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98431,
+    "name": "State Hardpoint Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98432,
+    "name": "Federation Electronics Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98433,
+    "name": "Federation Electronics Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98434,
+    "name": "Federation Electronics Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98435,
+    "name": "Federation Defense Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98436,
+    "name": "Federation Defense Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98437,
+    "name": "Federation Defense Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98438,
+    "name": "Federation Mobility Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98439,
+    "name": "Federation Mobility Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98440,
+    "name": "Federation Mobility Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98441,
+    "name": "Federation Hardpoint Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98442,
+    "name": "Federation Hardpoint Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98443,
+    "name": "Federation Hardpoint Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98444,
+    "name": "Republic Electronics Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98445,
+    "name": "Republic Electronics Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98446,
+    "name": "Republic Electronics Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98447,
+    "name": "Republic Defense Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98448,
+    "name": "Republic Defense Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98449,
+    "name": "Republic Defense Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98450,
+    "name": "Republic Mobility Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98451,
+    "name": "Republic Mobility Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98452,
+    "name": "Republic Mobility Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98453,
+    "name": "Republic Hardpoint Booster I",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98454,
+    "name": "Republic Hardpoint Booster II",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98455,
+    "name": "Republic Hardpoint Booster III",
+    "groupID": 303,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 19
+  },
+  {
+    "typeID": 98456,
+    "name": "Amarr Conquest Booster Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98457,
+    "name": "Caldari Conquest Booster Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98458,
+    "name": "Gallente Conquest Booster Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98459,
+    "name": "Minmatar Conquest Booster Crate",
+    "groupID": 1194,
+    "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98466,
+    "name": "FW Rally Point",
+    "groupID": 5270,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98482,
+    "name": "Besieger Revelation",
+    "groupID": 5190,
+    "volume": 28600.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98483,
+    "name": "Besieger Naglfar",
+    "groupID": 5193,
+    "volume": 28600.0,
     "published": false,
     "portionSize": 1,
     "metaGroupID": 1
@@ -456971,6 +462479,24 @@
     "groupID": 1950,
     "volume": 0.01,
     "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98504,
+    "name": "Besieger Moros",
+    "groupID": 5192,
+    "volume": 28600.0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98505,
+    "name": "Besieger Karura",
+    "groupID": 5191,
+    "volume": 28600.0,
+    "published": false,
     "portionSize": 1,
     "metaGroupID": 1
   },
@@ -457006,6 +462532,42 @@
     "name": "Alliance Tournament XXII Gold Background",
     "groupID": 5082,
     "volume": 1.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98650,
+    "name": "Oracle Navy Issue Mandate of Faith SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98651,
+    "name": "Naga Navy Issue State Regulator SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98652,
+    "name": "Talos Navy Issue Presidential Agent SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98653,
+    "name": "Tornado Fleet Issue Stark Strategist SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1

@@ -235255,6 +235255,146 @@
     "quantity": 1
   },
   {
+    "typeID": 95629,
+    "materialTypeID": 34,
+    "quantity": 3640000
+  },
+  {
+    "typeID": 95629,
+    "materialTypeID": 35,
+    "quantity": 1300000
+  },
+  {
+    "typeID": 95629,
+    "materialTypeID": 36,
+    "quantity": 234000
+  },
+  {
+    "typeID": 95629,
+    "materialTypeID": 37,
+    "quantity": 26000
+  },
+  {
+    "typeID": 95629,
+    "materialTypeID": 38,
+    "quantity": 10400
+  },
+  {
+    "typeID": 95629,
+    "materialTypeID": 39,
+    "quantity": 2600
+  },
+  {
+    "typeID": 95629,
+    "materialTypeID": 40,
+    "quantity": 520
+  },
+  {
+    "typeID": 95630,
+    "materialTypeID": 34,
+    "quantity": 3640000
+  },
+  {
+    "typeID": 95630,
+    "materialTypeID": 35,
+    "quantity": 1300000
+  },
+  {
+    "typeID": 95630,
+    "materialTypeID": 36,
+    "quantity": 234000
+  },
+  {
+    "typeID": 95630,
+    "materialTypeID": 37,
+    "quantity": 26000
+  },
+  {
+    "typeID": 95630,
+    "materialTypeID": 38,
+    "quantity": 10400
+  },
+  {
+    "typeID": 95630,
+    "materialTypeID": 39,
+    "quantity": 2600
+  },
+  {
+    "typeID": 95630,
+    "materialTypeID": 40,
+    "quantity": 520
+  },
+  {
+    "typeID": 95631,
+    "materialTypeID": 34,
+    "quantity": 3640000
+  },
+  {
+    "typeID": 95631,
+    "materialTypeID": 35,
+    "quantity": 1300000
+  },
+  {
+    "typeID": 95631,
+    "materialTypeID": 36,
+    "quantity": 234000
+  },
+  {
+    "typeID": 95631,
+    "materialTypeID": 37,
+    "quantity": 26000
+  },
+  {
+    "typeID": 95631,
+    "materialTypeID": 38,
+    "quantity": 10400
+  },
+  {
+    "typeID": 95631,
+    "materialTypeID": 39,
+    "quantity": 2600
+  },
+  {
+    "typeID": 95631,
+    "materialTypeID": 40,
+    "quantity": 520
+  },
+  {
+    "typeID": 95632,
+    "materialTypeID": 34,
+    "quantity": 3640000
+  },
+  {
+    "typeID": 95632,
+    "materialTypeID": 35,
+    "quantity": 1300000
+  },
+  {
+    "typeID": 95632,
+    "materialTypeID": 36,
+    "quantity": 234000
+  },
+  {
+    "typeID": 95632,
+    "materialTypeID": 37,
+    "quantity": 26000
+  },
+  {
+    "typeID": 95632,
+    "materialTypeID": 38,
+    "quantity": 10400
+  },
+  {
+    "typeID": 95632,
+    "materialTypeID": 39,
+    "quantity": 2600
+  },
+  {
+    "typeID": 95632,
+    "materialTypeID": 40,
+    "quantity": 520
+  },
+  {
     "typeID": 95741,
     "materialTypeID": 34,
     "quantity": 4368000
@@ -235290,6 +235430,986 @@
     "quantity": 624
   },
   {
+    "typeID": 95809,
+    "materialTypeID": 25590,
+    "quantity": 6
+  },
+  {
+    "typeID": 95809,
+    "materialTypeID": 25591,
+    "quantity": 12
+  },
+  {
+    "typeID": 95809,
+    "materialTypeID": 25595,
+    "quantity": 6
+  },
+  {
+    "typeID": 95809,
+    "materialTypeID": 25597,
+    "quantity": 15
+  },
+  {
+    "typeID": 95809,
+    "materialTypeID": 25599,
+    "quantity": 12
+  },
+  {
+    "typeID": 95809,
+    "materialTypeID": 25601,
+    "quantity": 5
+  },
+  {
+    "typeID": 95809,
+    "materialTypeID": 25604,
+    "quantity": 5
+  },
+  {
+    "typeID": 95809,
+    "materialTypeID": 28361,
+    "quantity": 15
+  },
+  {
+    "typeID": 95809,
+    "materialTypeID": 28362,
+    "quantity": 9
+  },
+  {
+    "typeID": 95809,
+    "materialTypeID": 28363,
+    "quantity": 3
+  },
+  {
+    "typeID": 95809,
+    "materialTypeID": 28364,
+    "quantity": 9
+  },
+  {
+    "typeID": 95809,
+    "materialTypeID": 28365,
+    "quantity": 15
+  },
+  {
+    "typeID": 95809,
+    "materialTypeID": 30304,
+    "quantity": 100
+  },
+  {
+    "typeID": 95809,
+    "materialTypeID": 30305,
+    "quantity": 100
+  },
+  {
+    "typeID": 96128,
+    "materialTypeID": 25590,
+    "quantity": 30
+  },
+  {
+    "typeID": 96128,
+    "materialTypeID": 25591,
+    "quantity": 60
+  },
+  {
+    "typeID": 96128,
+    "materialTypeID": 25595,
+    "quantity": 30
+  },
+  {
+    "typeID": 96128,
+    "materialTypeID": 25597,
+    "quantity": 75
+  },
+  {
+    "typeID": 96128,
+    "materialTypeID": 25599,
+    "quantity": 60
+  },
+  {
+    "typeID": 96128,
+    "materialTypeID": 25601,
+    "quantity": 25
+  },
+  {
+    "typeID": 96128,
+    "materialTypeID": 25604,
+    "quantity": 25
+  },
+  {
+    "typeID": 96128,
+    "materialTypeID": 28361,
+    "quantity": 75
+  },
+  {
+    "typeID": 96128,
+    "materialTypeID": 28362,
+    "quantity": 45
+  },
+  {
+    "typeID": 96128,
+    "materialTypeID": 28363,
+    "quantity": 15
+  },
+  {
+    "typeID": 96128,
+    "materialTypeID": 28364,
+    "quantity": 45
+  },
+  {
+    "typeID": 96128,
+    "materialTypeID": 28365,
+    "quantity": 75
+  },
+  {
+    "typeID": 96128,
+    "materialTypeID": 30304,
+    "quantity": 500
+  },
+  {
+    "typeID": 96128,
+    "materialTypeID": 30305,
+    "quantity": 500
+  },
+  {
+    "typeID": 96129,
+    "materialTypeID": 25590,
+    "quantity": 150
+  },
+  {
+    "typeID": 96129,
+    "materialTypeID": 25591,
+    "quantity": 300
+  },
+  {
+    "typeID": 96129,
+    "materialTypeID": 25595,
+    "quantity": 150
+  },
+  {
+    "typeID": 96129,
+    "materialTypeID": 25597,
+    "quantity": 375
+  },
+  {
+    "typeID": 96129,
+    "materialTypeID": 25599,
+    "quantity": 300
+  },
+  {
+    "typeID": 96129,
+    "materialTypeID": 25601,
+    "quantity": 125
+  },
+  {
+    "typeID": 96129,
+    "materialTypeID": 25604,
+    "quantity": 125
+  },
+  {
+    "typeID": 96129,
+    "materialTypeID": 28361,
+    "quantity": 375
+  },
+  {
+    "typeID": 96129,
+    "materialTypeID": 28362,
+    "quantity": 225
+  },
+  {
+    "typeID": 96129,
+    "materialTypeID": 28363,
+    "quantity": 75
+  },
+  {
+    "typeID": 96129,
+    "materialTypeID": 28364,
+    "quantity": 225
+  },
+  {
+    "typeID": 96129,
+    "materialTypeID": 28365,
+    "quantity": 375
+  },
+  {
+    "typeID": 96129,
+    "materialTypeID": 30304,
+    "quantity": 2500
+  },
+  {
+    "typeID": 96129,
+    "materialTypeID": 30305,
+    "quantity": 2500
+  },
+  {
+    "typeID": 96130,
+    "materialTypeID": 25592,
+    "quantity": 12
+  },
+  {
+    "typeID": 96130,
+    "materialTypeID": 25597,
+    "quantity": 15
+  },
+  {
+    "typeID": 96130,
+    "materialTypeID": 25599,
+    "quantity": 12
+  },
+  {
+    "typeID": 96130,
+    "materialTypeID": 25601,
+    "quantity": 5
+  },
+  {
+    "typeID": 96130,
+    "materialTypeID": 25603,
+    "quantity": 6
+  },
+  {
+    "typeID": 96130,
+    "materialTypeID": 25604,
+    "quantity": 5
+  },
+  {
+    "typeID": 96130,
+    "materialTypeID": 25605,
+    "quantity": 6
+  },
+  {
+    "typeID": 96130,
+    "materialTypeID": 30019,
+    "quantity": 90
+  },
+  {
+    "typeID": 96130,
+    "materialTypeID": 30021,
+    "quantity": 150
+  },
+  {
+    "typeID": 96130,
+    "materialTypeID": 30024,
+    "quantity": 90
+  },
+  {
+    "typeID": 96130,
+    "materialTypeID": 30252,
+    "quantity": 30
+  },
+  {
+    "typeID": 96130,
+    "materialTypeID": 30254,
+    "quantity": 150
+  },
+  {
+    "typeID": 96130,
+    "materialTypeID": 30304,
+    "quantity": 100
+  },
+  {
+    "typeID": 96130,
+    "materialTypeID": 30305,
+    "quantity": 100
+  },
+  {
+    "typeID": 96131,
+    "materialTypeID": 25592,
+    "quantity": 60
+  },
+  {
+    "typeID": 96131,
+    "materialTypeID": 25597,
+    "quantity": 75
+  },
+  {
+    "typeID": 96131,
+    "materialTypeID": 25599,
+    "quantity": 60
+  },
+  {
+    "typeID": 96131,
+    "materialTypeID": 25601,
+    "quantity": 25
+  },
+  {
+    "typeID": 96131,
+    "materialTypeID": 25603,
+    "quantity": 30
+  },
+  {
+    "typeID": 96131,
+    "materialTypeID": 25604,
+    "quantity": 25
+  },
+  {
+    "typeID": 96131,
+    "materialTypeID": 25605,
+    "quantity": 30
+  },
+  {
+    "typeID": 96131,
+    "materialTypeID": 30019,
+    "quantity": 450
+  },
+  {
+    "typeID": 96131,
+    "materialTypeID": 30021,
+    "quantity": 750
+  },
+  {
+    "typeID": 96131,
+    "materialTypeID": 30024,
+    "quantity": 450
+  },
+  {
+    "typeID": 96131,
+    "materialTypeID": 30252,
+    "quantity": 150
+  },
+  {
+    "typeID": 96131,
+    "materialTypeID": 30254,
+    "quantity": 750
+  },
+  {
+    "typeID": 96131,
+    "materialTypeID": 30304,
+    "quantity": 500
+  },
+  {
+    "typeID": 96131,
+    "materialTypeID": 30305,
+    "quantity": 500
+  },
+  {
+    "typeID": 96132,
+    "materialTypeID": 25592,
+    "quantity": 300
+  },
+  {
+    "typeID": 96132,
+    "materialTypeID": 25597,
+    "quantity": 375
+  },
+  {
+    "typeID": 96132,
+    "materialTypeID": 25599,
+    "quantity": 300
+  },
+  {
+    "typeID": 96132,
+    "materialTypeID": 25601,
+    "quantity": 125
+  },
+  {
+    "typeID": 96132,
+    "materialTypeID": 25603,
+    "quantity": 150
+  },
+  {
+    "typeID": 96132,
+    "materialTypeID": 25604,
+    "quantity": 125
+  },
+  {
+    "typeID": 96132,
+    "materialTypeID": 25605,
+    "quantity": 150
+  },
+  {
+    "typeID": 96132,
+    "materialTypeID": 30019,
+    "quantity": 2250
+  },
+  {
+    "typeID": 96132,
+    "materialTypeID": 30021,
+    "quantity": 3750
+  },
+  {
+    "typeID": 96132,
+    "materialTypeID": 30024,
+    "quantity": 2250
+  },
+  {
+    "typeID": 96132,
+    "materialTypeID": 30252,
+    "quantity": 750
+  },
+  {
+    "typeID": 96132,
+    "materialTypeID": 30254,
+    "quantity": 3750
+  },
+  {
+    "typeID": 96132,
+    "materialTypeID": 30304,
+    "quantity": 2500
+  },
+  {
+    "typeID": 96132,
+    "materialTypeID": 30305,
+    "quantity": 2500
+  },
+  {
+    "typeID": 96136,
+    "materialTypeID": 25589,
+    "quantity": 6
+  },
+  {
+    "typeID": 96136,
+    "materialTypeID": 25593,
+    "quantity": 12
+  },
+  {
+    "typeID": 96136,
+    "materialTypeID": 25597,
+    "quantity": 15
+  },
+  {
+    "typeID": 96136,
+    "materialTypeID": 25599,
+    "quantity": 12
+  },
+  {
+    "typeID": 96136,
+    "materialTypeID": 25601,
+    "quantity": 6
+  },
+  {
+    "typeID": 96136,
+    "materialTypeID": 25602,
+    "quantity": 5
+  },
+  {
+    "typeID": 96136,
+    "materialTypeID": 25604,
+    "quantity": 5
+  },
+  {
+    "typeID": 96136,
+    "materialTypeID": 30019,
+    "quantity": 90
+  },
+  {
+    "typeID": 96136,
+    "materialTypeID": 30021,
+    "quantity": 150
+  },
+  {
+    "typeID": 96136,
+    "materialTypeID": 30024,
+    "quantity": 90
+  },
+  {
+    "typeID": 96136,
+    "materialTypeID": 30252,
+    "quantity": 30
+  },
+  {
+    "typeID": 96136,
+    "materialTypeID": 30254,
+    "quantity": 150
+  },
+  {
+    "typeID": 96136,
+    "materialTypeID": 30304,
+    "quantity": 100
+  },
+  {
+    "typeID": 96136,
+    "materialTypeID": 30305,
+    "quantity": 100
+  },
+  {
+    "typeID": 96137,
+    "materialTypeID": 25589,
+    "quantity": 30
+  },
+  {
+    "typeID": 96137,
+    "materialTypeID": 25593,
+    "quantity": 60
+  },
+  {
+    "typeID": 96137,
+    "materialTypeID": 25597,
+    "quantity": 75
+  },
+  {
+    "typeID": 96137,
+    "materialTypeID": 25599,
+    "quantity": 60
+  },
+  {
+    "typeID": 96137,
+    "materialTypeID": 25601,
+    "quantity": 30
+  },
+  {
+    "typeID": 96137,
+    "materialTypeID": 25602,
+    "quantity": 25
+  },
+  {
+    "typeID": 96137,
+    "materialTypeID": 25604,
+    "quantity": 25
+  },
+  {
+    "typeID": 96137,
+    "materialTypeID": 30019,
+    "quantity": 450
+  },
+  {
+    "typeID": 96137,
+    "materialTypeID": 30021,
+    "quantity": 750
+  },
+  {
+    "typeID": 96137,
+    "materialTypeID": 30024,
+    "quantity": 450
+  },
+  {
+    "typeID": 96137,
+    "materialTypeID": 30252,
+    "quantity": 150
+  },
+  {
+    "typeID": 96137,
+    "materialTypeID": 30254,
+    "quantity": 750
+  },
+  {
+    "typeID": 96137,
+    "materialTypeID": 30304,
+    "quantity": 500
+  },
+  {
+    "typeID": 96137,
+    "materialTypeID": 30305,
+    "quantity": 500
+  },
+  {
+    "typeID": 96138,
+    "materialTypeID": 25589,
+    "quantity": 150
+  },
+  {
+    "typeID": 96138,
+    "materialTypeID": 25593,
+    "quantity": 300
+  },
+  {
+    "typeID": 96138,
+    "materialTypeID": 25597,
+    "quantity": 375
+  },
+  {
+    "typeID": 96138,
+    "materialTypeID": 25599,
+    "quantity": 300
+  },
+  {
+    "typeID": 96138,
+    "materialTypeID": 25601,
+    "quantity": 150
+  },
+  {
+    "typeID": 96138,
+    "materialTypeID": 25602,
+    "quantity": 125
+  },
+  {
+    "typeID": 96138,
+    "materialTypeID": 25604,
+    "quantity": 125
+  },
+  {
+    "typeID": 96138,
+    "materialTypeID": 30019,
+    "quantity": 2250
+  },
+  {
+    "typeID": 96138,
+    "materialTypeID": 30021,
+    "quantity": 3750
+  },
+  {
+    "typeID": 96138,
+    "materialTypeID": 30024,
+    "quantity": 2250
+  },
+  {
+    "typeID": 96138,
+    "materialTypeID": 30252,
+    "quantity": 750
+  },
+  {
+    "typeID": 96138,
+    "materialTypeID": 30254,
+    "quantity": 3750
+  },
+  {
+    "typeID": 96138,
+    "materialTypeID": 30304,
+    "quantity": 2500
+  },
+  {
+    "typeID": 96138,
+    "materialTypeID": 30305,
+    "quantity": 2500
+  },
+  {
+    "typeID": 96139,
+    "materialTypeID": 25588,
+    "quantity": 12
+  },
+  {
+    "typeID": 96139,
+    "materialTypeID": 25597,
+    "quantity": 15
+  },
+  {
+    "typeID": 96139,
+    "materialTypeID": 25599,
+    "quantity": 12
+  },
+  {
+    "typeID": 96139,
+    "materialTypeID": 25600,
+    "quantity": 5
+  },
+  {
+    "typeID": 96139,
+    "materialTypeID": 25601,
+    "quantity": 6
+  },
+  {
+    "typeID": 96139,
+    "materialTypeID": 25604,
+    "quantity": 5
+  },
+  {
+    "typeID": 96139,
+    "materialTypeID": 25606,
+    "quantity": 6
+  },
+  {
+    "typeID": 96139,
+    "materialTypeID": 30019,
+    "quantity": 90
+  },
+  {
+    "typeID": 96139,
+    "materialTypeID": 30021,
+    "quantity": 150
+  },
+  {
+    "typeID": 96139,
+    "materialTypeID": 30024,
+    "quantity": 90
+  },
+  {
+    "typeID": 96139,
+    "materialTypeID": 30252,
+    "quantity": 30
+  },
+  {
+    "typeID": 96139,
+    "materialTypeID": 30254,
+    "quantity": 150
+  },
+  {
+    "typeID": 96139,
+    "materialTypeID": 30304,
+    "quantity": 100
+  },
+  {
+    "typeID": 96139,
+    "materialTypeID": 30305,
+    "quantity": 100
+  },
+  {
+    "typeID": 96144,
+    "materialTypeID": 25588,
+    "quantity": 60
+  },
+  {
+    "typeID": 96144,
+    "materialTypeID": 25597,
+    "quantity": 75
+  },
+  {
+    "typeID": 96144,
+    "materialTypeID": 25599,
+    "quantity": 60
+  },
+  {
+    "typeID": 96144,
+    "materialTypeID": 25600,
+    "quantity": 25
+  },
+  {
+    "typeID": 96144,
+    "materialTypeID": 25601,
+    "quantity": 30
+  },
+  {
+    "typeID": 96144,
+    "materialTypeID": 25604,
+    "quantity": 25
+  },
+  {
+    "typeID": 96144,
+    "materialTypeID": 25606,
+    "quantity": 30
+  },
+  {
+    "typeID": 96144,
+    "materialTypeID": 30019,
+    "quantity": 450
+  },
+  {
+    "typeID": 96144,
+    "materialTypeID": 30021,
+    "quantity": 750
+  },
+  {
+    "typeID": 96144,
+    "materialTypeID": 30024,
+    "quantity": 450
+  },
+  {
+    "typeID": 96144,
+    "materialTypeID": 30252,
+    "quantity": 150
+  },
+  {
+    "typeID": 96144,
+    "materialTypeID": 30254,
+    "quantity": 750
+  },
+  {
+    "typeID": 96144,
+    "materialTypeID": 30304,
+    "quantity": 500
+  },
+  {
+    "typeID": 96144,
+    "materialTypeID": 30305,
+    "quantity": 500
+  },
+  {
+    "typeID": 96145,
+    "materialTypeID": 25588,
+    "quantity": 300
+  },
+  {
+    "typeID": 96145,
+    "materialTypeID": 25597,
+    "quantity": 375
+  },
+  {
+    "typeID": 96145,
+    "materialTypeID": 25599,
+    "quantity": 300
+  },
+  {
+    "typeID": 96145,
+    "materialTypeID": 25600,
+    "quantity": 125
+  },
+  {
+    "typeID": 96145,
+    "materialTypeID": 25601,
+    "quantity": 150
+  },
+  {
+    "typeID": 96145,
+    "materialTypeID": 25604,
+    "quantity": 125
+  },
+  {
+    "typeID": 96145,
+    "materialTypeID": 25606,
+    "quantity": 150
+  },
+  {
+    "typeID": 96145,
+    "materialTypeID": 30019,
+    "quantity": 2250
+  },
+  {
+    "typeID": 96145,
+    "materialTypeID": 30021,
+    "quantity": 3750
+  },
+  {
+    "typeID": 96145,
+    "materialTypeID": 30024,
+    "quantity": 2250
+  },
+  {
+    "typeID": 96145,
+    "materialTypeID": 30252,
+    "quantity": 750
+  },
+  {
+    "typeID": 96145,
+    "materialTypeID": 30254,
+    "quantity": 3750
+  },
+  {
+    "typeID": 96145,
+    "materialTypeID": 30304,
+    "quantity": 2500
+  },
+  {
+    "typeID": 96145,
+    "materialTypeID": 30305,
+    "quantity": 2500
+  },
+  {
+    "typeID": 96286,
+    "materialTypeID": 36,
+    "quantity": 75
+  },
+  {
+    "typeID": 96286,
+    "materialTypeID": 38,
+    "quantity": 25
+  },
+  {
+    "typeID": 96286,
+    "materialTypeID": 97512,
+    "quantity": 25
+  },
+  {
+    "typeID": 96288,
+    "materialTypeID": 36,
+    "quantity": 75
+  },
+  {
+    "typeID": 96288,
+    "materialTypeID": 38,
+    "quantity": 25
+  },
+  {
+    "typeID": 96288,
+    "materialTypeID": 97513,
+    "quantity": 25
+  },
+  {
+    "typeID": 96289,
+    "materialTypeID": 36,
+    "quantity": 75
+  },
+  {
+    "typeID": 96289,
+    "materialTypeID": 38,
+    "quantity": 25
+  },
+  {
+    "typeID": 96289,
+    "materialTypeID": 97514,
+    "quantity": 25
+  },
+  {
+    "typeID": 96290,
+    "materialTypeID": 36,
+    "quantity": 75
+  },
+  {
+    "typeID": 96290,
+    "materialTypeID": 38,
+    "quantity": 25
+  },
+  {
+    "typeID": 96290,
+    "materialTypeID": 97515,
+    "quantity": 25
+  },
+  {
+    "typeID": 96291,
+    "materialTypeID": 36,
+    "quantity": 75
+  },
+  {
+    "typeID": 96291,
+    "materialTypeID": 38,
+    "quantity": 25
+  },
+  {
+    "typeID": 96291,
+    "materialTypeID": 97512,
+    "quantity": 25
+  },
+  {
+    "typeID": 96292,
+    "materialTypeID": 36,
+    "quantity": 75
+  },
+  {
+    "typeID": 96292,
+    "materialTypeID": 38,
+    "quantity": 25
+  },
+  {
+    "typeID": 96292,
+    "materialTypeID": 97513,
+    "quantity": 25
+  },
+  {
+    "typeID": 96293,
+    "materialTypeID": 36,
+    "quantity": 75
+  },
+  {
+    "typeID": 96293,
+    "materialTypeID": 38,
+    "quantity": 25
+  },
+  {
+    "typeID": 96293,
+    "materialTypeID": 97514,
+    "quantity": 25
+  },
+  {
+    "typeID": 96294,
+    "materialTypeID": 36,
+    "quantity": 75
+  },
+  {
+    "typeID": 96294,
+    "materialTypeID": 38,
+    "quantity": 25
+  },
+  {
+    "typeID": 96294,
+    "materialTypeID": 97515,
+    "quantity": 25
+  },
+  {
+    "typeID": 96541,
+    "materialTypeID": 30304,
+    "quantity": 100
+  },
+  {
+    "typeID": 96541,
+    "materialTypeID": 30305,
+    "quantity": 100
+  },
+  {
+    "typeID": 96541,
+    "materialTypeID": 96130,
+    "quantity": 1
+  },
+  {
+    "typeID": 96541,
+    "materialTypeID": 96136,
+    "quantity": 1
+  },
+  {
     "typeID": 96542,
     "materialTypeID": 48927,
     "quantity": 1
@@ -235302,6 +236422,286 @@
   {
     "typeID": 96544,
     "materialTypeID": 48927,
+    "quantity": 1
+  },
+  {
+    "typeID": 96559,
+    "materialTypeID": 30304,
+    "quantity": 500
+  },
+  {
+    "typeID": 96559,
+    "materialTypeID": 30305,
+    "quantity": 500
+  },
+  {
+    "typeID": 96559,
+    "materialTypeID": 96131,
+    "quantity": 1
+  },
+  {
+    "typeID": 96559,
+    "materialTypeID": 96137,
+    "quantity": 1
+  },
+  {
+    "typeID": 96564,
+    "materialTypeID": 30304,
+    "quantity": 2500
+  },
+  {
+    "typeID": 96564,
+    "materialTypeID": 30305,
+    "quantity": 2500
+  },
+  {
+    "typeID": 96564,
+    "materialTypeID": 96132,
+    "quantity": 1
+  },
+  {
+    "typeID": 96564,
+    "materialTypeID": 96138,
+    "quantity": 1
+  },
+  {
+    "typeID": 96587,
+    "materialTypeID": 30304,
+    "quantity": 100
+  },
+  {
+    "typeID": 96587,
+    "materialTypeID": 30305,
+    "quantity": 100
+  },
+  {
+    "typeID": 96587,
+    "materialTypeID": 96130,
+    "quantity": 1
+  },
+  {
+    "typeID": 96587,
+    "materialTypeID": 96139,
+    "quantity": 1
+  },
+  {
+    "typeID": 96594,
+    "materialTypeID": 30304,
+    "quantity": 500
+  },
+  {
+    "typeID": 96594,
+    "materialTypeID": 30305,
+    "quantity": 500
+  },
+  {
+    "typeID": 96594,
+    "materialTypeID": 96131,
+    "quantity": 1
+  },
+  {
+    "typeID": 96594,
+    "materialTypeID": 96144,
+    "quantity": 1
+  },
+  {
+    "typeID": 96595,
+    "materialTypeID": 30304,
+    "quantity": 2500
+  },
+  {
+    "typeID": 96595,
+    "materialTypeID": 30305,
+    "quantity": 2500
+  },
+  {
+    "typeID": 96595,
+    "materialTypeID": 96132,
+    "quantity": 1
+  },
+  {
+    "typeID": 96595,
+    "materialTypeID": 96145,
+    "quantity": 1
+  },
+  {
+    "typeID": 96625,
+    "materialTypeID": 30304,
+    "quantity": 100
+  },
+  {
+    "typeID": 96625,
+    "materialTypeID": 30305,
+    "quantity": 100
+  },
+  {
+    "typeID": 96625,
+    "materialTypeID": 95809,
+    "quantity": 1
+  },
+  {
+    "typeID": 96625,
+    "materialTypeID": 96136,
+    "quantity": 1
+  },
+  {
+    "typeID": 96640,
+    "materialTypeID": 30304,
+    "quantity": 500
+  },
+  {
+    "typeID": 96640,
+    "materialTypeID": 30305,
+    "quantity": 500
+  },
+  {
+    "typeID": 96640,
+    "materialTypeID": 96128,
+    "quantity": 1
+  },
+  {
+    "typeID": 96640,
+    "materialTypeID": 96137,
+    "quantity": 1
+  },
+  {
+    "typeID": 96641,
+    "materialTypeID": 30304,
+    "quantity": 2500
+  },
+  {
+    "typeID": 96641,
+    "materialTypeID": 30305,
+    "quantity": 2500
+  },
+  {
+    "typeID": 96641,
+    "materialTypeID": 96129,
+    "quantity": 1
+  },
+  {
+    "typeID": 96641,
+    "materialTypeID": 96138,
+    "quantity": 1
+  },
+  {
+    "typeID": 96696,
+    "materialTypeID": 30304,
+    "quantity": 100
+  },
+  {
+    "typeID": 96696,
+    "materialTypeID": 30305,
+    "quantity": 100
+  },
+  {
+    "typeID": 96696,
+    "materialTypeID": 95809,
+    "quantity": 1
+  },
+  {
+    "typeID": 96696,
+    "materialTypeID": 96139,
+    "quantity": 1
+  },
+  {
+    "typeID": 96719,
+    "materialTypeID": 30304,
+    "quantity": 500
+  },
+  {
+    "typeID": 96719,
+    "materialTypeID": 30305,
+    "quantity": 500
+  },
+  {
+    "typeID": 96719,
+    "materialTypeID": 96128,
+    "quantity": 1
+  },
+  {
+    "typeID": 96719,
+    "materialTypeID": 96144,
+    "quantity": 1
+  },
+  {
+    "typeID": 96720,
+    "materialTypeID": 30304,
+    "quantity": 2500
+  },
+  {
+    "typeID": 96720,
+    "materialTypeID": 30305,
+    "quantity": 2500
+  },
+  {
+    "typeID": 96720,
+    "materialTypeID": 96129,
+    "quantity": 1
+  },
+  {
+    "typeID": 96720,
+    "materialTypeID": 96145,
+    "quantity": 1
+  },
+  {
+    "typeID": 96723,
+    "materialTypeID": 30304,
+    "quantity": 100
+  },
+  {
+    "typeID": 96723,
+    "materialTypeID": 30305,
+    "quantity": 100
+  },
+  {
+    "typeID": 96723,
+    "materialTypeID": 95809,
+    "quantity": 1
+  },
+  {
+    "typeID": 96723,
+    "materialTypeID": 96136,
+    "quantity": 1
+  },
+  {
+    "typeID": 96725,
+    "materialTypeID": 30304,
+    "quantity": 500
+  },
+  {
+    "typeID": 96725,
+    "materialTypeID": 30305,
+    "quantity": 500
+  },
+  {
+    "typeID": 96725,
+    "materialTypeID": 96128,
+    "quantity": 1
+  },
+  {
+    "typeID": 96725,
+    "materialTypeID": 96137,
+    "quantity": 1
+  },
+  {
+    "typeID": 96726,
+    "materialTypeID": 30304,
+    "quantity": 2500
+  },
+  {
+    "typeID": 96726,
+    "materialTypeID": 30305,
+    "quantity": 2500
+  },
+  {
+    "typeID": 96726,
+    "materialTypeID": 96129,
+    "quantity": 1
+  },
+  {
+    "typeID": 96726,
+    "materialTypeID": 96138,
     "quantity": 1
   },
   {
@@ -235447,6 +236847,126 @@
   {
     "typeID": 97245,
     "materialTypeID": 85397,
+    "quantity": 10
+  },
+  {
+    "typeID": 97559,
+    "materialTypeID": 34,
+    "quantity": 1000
+  },
+  {
+    "typeID": 97559,
+    "materialTypeID": 35,
+    "quantity": 750
+  },
+  {
+    "typeID": 97559,
+    "materialTypeID": 97512,
+    "quantity": 10
+  },
+  {
+    "typeID": 97560,
+    "materialTypeID": 34,
+    "quantity": 1000
+  },
+  {
+    "typeID": 97560,
+    "materialTypeID": 35,
+    "quantity": 750
+  },
+  {
+    "typeID": 97560,
+    "materialTypeID": 97513,
+    "quantity": 10
+  },
+  {
+    "typeID": 97561,
+    "materialTypeID": 34,
+    "quantity": 1000
+  },
+  {
+    "typeID": 97561,
+    "materialTypeID": 35,
+    "quantity": 750
+  },
+  {
+    "typeID": 97561,
+    "materialTypeID": 97514,
+    "quantity": 10
+  },
+  {
+    "typeID": 97562,
+    "materialTypeID": 34,
+    "quantity": 1000
+  },
+  {
+    "typeID": 97562,
+    "materialTypeID": 35,
+    "quantity": 750
+  },
+  {
+    "typeID": 97562,
+    "materialTypeID": 97515,
+    "quantity": 10
+  },
+  {
+    "typeID": 97564,
+    "materialTypeID": 34,
+    "quantity": 1000
+  },
+  {
+    "typeID": 97564,
+    "materialTypeID": 35,
+    "quantity": 750
+  },
+  {
+    "typeID": 97564,
+    "materialTypeID": 97512,
+    "quantity": 10
+  },
+  {
+    "typeID": 97566,
+    "materialTypeID": 34,
+    "quantity": 1000
+  },
+  {
+    "typeID": 97566,
+    "materialTypeID": 35,
+    "quantity": 750
+  },
+  {
+    "typeID": 97566,
+    "materialTypeID": 97513,
+    "quantity": 10
+  },
+  {
+    "typeID": 97569,
+    "materialTypeID": 34,
+    "quantity": 1000
+  },
+  {
+    "typeID": 97569,
+    "materialTypeID": 35,
+    "quantity": 750
+  },
+  {
+    "typeID": 97569,
+    "materialTypeID": 97514,
+    "quantity": 10
+  },
+  {
+    "typeID": 97570,
+    "materialTypeID": 34,
+    "quantity": 1000
+  },
+  {
+    "typeID": 97570,
+    "materialTypeID": 35,
+    "quantity": 750
+  },
+  {
+    "typeID": 97570,
+    "materialTypeID": 97515,
     "quantity": 10
   },
   {
@@ -235765,6 +237285,31 @@
     "quantity": 15
   },
   {
+    "typeID": 97880,
+    "materialTypeID": 34,
+    "quantity": 840
+  },
+  {
+    "typeID": 97880,
+    "materialTypeID": 35,
+    "quantity": 183
+  },
+  {
+    "typeID": 97880,
+    "materialTypeID": 36,
+    "quantity": 470
+  },
+  {
+    "typeID": 97880,
+    "materialTypeID": 37,
+    "quantity": 4
+  },
+  {
+    "typeID": 97880,
+    "materialTypeID": 40,
+    "quantity": 4
+  },
+  {
     "typeID": 97904,
     "materialTypeID": 3828,
     "quantity": 75
@@ -235808,5 +237353,380 @@
     "typeID": 97904,
     "materialTypeID": 11557,
     "quantity": 300
+  },
+  {
+    "typeID": 97916,
+    "materialTypeID": 38,
+    "quantity": 2
+  },
+  {
+    "typeID": 97916,
+    "materialTypeID": 39,
+    "quantity": 2
+  },
+  {
+    "typeID": 97916,
+    "materialTypeID": 40,
+    "quantity": 2
+  },
+  {
+    "typeID": 97917,
+    "materialTypeID": 38,
+    "quantity": 2
+  },
+  {
+    "typeID": 97917,
+    "materialTypeID": 39,
+    "quantity": 2
+  },
+  {
+    "typeID": 97917,
+    "materialTypeID": 40,
+    "quantity": 2
+  },
+  {
+    "typeID": 97918,
+    "materialTypeID": 38,
+    "quantity": 2
+  },
+  {
+    "typeID": 97918,
+    "materialTypeID": 39,
+    "quantity": 2
+  },
+  {
+    "typeID": 97918,
+    "materialTypeID": 40,
+    "quantity": 2
+  },
+  {
+    "typeID": 97919,
+    "materialTypeID": 38,
+    "quantity": 2
+  },
+  {
+    "typeID": 97919,
+    "materialTypeID": 39,
+    "quantity": 2
+  },
+  {
+    "typeID": 97919,
+    "materialTypeID": 40,
+    "quantity": 2
+  },
+  {
+    "typeID": 97920,
+    "materialTypeID": 38,
+    "quantity": 2
+  },
+  {
+    "typeID": 97920,
+    "materialTypeID": 39,
+    "quantity": 2
+  },
+  {
+    "typeID": 97920,
+    "materialTypeID": 40,
+    "quantity": 2
+  },
+  {
+    "typeID": 97921,
+    "materialTypeID": 38,
+    "quantity": 2
+  },
+  {
+    "typeID": 97921,
+    "materialTypeID": 39,
+    "quantity": 2
+  },
+  {
+    "typeID": 97921,
+    "materialTypeID": 40,
+    "quantity": 2
+  },
+  {
+    "typeID": 97922,
+    "materialTypeID": 38,
+    "quantity": 2
+  },
+  {
+    "typeID": 97922,
+    "materialTypeID": 39,
+    "quantity": 2
+  },
+  {
+    "typeID": 97922,
+    "materialTypeID": 40,
+    "quantity": 2
+  },
+  {
+    "typeID": 97923,
+    "materialTypeID": 38,
+    "quantity": 2
+  },
+  {
+    "typeID": 97923,
+    "materialTypeID": 39,
+    "quantity": 2
+  },
+  {
+    "typeID": 97923,
+    "materialTypeID": 40,
+    "quantity": 2
+  },
+  {
+    "typeID": 97924,
+    "materialTypeID": 38,
+    "quantity": 2
+  },
+  {
+    "typeID": 97924,
+    "materialTypeID": 39,
+    "quantity": 2
+  },
+  {
+    "typeID": 97924,
+    "materialTypeID": 40,
+    "quantity": 2
+  },
+  {
+    "typeID": 97925,
+    "materialTypeID": 38,
+    "quantity": 2
+  },
+  {
+    "typeID": 97925,
+    "materialTypeID": 39,
+    "quantity": 2
+  },
+  {
+    "typeID": 97925,
+    "materialTypeID": 40,
+    "quantity": 2
+  },
+  {
+    "typeID": 97955,
+    "materialTypeID": 34,
+    "quantity": 776
+  },
+  {
+    "typeID": 97955,
+    "materialTypeID": 35,
+    "quantity": 713
+  },
+  {
+    "typeID": 97955,
+    "materialTypeID": 36,
+    "quantity": 476
+  },
+  {
+    "typeID": 97956,
+    "materialTypeID": 34,
+    "quantity": 452
+  },
+  {
+    "typeID": 97956,
+    "materialTypeID": 35,
+    "quantity": 267
+  },
+  {
+    "typeID": 97956,
+    "materialTypeID": 36,
+    "quantity": 301
+  },
+  {
+    "typeID": 97956,
+    "materialTypeID": 37,
+    "quantity": 177
+  },
+  {
+    "typeID": 97956,
+    "materialTypeID": 39,
+    "quantity": 2
+  },
+  {
+    "typeID": 97957,
+    "materialTypeID": 34,
+    "quantity": 452
+  },
+  {
+    "typeID": 97957,
+    "materialTypeID": 35,
+    "quantity": 267
+  },
+  {
+    "typeID": 97957,
+    "materialTypeID": 36,
+    "quantity": 301
+  },
+  {
+    "typeID": 97957,
+    "materialTypeID": 37,
+    "quantity": 177
+  },
+  {
+    "typeID": 97957,
+    "materialTypeID": 39,
+    "quantity": 2
+  },
+  {
+    "typeID": 97974,
+    "materialTypeID": 34,
+    "quantity": 234
+  },
+  {
+    "typeID": 97974,
+    "materialTypeID": 35,
+    "quantity": 3413
+  },
+  {
+    "typeID": 97975,
+    "materialTypeID": 35,
+    "quantity": 23700
+  },
+  {
+    "typeID": 97975,
+    "materialTypeID": 36,
+    "quantity": 574
+  },
+  {
+    "typeID": 97975,
+    "materialTypeID": 38,
+    "quantity": 87
+  },
+  {
+    "typeID": 97975,
+    "materialTypeID": 40,
+    "quantity": 34
+  },
+  {
+    "typeID": 97976,
+    "materialTypeID": 34,
+    "quantity": 13333
+  },
+  {
+    "typeID": 97976,
+    "materialTypeID": 35,
+    "quantity": 14444
+  },
+  {
+    "typeID": 97976,
+    "materialTypeID": 36,
+    "quantity": 61
+  },
+  {
+    "typeID": 97976,
+    "materialTypeID": 37,
+    "quantity": 2
+  },
+  {
+    "typeID": 97976,
+    "materialTypeID": 38,
+    "quantity": 2
+  },
+  {
+    "typeID": 97976,
+    "materialTypeID": 40,
+    "quantity": 2
+  },
+  {
+    "typeID": 97982,
+    "materialTypeID": 34,
+    "quantity": 763
+  },
+  {
+    "typeID": 97982,
+    "materialTypeID": 35,
+    "quantity": 321
+  },
+  {
+    "typeID": 97982,
+    "materialTypeID": 36,
+    "quantity": 412
+  },
+  {
+    "typeID": 97982,
+    "materialTypeID": 40,
+    "quantity": 2
+  },
+  {
+    "typeID": 98142,
+    "materialTypeID": 34,
+    "quantity": 246000
+  },
+  {
+    "typeID": 98142,
+    "materialTypeID": 35,
+    "quantity": 5111
+  },
+  {
+    "typeID": 98142,
+    "materialTypeID": 37,
+    "quantity": 3556
+  },
+  {
+    "typeID": 98142,
+    "materialTypeID": 39,
+    "quantity": 1840
+  },
+  {
+    "typeID": 98142,
+    "materialTypeID": 40,
+    "quantity": 120
+  },
+  {
+    "typeID": 98142,
+    "materialTypeID": 2867,
+    "quantity": 10
+  },
+  {
+    "typeID": 98142,
+    "materialTypeID": 2870,
+    "quantity": 2
+  },
+  {
+    "typeID": 98142,
+    "materialTypeID": 2872,
+    "quantity": 4
+  },
+  {
+    "typeID": 98142,
+    "materialTypeID": 2875,
+    "quantity": 4
+  },
+  {
+    "typeID": 98142,
+    "materialTypeID": 2876,
+    "quantity": 4
+  },
+  {
+    "typeID": 98142,
+    "materialTypeID": 9834,
+    "quantity": 8
+  },
+  {
+    "typeID": 98168,
+    "materialTypeID": 34,
+    "quantity": 840
+  },
+  {
+    "typeID": 98168,
+    "materialTypeID": 35,
+    "quantity": 183
+  },
+  {
+    "typeID": 98168,
+    "materialTypeID": 36,
+    "quantity": 470
+  },
+  {
+    "typeID": 98168,
+    "materialTypeID": 37,
+    "quantity": 4
+  },
+  {
+    "typeID": 98168,
+    "materialTypeID": 40,
+    "quantity": 4
   }
 ]
