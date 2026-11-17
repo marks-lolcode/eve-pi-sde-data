@@ -458571,7 +458571,7 @@
     "typeID": 97512,
     "name": "Aberrant Raspite",
     "groupID": 18,
-    "volume": 0.01,
+    "volume": 0.001,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
@@ -458580,7 +458580,7 @@
     "typeID": 97513,
     "name": "Aberrant Polycrase",
     "groupID": 18,
-    "volume": 0.01,
+    "volume": 0.001,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
@@ -458589,7 +458589,7 @@
     "typeID": 97514,
     "name": "Aberrant Moissanite",
     "groupID": 18,
-    "volume": 0.01,
+    "volume": 0.001,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
@@ -458598,7 +458598,7 @@
     "typeID": 97515,
     "name": "Aberrant Kangite",
     "groupID": 18,
-    "volume": 0.01,
+    "volume": 0.001,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
@@ -458652,7 +458652,7 @@
     "typeID": 97544,
     "name": "Thermoelectric Flux Log",
     "groupID": 1194,
-    "volume": 0.1,
+    "volume": 0.01,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
@@ -458661,7 +458661,7 @@
     "typeID": 97545,
     "name": "Shield Failover Report",
     "groupID": 1194,
-    "volume": 0.1,
+    "volume": 0.01,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
@@ -458670,7 +458670,7 @@
     "typeID": 97546,
     "name": "Rogue Anoikis Telemetry",
     "groupID": 1194,
-    "volume": 0.1,
+    "volume": 0.01,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
@@ -458679,7 +458679,7 @@
     "typeID": 97547,
     "name": "Stereo-Collapse Signal",
     "groupID": 1194,
-    "volume": 0.1,
+    "volume": 0.01,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
@@ -458688,7 +458688,7 @@
     "typeID": 97548,
     "name": "Republic Strategic Intel",
     "groupID": 1194,
-    "volume": 0.1,
+    "volume": 0.01,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
@@ -458697,7 +458697,7 @@
     "typeID": 97549,
     "name": "Federation Strategic Intel",
     "groupID": 1194,
-    "volume": 0.1,
+    "volume": 0.01,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
@@ -458706,7 +458706,7 @@
     "typeID": 97550,
     "name": "State Strategic Intel",
     "groupID": 1194,
-    "volume": 0.1,
+    "volume": 0.01,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
@@ -458715,7 +458715,7 @@
     "typeID": 97551,
     "name": "Imperial Strategic Intel",
     "groupID": 1194,
-    "volume": 0.1,
+    "volume": 0.01,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
@@ -458724,7 +458724,7 @@
     "typeID": 97552,
     "name": "Hyperspherical Housing",
     "groupID": 1194,
-    "volume": 0.1,
+    "volume": 0.01,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
@@ -458733,7 +458733,7 @@
     "typeID": 97553,
     "name": "Hyper-Field Projector",
     "groupID": 1194,
-    "volume": 0.1,
+    "volume": 0.01,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
@@ -458742,7 +458742,7 @@
     "typeID": 97554,
     "name": "Pulse-Mimic Circuitry",
     "groupID": 1194,
-    "volume": 0.1,
+    "volume": 0.01,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
@@ -458751,7 +458751,7 @@
     "typeID": 97555,
     "name": "Hyper-Step Connector",
     "groupID": 1194,
-    "volume": 0.1,
+    "volume": 0.01,
     "published": true,
     "portionSize": 1,
     "metaGroupID": 1
