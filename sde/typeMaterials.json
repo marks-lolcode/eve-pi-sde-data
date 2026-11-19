@@ -237728,5 +237728,20 @@
     "typeID": 98168,
     "materialTypeID": 40,
     "quantity": 4
+  },
+  {
+    "typeID": 98845,
+    "materialTypeID": 34,
+    "quantity": 776
+  },
+  {
+    "typeID": 98845,
+    "materialTypeID": 35,
+    "quantity": 713
+  },
+  {
+    "typeID": 98845,
+    "materialTypeID": 36,
+    "quantity": 476
   }
 ]

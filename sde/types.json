@@ -460945,7 +460945,7 @@
   },
   {
     "typeID": 97955,
-    "name": "Imperial Navy Stasis Webifier",
+    "name": "Compact Imperial Navy Stasis Webifier",
     "groupID": 65,
     "volume": 5.0,
     "published": true,
@@ -461224,7 +461224,7 @@
   },
   {
     "typeID": 97995,
-    "name": "Imperial Navy Stasis Webifier Blueprint",
+    "name": "Compact Imperial Navy Stasis Webifier Blueprint",
     "groupID": 145,
     "volume": 0.01,
     "published": true,
@@ -462537,6 +462537,69 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 98599,
+    "name": "Succubus Empyrean Outlaws SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98600,
+    "name": "Phantasm Empyrean Outlaws SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98601,
+    "name": "Nightmare Empyrean Outlaws SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98602,
+    "name": "Immolator Empyrean Outlaws SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98603,
+    "name": "Zirnitra Empyrean Outlaws SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98604,
+    "name": "Drekavac Empyrean Outlaws SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98605,
+    "name": "Kikimora Empyrean Outlaws SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 98650,
     "name": "Oracle Navy Issue Mandate of Faith SKIN",
     "groupID": 1950,
@@ -462573,6 +462636,69 @@
     "metaGroupID": 1
   },
   {
+    "typeID": 98655,
+    "name": "Malediction Copper Lightning SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98656,
+    "name": "Gaia Copper Lightning SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98657,
+    "name": "Ibis Copper Lightning SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98658,
+    "name": "Pioneer Copper Lightning SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98659,
+    "name": "Orthrus Copper Lightning SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98660,
+    "name": "Barghest Copper Lightning SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 98661,
+    "name": "Gnosis Copper Lightning SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
     "typeID": 98700,
     "name": "Non Interactable Wrecked Prospector Ship",
     "groupID": 1975,
@@ -462580,6 +462706,24 @@
     "published": false,
     "portionSize": 1,
     "metaGroupID": 1
+  },
+  {
+    "typeID": 98845,
+    "name": "Imperial Navy Stasis Webifier",
+    "groupID": 65,
+    "volume": 5.0,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
+  },
+  {
+    "typeID": 98846,
+    "name": "Imperial Navy Stasis Webifier Blueprint",
+    "groupID": 145,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 4
   },
   {
     "typeID": 350916,
