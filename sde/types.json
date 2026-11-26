@@ -461557,7 +461557,7 @@
   },
   {
     "typeID": 98168,
-    "name": "Conquest Salvager",
+    "name": "Sver's Modified Salvager",
     "groupID": 1122,
     "volume": 5.0,
     "published": true,
@@ -462724,6 +462724,168 @@
     "published": true,
     "portionSize": 1,
     "metaGroupID": 4
+  },
+  {
+    "typeID": 99036,
+    "name": "22nd Alliance Tournament: Deteriorated",
+    "groupID": 4100,
+    "volume": 0,
+    "published": false,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 99213,
+    "name": "Oracle Navy Issue Frost Thorn SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 99214,
+    "name": "Coercer Navy Issue Frost Thorn SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 99215,
+    "name": "Naga Navy Issue Frost Thorn SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 99216,
+    "name": "Cormorant Navy Issue Frost Thorn SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 99217,
+    "name": "Talos Navy Issue Frost Thorn SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 99218,
+    "name": "Catalyst Navy Issue Frost Thorn SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 99219,
+    "name": "Tornado Fleet Issue Frost Thorn SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 99220,
+    "name": "Thrasher Fleet Issue Frost Thorn SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 99265,
+    "name": "Sigil Mabebu Exchange SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 99266,
+    "name": "Impel Mabebu Exchange SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 99267,
+    "name": "Badger Mabebu Exchange SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 99268,
+    "name": "Crane Mabebu Exchange SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 99269,
+    "name": "Iteron Mark V Mabebu Exchange SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 99270,
+    "name": "Nereus Mabebu Exchange SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 99271,
+    "name": "Prowler Mabebu Exchange SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 99272,
+    "name": "Wreathe Mabebu Exchange SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
+  },
+  {
+    "typeID": 99273,
+    "name": "Avalanche Mabebu Exchange SKIN",
+    "groupID": 1950,
+    "volume": 0.01,
+    "published": true,
+    "portionSize": 1,
+    "metaGroupID": 1
   },
   {
     "typeID": 350916,
